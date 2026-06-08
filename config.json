@@ -1,8 +1,10 @@
 {
   "minimumVersion": "1.0.1",
   "url" : "https://canalesdeportivos.net/",
-  "web": "https://deportetvapp.github.io/download/",
-  "mail":"deportetvapp@proton.me"
+  "bolaUrl":"https://bolaloca.my/",
+  "web": "https://deportetvapp.github.io/download/",  
+  "mail":"deportetvapp@proton.me",
+  "message":"¡Atención! por el momento, algunos partidos se prenden minutos antes del evento."
 }
  
  
