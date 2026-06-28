@@ -4,7 +4,9 @@
   "bolaUrl":"https://bolaloca.my/",
   "web": "https://deportetvapp.github.io/download/",  
   "mail":"deportetvapp@proton.me",
-  "message":"¡Atención! por el momento, algunos partidos se prenden minutos antes del evento."
+  "message":"¡Atención! por el momento, algunos partidos se prenden minutos antes del evento.",
+  "m3uUrl": "https://raw.githubusercontent.com/deportetvapp/soccerTvConfig/main/canales_pelis.m3u"
+  
 }
  
  
