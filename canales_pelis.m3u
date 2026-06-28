@@ -1,0 +1,121 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="" group-title="News",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="" group-title="News",A24
+https://g5.vxral-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Series" tvg-logo="" group-title="Movies",AMC Series
+http://190.61.101.11:7050/play/a08r/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="AMÉRICA" tvg-logo="" group-title="General",AMÉRICA
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Argentinisima" tvg-logo="" group-title="General",Argentinisima
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="News",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="" group-title="General",Azteca 7
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Internacional" tvg-logo="" group-title="General",Azteca Internacional
+https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Junín" tvg-logo="" group-title="General",Canal 10 Junín
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Mar del Plata" tvg-logo="" group-title="General",Canal 10 Mar del Plata
+https://g2.proy-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Uruguayo" tvg-logo="" group-title="General",Canal 10 Uruguayo
+https://cdnw1.zetatv.com.uy/vod_cache/_definst_/vod_cache/amlst:94/294548/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal de la Ciudad" tvg-logo="" group-title="General",Canal de la Ciudad
+https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/gcba_video4-100042_240p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Luz" tvg-logo="" group-title="Religious",Canal Luz
+https://g2.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Provincial" tvg-logo="" group-title="News",Canal Provincial
+http://streaming.telered.com.ar/provincial/streaming/mystreamMed.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chacra TV" tvg-logo="" group-title="News",Chacra TV
+https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/chunklist_w2025152899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ChamameTV" tvg-logo="" group-title="Music",ChamameTV
+https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="" group-title="Movies",Cinecanal
+http://190.61.101.11:7050/play/a07a/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="" group-title="Entertainment",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cumbia Mix" tvg-logo="" group-title="Music",Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&amp;H" tvg-logo="" group-title="Documentary",Discovery H&amp;H
+http://8.243.126.131:8000/play/a069/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="Documentary",Discovery Science
+http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="" group-title="Documentary",Discovery Theater
+http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="" group-title="Documentary",Discovery TLC
+http://8.243.126.131:8000/play/a04t/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="Documentary",Discovery World
+http://8.243.126.131:8000/play/a05x/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
+http://190.61.101.11:7050/play/a05y/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="Kids",Disney JR
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="" group-title="General",Distrito TV
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports" tvg-logo="" group-title="Sports",DSports
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="News",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE" tvg-logo="" group-title="General",EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="" group-title="Movies",Europa Europa
+http://190.61.101.11:7050/play/a082/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="Religious",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="" group-title="News",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="" group-title="Sports",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="" group-title="General",Hola TV
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latele" tvg-logo="" group-title="Movies",Latele
+https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="" group-title="Animation",Los Simpsons
+http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/online-24-7_480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="Documentary",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/240p-cc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MiamiTV Fashion" tvg-logo="" group-title="Entertainment",MiamiTV Fashion
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MiamiTV Models" tvg-logo="" group-title="Entertainment",MiamiTV Models
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Música Top" tvg-logo="" group-title="Music",Música Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETTV" tvg-logo="" group-title="General",NETTV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orbe 21" tvg-logo="" group-title="Religious",Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1179893763_b2211840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN MÁS" tvg-logo="" group-title="General",RCN MÁS
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT en Español" tvg-logo="" group-title="News",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Novelas" tvg-logo="" group-title="Series",Sony Novelas
+https://teleon.tv/stream/cG5wODQ1NTkxMHBucDg0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony One The Blacklist" tvg-logo="" group-title="Series",Sony One The Blacklist
+https://teleon.tv/stream/cG5wODQ4NDc2MXBucDg0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="Entertainment",Star Channel
+http://190.61.101.11:7050/play/a077/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="Movies",Studio Universal
+http://24.152.53.3:8090/play/a01b/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="" group-title="General",TELEFE
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="Documentary",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Televida" tvg-logo="" group-title="General",Canal 9 Televida
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televida" tvg-logo="" group-title="General",Televida
+http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/canal9televida.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="" group-title="News",TN
+http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/tn_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Ciudad" tvg-logo="" group-title="General",TV Ciudad
+https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzgxMzUyODM5JnJhbmRvbT1BZWx0d1dmMDEzJmMtaXA9MTgxLjE3MC4xMzcuMTM5JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sZWE1YjRiYjUxNjU0MGNmNmJjOWNjZjFkOTg1OWM4YTdmMzEzMDZlZjllOTJkNDhjZWQ4ODg2Mjg2MjQ0YzI5Zg==/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var950000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="" group-title="Sports",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unife" tvg-logo="" group-title="General",Unife
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="" group-title="Movies",Universal Premiere
+http://190.61.101.11:7050/play/a06o/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="Entertainment",Warner
+http://190.61.101.11:7050/play/a078/index.m3u8?hls
