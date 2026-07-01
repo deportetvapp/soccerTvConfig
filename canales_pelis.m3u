@@ -583,3 +583,11 @@ http://8.243.126.131:8000/play/a025/index.m3u8?hls
 #EXTINF:-1 group-title="Kids",ZooMoo
 http://8.243.126.131:8000/play/a0li/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026" group-title="Sports" tvg-logo="", mundial 2026
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" group-title="Music"  tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1719" tvg-name="Retroclub"group-title="Music" tvg-logo="https://cdn.m3u.cl/logo/1719_Retroclub.png", Retroclub | AR
+https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" group-title="Movies" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
