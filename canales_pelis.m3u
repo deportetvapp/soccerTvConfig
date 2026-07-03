@@ -47,9 +47,9 @@ http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
 http://8.243.126.131:8000/play/a04t/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="Documentary",Discovery World
 http://8.243.126.131:8000/play/a05x/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="Animation",Disney Channel
 http://190.61.101.11:7050/play/a05y/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="Kids",Disney JR
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="Animation",Disney JR
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="" group-title="General",Distrito TV
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
@@ -184,7 +184,7 @@ http://8.243.126.131:8000/play/a051/index.m3u8?hls
 http://8.243.126.131:8000/play/a052/index.m3u8?hls
 #EXTINF:-1 group-title="Sports",32-ESPN PREMIUN HD
 http://8.243.126.131:8000/play/a053/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",33-TOONCAST
+#EXTINF:-1 group-title="Animation",33-TOONCAST
 http://8.243.126.131:8000/play/a054/index.m3u8?hls
 #EXTINF:-1 group-title="Documentary",34-DISCOVERY TURBO
 http://8.243.126.131:8000/play/a055/index.m3u8?hls
@@ -202,9 +202,9 @@ http://8.243.126.131:8000/play/a05c/index.m3u8?hls
 http://8.243.126.131:8000/play/a05d/index.m3u8?hls
 #EXTINF:-1 group-title="Sports",43-ESPN6 HD
 http://8.243.126.131:8000/play/a05e/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",44-NICK JUNIOR
+#EXTINF:-1 group-title="Animation",44-NICK JUNIOR
 http://8.243.126.131:8000/play/a05f/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",45-DISNEY JUNIOR
+#EXTINF:-1 group-title="Animation",45-DISNEY JUNIOR
 http://8.243.126.131:8000/play/a05g/index.m3u8?hls
 #EXTINF:-1 group-title="News",46-TNT HD
 http://8.243.126.131:8000/play/a05h/index.m3u8?hls
@@ -222,7 +222,7 @@ http://8.243.126.131:8000/play/a05m/index.m3u8?hls
 http://8.243.126.131:8000/play/a05n/index.m3u8?hls
 #EXTINF:-1 group-title="Movies",53-HBO2 HD
 http://8.243.126.131:8000/play/a05o/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",54-CARTOONITO
+#EXTINF:-1 group-title="Animation",54-CARTOONITO
 http://8.243.126.131:8000/play/a05p/index.m3u8?hls
 #EXTINF:-1 group-title="Sports",55-ESPN1
 http://8.243.126.131:8000/play/a05q/index.m3u8?hls
@@ -272,13 +272,13 @@ http://8.243.126.131:8000/play/a06b/index.m3u8?hls
 http://8.243.126.131:8000/play/a06c/index.m3u8?hls
 #EXTINF:-1 group-title="Entertainment",78-SPACE HD
 http://8.243.126.131:8000/play/a06d/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",79-BABYFIRST HD
+#EXTINF:-1 group-title="Animation",79-BABYFIRST HD
 http://8.243.126.131:8000/play/a06e/index.m3u8?hls
 #EXTINF:-1 group-title="Movies",80-HBO HD
 http://8.243.126.131:8000/play/a06j/index.m3u8?hls
 #EXTINF:-1 group-title="Sports",81-ESPN 5 HD 
 http://8.243.126.131:8000/play/a0jz/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",82 DISNEY CHANNEL
+#EXTINF:-1 group-title="Animation",82 DISNEY CHANNEL
 http://8.243.126.131:8000/play/a0m7/index.m3u8?hls
 #EXTINF:-1 group-title="General",A&E
 http://8.243.126.131:8000/play/a0g8/index.m3u8?hls
@@ -302,9 +302,9 @@ http://8.243.126.131:8000/play/a0fc/index.m3u8?hls
 http://8.243.126.131:8000/play/a0fh/index.m3u8?hls
 #EXTINF:-1 group-title="General",Azmundo
 http://8.243.126.131:8000/play/a0g5/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",Baby First
+#EXTINF:-1 group-title="Animation",Baby First
 http://8.243.126.131:8000/play/a0jo/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",CARTOON NETWORK HD
+#EXTINF:-1 group-title="Animation",CARTOON NETWORK HD
 http://8.243.126.131:8000/play/a0f2/index.m3u8?hls
 #EXTINF:-1 group-title="Movies",CINECANAL HD
 http://8.243.126.131:8000/play/a0gj/index.m3u8?hls
@@ -330,7 +330,7 @@ http://8.243.126.131:8000/play/a0f1/index.m3u8?hls
 http://8.243.126.131:8000/play/a0of/index.m3u8?hls
 #EXTINF:-1 group-title="General",Caracol
 http://8.243.126.131:8000/play/a0le/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",Cartoonito
+#EXTINF:-1 group-title="Animation",Cartoonito
 http://8.243.126.131:8000/play/a0o9/index.m3u8?hls
 #EXTINF:-1 group-title="Movies",Cine Latino
 http://8.243.126.131:8000/play/a0gu/index.m3u8?hls
@@ -378,9 +378,9 @@ http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
 http://8.243.126.131:8000/play/a0go/index.m3u8?hls
 #EXTINF:-1 group-title="Documentary",Discovery World HD
 http://8.243.126.131:8000/play/a0da/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",Disney Channel
+#EXTINF:-1 group-title="Animation",Disney Channel
 http://8.243.126.131:8000/play/a0gn/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",Disney Jr.
+#EXTINF:-1 group-title="Animation",Disney Jr.
 http://8.243.126.131:8000/play/a0oj/index.m3u8?hls
 #EXTINF:-1 group-title="General",E!
 http://8.243.126.131:8000/play/a0g7/index.m3u8?hls
@@ -490,13 +490,13 @@ http://8.243.126.131:8000/play/a0oe/index.m3u8?hls
 http://8.243.126.131:8000/play/a0jx/index.m3u8?hls
 #EXTINF:-1 group-title="Documentary",Nat Geo HD
 http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",Nick Jr.
+#EXTINF:-1 group-title="Animation",Nick Jr.
 http://8.243.126.131:8000/play/a0oh/index.m3u8?hls
 #EXTINF:-1 group-title="General",Pasiones HD
 http://8.243.126.131:8000/play/a0db/index.m3u8?hls
 #EXTINF:-1 group-title="General",Playboy
 http://8.243.126.131:8000/play/a0f8/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",Plim Plim TV
+#EXTINF:-1 group-title="Animation",Plim Plim TV
 http://8.243.126.131:8000/play/a0od/index.m3u8?hls
 #EXTINF:-1 group-title="Series",RCN Novelas
 http://8.243.126.131:8000/play/a0jp/index.m3u8?hls
@@ -556,7 +556,7 @@ http://8.243.126.131:8000/play/a0og/index.m3u8?hls
 http://8.243.126.131:8000/play/a0ew/index.m3u8?hls
 #EXTINF:-1 group-title="Sports",Tigo Sports HD
 http://8.243.126.131:8000/play/a0ih/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",Tooncast
+#EXTINF:-1 group-title="Animation",Tooncast
 http://8.243.126.131:8000/play/a0g4/index.m3u8?hls
 #EXTINF:-1 group-title="Movies",UNIVERSAL CINEMA ESTE HD
 http://8.243.126.131:8000/play/a0de/index.m3u8?hls
@@ -580,8 +580,9 @@ http://8.243.126.131:8000/play/a0jy/index.m3u8?hls
 http://8.243.126.131:8000/play/a0gh/index.m3u8?hls
 #EXTINF:-1 group-title="Sports",Win Sports+
 http://8.243.126.131:8000/play/a025/index.m3u8?hls
-#EXTINF:-1 group-title="Kids",ZooMoo
+#EXTINF:-1 group-title="Animation",ZooMoo
 http://8.243.126.131:8000/play/a0li/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="" tvg-name="Mundial 2026" group-title="Sports" tvg-logo="", mundial 2026
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" group-title="Music"  tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
@@ -610,8 +611,12 @@ https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0
 #EXTINF:-1 tvg-id="" tvg-name="Energeek Fan" tvg-logo="https://energeek.cl/wp-content/uploads/2022/10/Energeek-Fan.png" group-title="Anime", Energeek Fan
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
 
-#EXTINF:-1 tvg-id="" tvg-name="Dreiko TV" group-title="Kids" tvg-logo="https://i.imgur.com/vH97Z9P.png", Dreiko TV
+#EXTINF:-1 tvg-id="" tvg-name="Dreiko TV" group-title="Animation" tvg-logo="https://i.imgur.com/vH97Z9P.png", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://i.imgur.com/rU1fKqI.png" group-title="Anime", El Chavo del 8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports",ESPN
+http://190.108.83.69:8000/play/a05v/index.m3u8
