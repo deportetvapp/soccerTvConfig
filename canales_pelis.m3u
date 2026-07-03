@@ -601,3 +601,17 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV House Floor (1080p)
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Neo Go Go Play Mix" group-title="Anime" tvg-logo="", Neo Go Go Play Mix
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Energeek Retro" tvg-logo="https://energeek.cl/wp-content/uploads/2022/10/Energeek-Retro.png" group-title="Anime", Energeek Retro
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+
+#EXTINF:-1 tvg-id="" tvg-name="Energeek Fan" tvg-logo="https://energeek.cl/wp-content/uploads/2022/10/Energeek-Fan.png" group-title="Anime", Energeek Fan
+https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+
+#EXTINF:-1 tvg-id="" tvg-name="Dreiko TV" group-title="Kids" tvg-logo="https://i.imgur.com/vH97Z9P.png", Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://i.imgur.com/rU1fKqI.png" group-title="Anime", El Chavo del 8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
