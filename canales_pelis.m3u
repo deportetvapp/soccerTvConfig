@@ -5,9 +5,9 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://g5.vxral-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC Series" tvg-logo="" group-title="Series",AMC Series
 http://190.61.101.11:7050/play/a08r/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="AMÉRICA" tvg-logo="" group-title="General",AMÉRICA
+#EXTINF:-1 tvg-id="" tvg-name="AMÉRICA" tvg-logo="" group-title="Argentina",AMÉRICA
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentinisima" tvg-logo="" group-title="General",Argentinisima
+#EXTINF:-1 tvg-id="" tvg-name="Argentinisima" tvg-logo="" group-title="Argentina",Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="General",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
@@ -17,7 +17,7 @@ https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-491
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 10 Junín" tvg-logo="" group-title="General",Canal 10 Junín
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Mar del Plata" tvg-logo="" group-title="General",Canal 10 Mar del Plata
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Mar del Plata" tvg-logo="" group-title="Argentina",Canal 10 Mar del Plata
 https://g2.proy-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 10 Uruguayo" tvg-logo="" group-title="General",Canal 10 Uruguayo
 https://cdnw1.zetatv.com.uy/vod_cache/_definst_/vod_cache/amlst:94/294548/playlist.m3u8
@@ -97,18 +97,18 @@ https://teleon.tv/stream/cG5wODQ4NDc2MXBucDg0.m3u8
 http://190.61.101.11:7050/play/a077/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
 http://24.152.53.3:8090/play/a01b/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="" group-title="General",TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="" group-title="Argentina",TELEFE
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="General",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Televida" tvg-logo="" group-title="General",Canal 9 Televida
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Televida" tvg-logo="" group-title="Argentina",Canal 9 Televida
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televida" tvg-logo="" group-title="General",Televida
-http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/canal9televida.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="" group-title="News",TN
-http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/tn_720.m3u8
+#EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="Argentina",TN Todo Noticias Ⓨ
+https://www.youtube.com/c/todonoticias/live
+#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="Argentina",Crónica TV Ⓨ
+https://www.youtube.com/c/cronicatv/live
 #EXTINF:-1 tvg-id="" tvg-name="TV Ciudad" tvg-logo="" group-title="General",TV Ciudad
 https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzgxMzUyODM5JnJhbmRvbT1BZWx0d1dmMDEzJmMtaXA9MTgxLjE3MC4xMzcuMTM5JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sZWE1YjRiYjUxNjU0MGNmNmJjOWNjZjFkOTg1OWM4YTdmMzEzMDZlZjllOTJkNDhjZWQ4ODg2Mjg2MjQ0YzI5Zg==/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var950000/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="" group-title="Sports",TyC Sports
@@ -120,6 +120,19 @@ http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="Entertainment",Warner
 http://190.61.101.11:7050/play/a078/index.m3u8?hls
 
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar" tvg-chno="33.1" tvg-country="AR" group-title="Argentina",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" tvg-chno="35.1" tvg-country="AR" group-title="Argentina",El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" tvg-chno="34.1" tvg-country="AR" group-title="Argentina",Telefe Ⓨ
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" tvg-chno="36.1" tvg-country="AR" group-title="Argentina",América Ⓨ
+https://www.youtube.com/c/americaenvivo/live
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-chno="36.2" tvg-country="AR" group-title="Argentina",A24 Ⓨ
+https://www.youtube.com/c/A24com/live
+#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" group-title="Argentina",C5N Ⓨ
+https://www.youtube.com/c/c5n/live
+#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https:
 
 #EXTM3U
 #EXTINF:-1 group-title="General",01-LATINA HD
