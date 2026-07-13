@@ -61,7 +61,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="" group-title="General",Europa Europa
 http://190.61.101.11:7050/play/a082/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" group-title="News",EWTN
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="News",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="" group-title="News",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
@@ -189,7 +189,7 @@ http://8.243.126.131:8000/play/a04x/index.m3u8?hls
 http://8.243.126.131:8000/play/a04y/index.m3u8?hls
 #EXTINF:-1 group-title="News",28-STINGRAY CONCERT
 http://8.243.126.131:8000/play/a04z/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" group-title="Series",29-TNT NOVELAS 
+#EXTINF:-1 tvg-logo="" group-title="Series",29-TNT NOVELAS 
 http://8.243.126.131:8000/play/a050/index.m3u8?hls
 #EXTINF:-1 group-title="General",30-MEGA
 http://8.243.126.131:8000/play/a051/index.m3u8?hls
@@ -219,7 +219,7 @@ http://8.243.126.131:8000/play/a05e/index.m3u8?hls
 http://8.243.126.131:8000/play/a05f/index.m3u8?hls
 #EXTINF:-1 group-title="Animation",45-DISNEY JUNIOR
 http://8.243.126.131:8000/play/a05g/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" group-title="News",46-TNT HD
+#EXTINF:-1 tvg-logo="" group-title="News",46-TNT HD
 http://8.243.126.131:8000/play/a05h/index.m3u8?hls
 #EXTINF:-1 group-title="General",47-CN 
 http://8.243.126.131:8000/play/a05i/index.m3u8?hls
@@ -541,15 +541,15 @@ http://8.243.126.131:8000/play/a0ka/index.m3u8?hls
 http://8.243.126.131:8000/play/a0gc/index.m3u8?hls
 #EXTINF:-1 group-title="Documentary",TLC
 http://8.243.126.131:8000/play/a0ja/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" group-title="News",TNT HD
+#EXTINF:-1 tvg-logo="" group-title="News",TNT HD
 http://8.243.126.131:8000/play/a0ij/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" group-title="Series",TNT Novelas HD
+#EXTINF:-1 tvg-logo="" group-title="Series",TNT Novelas HD
 http://8.243.126.131:8000/play/a0om/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" group-title="Sports",TNT SPORTS
+#EXTINF:-1 tvg-logo="" group-title="Sports",TNT SPORTS
 http://8.243.126.131:8000/play/a0nr/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" group-title="Series",TNT Series HD
+#EXTINF:-1 tvg-logo="" group-title="Series",TNT Series HD
 http://8.243.126.131:8000/play/a0d8/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" group-title="Sports",TNT Sports Premiun HD
+#EXTINF:-1 tvg-logo="" group-title="Sports",TNT Sports Premiun HD
 http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
 #EXTINF:-1 group-title="General",TV Familia
 http://8.243.126.131:8000/play/a0j9/index.m3u8?hls
@@ -638,10 +638,10 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Neo Go Go Play Mix" group-title="Anime" tvg-logo="", Neo Go Go Play Mix
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Energeek Retro" tvg-logo="https://energeek.cl/wp-content/uploads/2022/10/Energeek-Retro.png" group-title="Anime", Energeek Retro
+#EXTINF:-1 tvg-id="" tvg-name="Energeek Retro" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" group-title="Anime", Energeek Retro
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
 
-#EXTINF:-1 tvg-id="" tvg-name="Energeek Fan" tvg-logo="https://energeek.cl/wp-content/uploads/2022/10/Energeek-Fan.png" group-title="Anime", Energeek Fan
+#EXTINF:-1 tvg-id="" tvg-name="Energeek Fan" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" group-title="Anime", Energeek Fan
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
 
 #EXTINF:-1 tvg-id="" tvg-name="Dreiko TV" group-title="Animation" tvg-logo="https://i.imgur.com/vH97Z9P.png", Dreiko TV
