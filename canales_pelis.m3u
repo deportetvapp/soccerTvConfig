@@ -597,21 +597,21 @@ http://8.243.126.131:8000/play/a025/index.m3u8?hls
 http://8.243.126.131:8000/play/a0li/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="",group-title="Movies", Run Time Latino
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_mexico_latam_1400x2000.jpg",group-title="Movies", Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1 tvg-logo="",group-title="Movies", Run Time Films
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_mexico_latam_1400x2000.jpg",group-title="Movies", Run Time Films
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="",group-title="Movies", Run Time Familia
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_family_latam_1400x2000.jpg",group-title="Movies", Run Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-#EXTINF:-1 tvg-logo="",group-title="Movies", Run Time Terror
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/cinespanto_latam_1400x2000.jpg",group-title="Movies", Run Time Terror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1 tvg-logo="",group-title="Movies", Run Time Romance
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_romance_latam_1400x2000.jpg",group-title="Movies", Run Time Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
-#EXTINF:-1 tvg-logo="",group-title="Movies", Run Time Crimen
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_crime_latam_1400x2000.jpg",group-title="Movies", Run Time Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
-#EXTINF:-1 tvg-logo="",group-title="Movies", Run Time Comedia
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_las_comedy_bg.jpg",group-title="Movies", Run Time Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:-1 tvg-logo="",group-title="Movies", Run Time Acción
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_action_latam_1400x2000.jpg",group-title="Movies", Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=255
 
 
