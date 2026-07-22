@@ -507,7 +507,7 @@ http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
 http://8.243.126.131:8000/play/a0oh/index.m3u8?hls
 #EXTINF:-1 group-title="General",Pasiones HD
 http://8.243.126.131:8000/play/a0db/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/playboy.png" group-title="General",Playboy
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/playboy.png" group-title="Adultos",Playboy
 http://8.243.126.131:8000/play/a0f8/index.m3u8?hls
 #EXTINF:-1 group-title="Animation",Plim Plim TV
 http://8.243.126.131:8000/play/a0od/index.m3u8?hls
@@ -587,7 +587,7 @@ http://8.243.126.131:8000/play/a0is/index.m3u8?hls
 http://8.243.126.131:8000/play/a0gt/index.m3u8?hls
 #EXTINF:-1 group-title="General",Univision HD
 http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/venus.png" group-title="General",VENUS
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/venus.png" group-title="Adultos",VENUS
 http://8.243.126.131:8000/play/a0jy/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/warner.png" group-title="Entertainment",WARNER HD
 http://8.243.126.131:8000/play/a0gh/index.m3u8?hls
@@ -639,10 +639,10 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Energeek Retro" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" group-title="Anime", Energeek Retro
-https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="" tvg-name="Energeek Fan" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" group-title="Anime", Energeek Fan
-https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="" tvg-name="Dreiko TV" group-title="Animation" tvg-logo="https://i.imgur.com/vH97Z9P.png", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
