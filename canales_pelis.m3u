@@ -507,7 +507,7 @@ http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
 http://8.243.126.131:8000/play/a0oh/index.m3u8?hls
 #EXTINF:-1 group-title="General",Pasiones HD
 http://8.243.126.131:8000/play/a0db/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/playboy.png" group-title="Adultos",Playboy
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/playboy.png" group-title="XXX",Playboy
 http://8.243.126.131:8000/play/a0f8/index.m3u8?hls
 #EXTINF:-1 group-title="Animation",Plim Plim TV
 http://8.243.126.131:8000/play/a0od/index.m3u8?hls
@@ -587,7 +587,7 @@ http://8.243.126.131:8000/play/a0is/index.m3u8?hls
 http://8.243.126.131:8000/play/a0gt/index.m3u8?hls
 #EXTINF:-1 group-title="General",Univision HD
 http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/venus.png" group-title="Adultos",VENUS
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/venus.png" group-title="XXX",VENUS
 http://8.243.126.131:8000/play/a0jy/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/warner.png" group-title="Entertainment",WARNER HD
 http://8.243.126.131:8000/play/a0gh/index.m3u8?hls
