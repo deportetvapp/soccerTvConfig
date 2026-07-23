@@ -72,7 +72,7 @@ https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/mas
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/latele.png" tvg-id="" tvg-name="Latele" tvg-logo="" group-title="General",Latele
 https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/los-simpsons.png" tvg-id="" tvg-name="Los Simpsons" tvg-logo="" group-title="Anime",Los Simpsons
-http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/online-24-7_480.m3u8
+http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/love-nature.png" tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="Documentary",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/240p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/miami-tv-fashion.png" tvg-id="" tvg-name="MiamiTV Fashion" tvg-logo="" group-title="General",MiamiTV Fashion
@@ -638,6 +638,9 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Neo Go Go Play Mix" group-title="Anime" tvg-logo="", Neo Go Go Play Mix
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="GOGOPLAY" group-title="Anime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gogoplay_TV.jpg", Neo Go Go Play Mix
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Energeek Retro" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" group-title="Anime", Energeek Retro
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 
@@ -653,3 +656,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://pelisjuanita.com/tv/logos/espn.png" group-title="Sports",ESPN
 http://190.108.83.69:8000/play/a05v/index.m3u8
+
+
+#EXTINF:-1 tvg-id="4" tvg-name="Retro TV" group-title="Music"  tvg-logo="https://images.sftcdn.net/images/t_app-cover-s-16-9,f_auto/p/6511e82e-ee50-440e-9709-f6f192c987f2/2073027423/retro-music-television-screenshot", Retro TV
+http://181.209.91.106:2222/Live/2747d400c336a4f75779b7ff29c02074/retro_540.m3u8
