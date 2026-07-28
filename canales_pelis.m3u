@@ -1461,6 +1461,8 @@ http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
 http://192.99.38.174:9342/stream
 #EXTINF:-1 tvg-id="" tvg-name="Cadena 3" tvg-logo="" group-title="Radio",Cadena 3
 https://24373.live.streamtheworld.com/RADIO3.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nihuil" tvg-logo="" group-title="Radio",Radio Nihuil
+https://playerservices.streamtheworld.com/api/livestream-redirect/NIHUIL_AM680.mp3
 # FIN RADIO
 
 #Interior
