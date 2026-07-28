@@ -1446,19 +1446,17 @@ https://www.youtube.com/watch?v=9G0BtLy8cFI
 #EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="" group-title="Radio",Radio 10
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio La Red" tvg-logo="" group-title="Radio",Radio La Red
-https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/amlared/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="Radio Con Vos" tvg-logo="" group-title="Radio",Radio Con Vos
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Mitre" tvg-logo="" group-title="Radio",Radio Mitre
-https://buecrplb01.cienradios.com.ar/Mitre790.aac
+https://radio.eduneu.eu:8040/radio.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="" group-title="Radio",Radio Rivadavia
-https://streammax.alsolnet.com/radiorivadavia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="Radio Continental" tvg-logo="" group-title="Radio",Radio Continental
-http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL_SC
+https://frontend.radiohdvivo.com/continental/live
 #EXTINF:-1 tvg-id="" tvg-name="Radio Nacional" tvg-logo="" group-title="Radio",Radio Nacional
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
-#EXTINF:-1 tvg-id="" tvg-name="AM 750" tvg-logo="" group-title="Radio",AM 750
-http://192.99.38.174:9342/stream
 #EXTINF:-1 tvg-id="" tvg-name="Cadena 3" tvg-logo="" group-title="Radio",Cadena 3
 https://24373.live.streamtheworld.com/RADIO3.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Radio Nihuil" tvg-logo="" group-title="Radio",Radio Nihuil
