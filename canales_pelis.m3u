@@ -1461,6 +1461,12 @@ http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
 https://24373.live.streamtheworld.com/RADIO3.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Radio Nihuil" tvg-logo="" group-title="Radio",Radio Nihuil
 https://playerservices.streamtheworld.com/api/livestream-redirect/NIHUIL_AM680.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio LT7" tvg-logo="" group-title="Radio",Radio LT7
+https://turadioenvivo.com/proxy/radiolt7/stream
+#EXTINF:-1 tvg-id="" tvg-name="Aspen" tvg-logo="" group-title="Radio",Aspen
+https://sslstream.online:7001/stream
+#EXTINF:-1 tvg-id="" tvg-name="LV12" tvg-logo="" group-title="Radio",LV12
+https://streams.programmes-radio.com/?k=Gret27&stream=http://s1.radiosnethosting.com:8032/stream
 # FIN RADIO
 
 #Interior
