@@ -1431,6 +1431,38 @@ https://www.youtube.com/watch?v=IXdA_UsCwig
 https://www.youtube.com/watch?v=DKkSxSLgZH4
 # FIN STREAM
 
+#Música
+#EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="" group-title="Música",Metal 24/7
+https://www.youtube.com/watch?v=3LWMFjRZQ6k
+#EXTINF:-1 tvg-id="" tvg-name="Synthwave Music" tvg-logo="" group-title="Música",Synthwave Music
+https://www.youtube.com/watch?v=GcgXLSFKJNQ
+#EXTINF:-1 tvg-id="" tvg-name="Chiptune.FM" tvg-logo="" group-title="Música",Chiptune.FM
+https://www.youtube.com/watch?v=9duv1i593QI
+#EXTINF:-1 tvg-id="" tvg-name="Jazz 24/7" tvg-logo="" group-title="Música",Jazz 24/7
+https://www.youtube.com/watch?v=9G0BtLy8cFI
+# FIN MÚSICA
+
+#Radio
+#EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="" group-title="Radio",Radio 10
+https://radio10.stweb.tv/radio10/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio La Red" tvg-logo="" group-title="Radio",Radio La Red
+https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/amlared/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Con Vos" tvg-logo="" group-title="Radio",Radio Con Vos
+https://server1.stweb.tv/rcvos/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mitre" tvg-logo="" group-title="Radio",Radio Mitre
+https://buecrplb01.cienradios.com.ar/Mitre790.aac
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="" group-title="Radio",Radio Rivadavia
+https://streammax.alsolnet.com/radiorivadavia
+#EXTINF:-1 tvg-id="" tvg-name="Radio Continental" tvg-logo="" group-title="Radio",Radio Continental
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL_SC
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nacional" tvg-logo="" group-title="Radio",Radio Nacional
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:-1 tvg-id="" tvg-name="AM 750" tvg-logo="" group-title="Radio",AM 750
+http://192.99.38.174:9342/stream
+#EXTINF:-1 tvg-id="" tvg-name="Cadena 3" tvg-logo="" group-title="Radio",Cadena 3
+https://24373.live.streamtheworld.com/RADIO3.mp3
+# FIN RADIO
+
 #Interior
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/canal-10-mar-del-plata.png" tvg-id="" tvg-name="Canal 10 Mar del Plata" tvg-logo="" group-title="Interior",Canal 10 Mar del Plata
 https://g2.proy-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
