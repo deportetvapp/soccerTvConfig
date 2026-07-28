@@ -1636,8 +1636,8 @@ https://mega.stweb.tv/mega983/live/playlist.m3u8
 # FIN RADIO
 
 # XXX
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/playboy.png" group-title="16 XXX",Playboy
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/playboy.png" group-title="XXX",Playboy
 http://8.243.126.131:8000/play/a0f8/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/venus.png" group-title="16 XXX",VENUS
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/venus.png" group-title="XXX",VENUS
 http://8.243.126.131:8000/play/a0jy/index.m3u8?hls
 # FIN XXX
