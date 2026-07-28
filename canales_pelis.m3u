@@ -574,7 +574,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 http://190.108.83.69:8000/play/a05v/index.m3u8
 
 
-#EXTINF:-1 tvg-id="4" tvg-name="Retro TV" group-title="Music"  tvg-logo="https://images.sftcdn.net/images/t_app-cover-s-16-9,f_auto/p/6511e82e-ee50-440e-9709-f6f192c987f2/2073027423/retro-music-television-screenshot", Retro TV
+#EXTINF:-1 tvg-id="4" tvg-logo="https://images.sftcdn.net/images/t_app-cover-s-16-9,f_auto/p/6511e82e-ee50-440e-9709-f6f192c987f2/2073027423/retro-music-television-screenshot", tvg-name="Retro TV" group-title="Music"  , Retro TV
 http://181.209.91.106:2222/Live/2747d400c336a4f75779b7ff29c02074/retro_540.m3u8
 
 
@@ -584,7 +584,7 @@ http://181.209.91.106:2222/Live/2747d400c336a4f75779b7ff29c02074/retro_540.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-id="AcequiaTV.ar" tvg-logo="https://i.imgur.com/RdGdMCj.png" group-title="General",Acequia TV (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Interior",Agrotendencia TV (1080p)
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVSpanish.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Spanish (720p)
@@ -654,7 +654,7 @@ https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Play
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="General",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Interior",Canal Rural (720p)
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Outdoor",Canal Rural (720p)
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="General",Canal Santa María (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
@@ -668,13 +668,13 @@ https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Interior",Chacra TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Outdoor",Chacra TV (480p) [Not 24/7]
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="General",Cinco TV (480p)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",CINE.AR (720p) [Not 24/7]
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="Interior",Ciudad Mágica (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="Outdoor",Ciudad Mágica (720p) [Not 24/7]
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://i.imgur.com/gwpETyS.png" group-title="Music" user-agent="iPhone",CM El Canal de la Música (720p)
 #EXTVLCOPT:http-user-agent=iPhone
@@ -852,7 +852,7 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 #EXTINF:-1 tvg-id="TangoTV.ar" tvg-logo="https://i.ibb.co/g6KXPgt/download-58.jpg" group-title="Music",Tango TV (720p)
 https://video.misistemareseller.com/8118/8118/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Lifestyle",Tastemade en Español (1080p)
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeloCuentoyQue.ar" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="General",Te Lo Cuento (360p)
 https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
