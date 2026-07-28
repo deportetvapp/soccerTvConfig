@@ -30,10 +30,12 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="01 Capital Federal",Rai Italia America
 http://210.210.155.69/s/s63/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="01 Capital Federal",Telefe
-https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+https://www.youtube.com/@telefe/live
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública (TVP) [Not 24/7]
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 # FIN CAPITAL FEDERAL
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="01 Capital Federal",El Trece
+https://regionales.saohgdasregions.fun/tvenvivo2.php?stream=4_&exp=1785268745&sig=fec55c6b804e25b37a62913d1e5a2d08f3dec06ced4ddfc6bce9d451faa63a97
 
 #Interior
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/argentinisima.png" tvg-id="" tvg-name="Argentinisima" tvg-logo="" group-title="02 Interior",Argentinisima
@@ -274,7 +276,7 @@ https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1 tvg-id="ElSelloTVMadariaga.ar" tvg-logo="https://elsellotv.com.ar/img/Logo500.png" group-title="02 Interior",El SelloTV Madariaga
 https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://i.imgur.com/yKb7nfP.png" group-title="02 Interior",El Siete Mendoza [Not 24/7]
-https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
+https://www.youtube.com/watch?v=Vh8xmLBJtR8
 #EXTINF:-1 tvg-id="FenixTV.ar" tvg-logo="https://i.imgur.com/wQ33T78.png" group-title="02 Interior",Fenix TV (Ciudad de La Rioja)
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="https://i.imgur.com/k2r7IeQ.png" group-title="02 Interior",La Voz de Tucumán
@@ -1129,7 +1131,7 @@ https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/directv-sports.png" tvg-id="" tvg-name="DSports" tvg-logo="" group-title="12 Deportes",DSports
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://pelisjuanita.com/tv/logos/tyc-sports.png" group-title="12 Deportes",TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+https://p2.domain761.sbs/tyc/index.m3u8?token=dbb0fac4e09401fba1f6a75d60c86e7387cbd471-a8-1785313794-1785259794&ip=186.122.2.187
 #EXTINF:-1 group-title="12 Deportes",MOVISTAR DEPORTE
 http://8.243.126.131:8000/play/a052/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png", group-title="12 Deportes",ESPN PREMIUN HD
