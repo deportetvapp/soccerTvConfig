@@ -1418,6 +1418,19 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 # FIN CAPITAL FEDERAL
 
+#Stream
+#EXTINF:-1 tvg-id="" tvg-name="Luzu Tv" tvg-logo="" group-title="Stream",Luzu Tv
+https://www.youtube.com/watch?v=gm3gYyTuNRA
+#EXTINF:-1 tvg-id="" tvg-name="Carnalval" tvg-logo="" group-title="Stream",Carnalval
+https://www.youtube.com/watch?v=RBsh9K7u5HY
+#EXTINF:-1 tvg-id="" tvg-name="Olga" tvg-logo="" group-title="Stream",Olga
+https://www.youtube.com/watch?v=4P44EonxOLE
+#EXTINF:-1 tvg-id="" tvg-name="Vorterix" tvg-logo="" group-title="Stream",Vorterix
+https://www.youtube.com/watch?v=IXdA_UsCwig
+#EXTINF:-1 tvg-id="" tvg-name="Picado" tvg-logo="" group-title="Stream",Picado
+https://www.youtube.com/watch?v=DKkSxSLgZH4
+# FIN STREAM
+
 #Interior
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/canal-10-mar-del-plata.png" tvg-id="" tvg-name="Canal 10 Mar del Plata" tvg-logo="" group-title="Interior",Canal 10 Mar del Plata
 https://g2.proy-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
