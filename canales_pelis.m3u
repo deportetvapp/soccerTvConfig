@@ -320,7 +320,6 @@ http://8.243.126.131:8000/play/a0oj/index.m3u8?hls
 http://8.243.126.131:8000/play/a0g7/index.m3u8?hls
 #EXTINF:-1 group-title="General",E! Entertairment HD
 http://8.243.126.131:8000/play/a0dz/index.m3u8?hls
-#EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="Sports",ESPN - MEXICO
 http://8.243.126.131:8000/play/a0gd/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn2.png",group-title="Sports",ESPN 2
 http://8.243.126.131:8000/play/a0ge/index.m3u8?hls
@@ -585,9 +584,8 @@ http://181.209.91.106:2222/Live/2747d400c336a4f75779b7ff29c02074/retro_540.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-id="AcequiaTV.ar" tvg-logo="https://i.imgur.com/RdGdMCj.png" group-title="General",Acequia TV (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Interior",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="Am1020.ar" tvg-logo="https://i.imgur.com/nEVKVZK.png" group-title="Music",Am1020 (360p) [Geo-blocked]
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVSpanish.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Spanish (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
@@ -615,7 +613,6 @@ https://live.canalnueve.tv/canal.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Music",Beats Radio (480p)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
 http://45.5.8.78:8000/play/a00i
 #EXTINF:-1 tvg-id="BVC.ar" tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="General",BVC (720p)
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
@@ -657,7 +654,7 @@ https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Play
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="General",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Outdoor",Canal Rural (720p)
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Interior",Canal Rural (720p)
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="General",Canal Santa María (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
@@ -671,13 +668,13 @@ https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Outdoor",Chacra TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Interior",Chacra TV (480p) [Not 24/7]
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="General",Cinco TV (480p)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",CINE.AR (720p) [Not 24/7]
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="Outdoor",Ciudad Mágica (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="Interior",Ciudad Mágica (720p) [Not 24/7]
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://i.imgur.com/gwpETyS.png" group-title="Music" user-agent="iPhone",CM El Canal de la Música (720p)
 #EXTVLCOPT:http-user-agent=iPhone
@@ -706,7 +703,6 @@ https://panel.dattalive.com/8066/8066/playlist.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="DiputadosTV.ar" tvg-logo="https://i.imgur.com/UscKOIc.png" group-title="Capital Federal",Diputados TV (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (480p) [Geo-blocked]
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Internacional",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -856,7 +852,7 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 #EXTINF:-1 tvg-id="TangoTV.ar" tvg-logo="https://i.ibb.co/g6KXPgt/download-58.jpg" group-title="Music",Tango TV (720p)
 https://video.misistemareseller.com/8118/8118/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Lifestyle",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeloCuentoyQue.ar" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="General",Te Lo Cuento (360p)
 https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
@@ -876,7 +872,6 @@ https://videohd.live:19360/8020/8020.m3u8
 https://panel.dattalive.com/8068/8068/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="General",Telenord (720p) [Not 24/7]
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesol.ar" tvg-logo="https://i.imgur.com/79sTxtP.png" group-title="General",Telesol (TLS) (432p) [Not 24/7] [Geo-blocked]
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Internacional",TeleSUR (1080p)
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
@@ -954,7 +949,6 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Movies",Xtrema Series (360p)
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-id="ZondaTV.ar" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png" group-title="General",Zonda TV [Geo-blocked]
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 
@@ -1325,12 +1319,6 @@ https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
 #EXTINF:-1 channel-id="60e45687313c5f0007bc8e94" tvg-id="60e45687313c5f0007bc8e94" tvg-chno="161" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="Pluto Tv",El encantador de perros
 
-#EXTINF:-1 channel-id="ES33000025N" tvg-id="ES33000025N" tvg-chno="4299" tvg-name="Crimen & Historia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png" group-title="Crimen y Misterio",Crimen & Historia
-https://jmp2.uk/stvp-ES33000025N
-#EXTINF:-1 channel-id="ES2600005G9" tvg-id="ES2600005G9" tvg-chno="4305" tvg-name="Crimen - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Crimen y Misterio",Crimen - Rakuten TV
-https://jmp2.uk/stvp-ES2600005G9
-#EXTINF:-1 channel-id="ES3300001MC" tvg-id="ES3300001MC" tvg-chno="4303" tvg-name="Crimenes Reales" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png" group-title="Crimen y Misterio",Crimenes Reales
-https://jmp2.uk/stvp-ES3300001MC
 
 #EXTINF:-1 channel-id="ES300029LP" tvg-id="ES300029LP" tvg-chno="4190" tvg-name="Anime Visión" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Animación Adulta",Anime Visión
 https://jmp2.uk/stvp-ES300029LP
@@ -1403,7 +1391,6 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 https://g2.vxral-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://i.imgur.com/UzwlCzP.png" group-title="Capital Federal",Canal Iberoamericano
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Capital Federal",Ciudad Magazine [Geo-blocked]
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Capital Federal" user-agent="iPhone",Crónica TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1467,7 +1454,6 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Interior",Canal 3 Las Heras (720p)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="https://i.imgur.com/PjsKbrz.png" group-title="Interior",Canal 3 Rosario (704p) [Geo-blocked]
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Balcarce.ar" tvg-logo="https://i.imgur.com/6xYbED7.png" group-title="Interior",Canal 4 Balcarce (360p)
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
