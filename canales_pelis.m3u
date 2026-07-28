@@ -1467,6 +1467,12 @@ https://turadioenvivo.com/proxy/radiolt7/stream
 https://sslstream.online:7001/stream
 #EXTINF:-1 tvg-id="" tvg-name="LV12" tvg-logo="" group-title="Radio",LV12
 https://streams.programmes-radio.com/?k=Gret27&stream=http://s1.radiosnethosting.com:8032/stream
+#EXTINF:-1 tvg-id="" tvg-name="La 100" tvg-logo="" group-title="Radio",La 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56AAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="Radio",Disney
+https://27343.live.streamtheworld.com/DISNEY_ARG_BA_ADP.aac
+#EXTINF:-1 tvg-id="" tvg-name="Rock & Pop" tvg-logo="" group-title="Radio",Rock & Pop
+https://tolkien.republicahosting.net:2112/live
 # FIN RADIO
 
 #Interior
