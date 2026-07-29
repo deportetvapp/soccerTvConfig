@@ -182,16 +182,10 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/unife.png" tvg-id="" tvg-name="Unife" tvg-logo="" group-title="04 Internacional",Unife
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="04 Internacional",CNN en Español
-http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="04 Internacional",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="04 Internacional",France 24 Español
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="GenTV.ar" tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="04 Internacional",GenTV
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="04 Internacional",TeleSUR
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="04 Internacional",Big TV HD
 https://lbgo.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/telemax.png" tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="04 Internacional",Telemax
@@ -213,8 +207,6 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="05 Infantil",Magic Kids TV HD (Opcion 2)
 https://lbgo.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
-#EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.ibb.co/bN8f137/Logo-El-Magic-TV.png" group-title="05 Infantil",El Magic HD
-https://kali.vdopanel.com:3909/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="05 Infantil",Retrotoons HD
 https://lbgo.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="05 Infantil",Retrotoons HD (Opcion 2)
@@ -231,8 +223,6 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="05 Infantil",Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="05 Infantil",Zaz TV HD
-https://livepeercdn.studio/hls/132ekew5u1m403gy/index.m3u8
 #EXTINF:-1 channel-id="691ddf2a3ae32cf55263476d" tvg-id="691ddf2a3ae32cf55263476d" tvg-chno="517" tvg-name="Pluto TV Forever Kids" tvg-logo="https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png" group-title="05 Infantil",Pluto TV Forever Kids
 https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 #EXTINF:-1 channel-id="5f1aa9bcd8160700076d45d1" tvg-id="5f1aa9bcd8160700076d45d1" tvg-chno="520" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" group-title="05 Infantil",Pluto TV Junior
@@ -243,8 +233,6 @@ https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 #EXTINF:-1 channel-id="63eb944dc111bc0008fe7021" tvg-id="63eb944dc111bc0008fe7021" tvg-chno="502" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png" group-title="05 Infantil",Pluto TV Teen
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
-#EXTINF:-1 channel-id="6880aa28164eb4890282e803" tvg-id="6880aa28164eb4890282e803" tvg-chno="514" tvg-name="Pluto TV Toons" tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" group-title="05 Infantil",Pluto TV Toons
-https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8
 #EXTINF:-1 channel-id="610c09219fc0430007a3fce6" tvg-id="610c09219fc0430007a3fce6" tvg-chno="518" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="05 Infantil",Rugrats
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 channel-id="68779a09c691b3f0964127c6" tvg-id="68779a09c691b3f0964127c6" tvg-chno="507" tvg-name="Heidi" tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png" group-title="05 Infantil",Heidi
@@ -296,10 +284,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/myevent2025/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" group-title="06 Animación Adulta",Zyoon Tv HD
 https://lbgo.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Anime Vision" tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="06 Animación Adulta",Anime Vision HD
-https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
-#EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="animevisionclassics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="06 Animación Adulta",Anime Vision Classics HD
-https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
 #EXTINF:-1 tvg-name="Canal Buzz" tvg-id="CanalBuzz" tvg-logo="https://i.ibb.co/zWkbw8qX/Logo-Canal-Buzz.png" group-title="06 Animación Adulta",Canal Buzz HD 
 https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="06 Animación Adulta",Max Anime HD
@@ -473,8 +457,6 @@ https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
 https://jmp2.uk/plu-66d71c656b63480008cf0427.m3u8
 #EXTINF:-1 channel-id="68de3db35fc0afe85de0b843" tvg-id="68de3db35fc0afe85de0b843" tvg-chno="321" tvg-name="Comedia a lo bestia de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="07 Cine",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-#EXTINF:-1 channel-id="5f1acd36779de70007a680d1" tvg-id="5f1acd36779de70007a680d1" tvg-chno="56" tvg-name="Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="07 Cine",Curro Jiménez
-https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
 #EXTINF:-1 channel-id="60c343007bcabe0007242aa6" tvg-id="60c343007bcabe0007242aa6" tvg-chno="100" tvg-name="El Comisario" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png" group-title="07 Cine",El Comisario
 https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
 #EXTINF:-1 channel-id="619b9f16b8fee4000832d447" tvg-id="619b9f16b8fee4000832d447" tvg-chno="109" tvg-name="El Detective Endeavour" tvg-logo="https://images.pluto.tv/channels/619b9f16b8fee4000832d447/colorLogoPNG.png" group-title="07 Cine",El Detective Endeavour
@@ -506,8 +488,6 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/240p-
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="MilennioTV.ar" tvg-logo="https://i.ibb.co/0C5ZpfP/7-LPSf1-Th-400x400.jpg" group-title="10 Documentales",Milennio TV
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
-#EXTINF:-1 tvg-id="TelevideoRegional.ar" tvg-logo="https://i.imgur.com/zLAocPn.png" group-title="10 Documentales",Televideo Regional
-https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="10 Documentales",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 channel-id="600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-chno="421" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="10 Documentales",Pluto TV Animales
@@ -576,14 +556,6 @@ https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="11 Música",Vorterix [Not 24/7]
 https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 # FIN MÚSICA
-#EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="" group-title="11 Música",Metal 24/7
-https://www.youtube.com/watch?v=3LWMFjRZQ6k
-#EXTINF:-1 tvg-id="" tvg-name="Synthwave Music" tvg-logo="" group-title="11 Música",Synthwave Music
-https://www.youtube.com/watch?v=GcgXLSFKJNQ
-#EXTINF:-1 tvg-id="" tvg-name="Chiptune.FM" tvg-logo="" group-title="11 Música",Chiptune.FM
-https://www.youtube.com/watch?v=9duv1i593QI
-#EXTINF:-1 tvg-id="" tvg-name="Jazz 24/7" tvg-logo="" group-title="11 Música",Jazz 24/7
-https://www.youtube.com/watch?v=9G0BtLy8cFI
 #EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="" group-title="11 Música",Metal 24/7
 https://www.youtube.com/watch?v=3LWMFjRZQ6k
 #EXTINF:-1 tvg-id="" tvg-name="Synthwave Music" tvg-logo="" group-title="11 Música",Synthwave Music
