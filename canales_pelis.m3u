@@ -308,14 +308,10 @@ https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
 #Stream
 #EXTINF:-1 tvg-id="" tvg-name="Luzu Tv" tvg-logo="" group-title="03 Stream",Luzu Tv
 https://www.twitch.tv/luzu_tv
-#EXTINF:-1 tvg-id="" tvg-name="Carnalval" tvg-logo="" group-title="03 Stream",Carnalval
-https://www.youtube.com/watch?v=RBsh9K7u5HY
 #EXTINF:-1 tvg-id="" tvg-name="Olga" tvg-logo="" group-title="03 Stream",Olga
-https://www.youtube.com/watch?v=4P44EonxOLE
+https://www.twitch.tv/olgaenvivo
 #EXTINF:-1 tvg-id="" tvg-name="Vorterix" tvg-logo="" group-title="03 Stream",Vorterix
 https://www.youtube.com/watch?v=IXdA_UsCwig
-#EXTINF:-1 tvg-id="" tvg-name="Picado" tvg-logo="" group-title="03 Stream",Picado
-https://www.youtube.com/watch?v=DKkSxSLgZH4
 # FIN STREAM
 
 # Internacional
