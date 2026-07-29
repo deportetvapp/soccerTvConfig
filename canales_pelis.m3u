@@ -1,8 +1,6 @@
 #EXTM3U
 
 #Capital Federal
-#EXTINF:-1 tvg-id="DiputadosTV.ar" tvg-logo="https://i.imgur.com/UscKOIc.png" group-title="01 Capital Federal",Diputados TV [Not 24/7]
-https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/ciudad-magazine.png" tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="" group-title="01 Capital Federal",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="01 Capital Federal",TN Todo Noticias Ⓨ
@@ -306,10 +304,6 @@ https://www.twitch.tv/luzu_tv
 https://www.twitch.tv/olgaenvivo
 #EXTINF:-1 tvg-id="" tvg-name="Vorterix" tvg-logo="" group-title="03 Stream",Vorterix
 https://www.twitch.tv/vorterixok
-#EXTINF:-1 channel-id="69b3db5d61e8e298254c7108" tvg-id="69b3db5d61e8e298254c7108" tvg-chno="422" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/colorLogoPNG_1775061733929.png" group-title="03 Stream",Space Live
-https://jmp2.uk/plu-69b3db5d61e8e298254c7108.m3u8
-#EXTINF:-1 channel-id="68adc697116b783a33f99e6c" tvg-id="68adc697116b783a33f99e6c" tvg-chno="155" tvg-name="Pluto TV Impacto" tvg-logo="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png" group-title="03 Stream",Pluto TV Impacto
-https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
 # FIN STREAM
 
 # Internacional
