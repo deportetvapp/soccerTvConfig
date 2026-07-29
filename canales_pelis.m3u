@@ -611,6 +611,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 https://jmp2.uk/stvp-ES300029LP
 #EXTINF:-1 channel-id="ES3000288I" tvg-id="ES3000288I" tvg-chno="4191" tvg-name="Anime Visión Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="06 Animación Adulta",Anime Visión Classics
 https://jmp2.uk/stvp-ES3000288I
+#EXTINF:-1 tvg-id="" tvg-name="ALF Español" tvg-logo="" group-title="06 Animación Adulta",ALF Español
+https://www.twitch.tv/alf_espanol
 # FIN Animación_Adulta
 
 # Cine
