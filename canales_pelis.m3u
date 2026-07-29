@@ -42,16 +42,10 @@ https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX
 https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="02 Interior",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena91.ar" tvg-logo="https://i.imgur.com/HAJxHcV.png" group-title="02 Interior",Antena 91
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="02 Interior",Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="ATVArgentina.ar" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" group-title="02 Interior",ATV Argentina
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
-#EXTINF:-1 tvg-id="AVCHD.ar" tvg-logo="https://i.imgur.com/8CT4y1O.png" group-title="02 Interior",AVC HD
-https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
-#EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="02 Interior",Aventuras TV
-https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BVC.ar" tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="02 Interior",BVC
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-id="Cadena103TV.ar" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="02 Interior",Cadena 103 [Not 24/7]
@@ -62,8 +56,6 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="02 Interior",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal907FM.ar" tvg-logo="https://i.imgur.com/hdwtH9q.png" group-title="02 Interior",Canal 907 FM
-https://panel.dattalive.com/canal907/canal907/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalBlu.ar" tvg-logo="https://i.imgur.com/EVe8j4y.png" group-title="02 Interior",Canal Blu
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 #EXTINF:-1 tvg-id="CanalCNR.ar" tvg-logo="https://i.imgur.com/IhwOCKT.png" group-title="02 Interior",Canal CNR [Not 24/7]
@@ -81,16 +73,12 @@ https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="02 Interior",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-id="CnArNoticias.ar" tvg-logo="https://i.imgur.com/yOk4bHZ.png" group-title="02 Interior",CnAr Noticias
-https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="02 Interior",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="CPEtv.ar" tvg-logo="https://i.imgur.com/zFgbobO.png" group-title="02 Interior",CPEtv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="https://i.imgur.com/iNJu7Fu.png" group-title="02 Interior",Crossing TV (Crossing Contenidos) [Not 24/7]
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-#EXTINF:-1 tvg-id="DemosRadioVisual.ar" tvg-logo="https://i.imgur.com/Z5rgmdP.png" group-title="02 Interior",Demos Radio Visual
-https://panel.dattalive.com/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="EcoTV.ar" tvg-logo="https://lh3.googleusercontent.com/-s7Lrg1AhjRA/XrYORW8wrKI/AAAAAAAA0iU/5dZ8Epc-I1Momc6KYwA2rt0AwnwhdVKowCK8BGAsYHg/s0/2020-05-08.png" group-title="02 Interior",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="02 Interior",El Doce [Not 24/7]
@@ -129,18 +117,10 @@ https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="02 Interior",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-id="SoliveTV.ar" tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="02 Interior",Solive TV
-https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
-#EXTINF:-1 tvg-id="TeloCuentoyQue.ar" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="02 Interior",Te Lo Cuento
-https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecondorSatelital.ar" tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg" group-title="02 Interior",Telecóndor Satelital
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
-#EXTINF:-1 tvg-id="Telecreativa.ar" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" group-title="02 Interior",Telecreativa
-https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="Telediez.ar" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="02 Interior",Telediez
 https://videohd.live:19360/8020/8020.m3u8
-#EXTINF:-1 tvg-id="TeleMix.ar" tvg-logo="https://i.imgur.com/qlYSai7.png" group-title="02 Interior",TeleMix
-https://panel.dattalive.com/8068/8068/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="02 Interior",Telenord [Not 24/7]
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TRU.ar" tvg-logo="https://i.ibb.co/Y0nf1Wd/TRU-Televisora-Regional-Unimar-en-vivo.png" group-title="02 Interior",Televisora Regional Unimar [Not 24/7]
@@ -155,22 +135,16 @@ https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/playlist.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-id="UrbanaTeVe.ar" tvg-logo="https://i.imgur.com/bYd9zLo.png" group-title="02 Interior",Urbana TeVe
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
-#EXTINF:-1 tvg-id="VariedTV.ar" tvg-logo="https://i.ibb.co/nDdGrQn/LOGO-ID-VARIEDTV-WEB.png" group-title="02 Interior",VariedTV
-https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV.ar" tvg-logo="https://i.imgur.com/TLaausJ.png" group-title="02 Interior",VerTV (VTV) [Not 24/7]
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zr565ht/Logo-Telecosta.png" group-title="02 Interior",Telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="02 Interior",Canal 9 Televida
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?nimblesessionid=553812050
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/canal-10-mar-del-plata.png" tvg-id="" tvg-name="Canal 10 Mar del Plata" tvg-logo="" group-title="02 Interior",Canal 10 Mar del Plata
 https://g2.proy-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/canal-10-uruguayo.png" tvg-id="" tvg-name="Canal 10 Uruguayo" tvg-logo="" group-title="02 Interior",Canal 10 Uruguayo
 https://cdnw1.zetatv.com.uy/vod_cache/_definst_/vod_cache/amlst:94/294548/playlist.m3u8
 #EXTINF:-1 tvg-id="5TVArgentina.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="02 Interior",5TV Corrientes [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="02 Interior",Aire de Santa Fe
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="02 Interior",América Tucumán
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://i.imgur.com/PaQH5JM.png" group-title="02 Interior",C20 Canal 20 Villa María
@@ -193,14 +167,10 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="02 Interior",Canal 4 San Juan
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5DelPueblo.ar" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="02 Interior",Canal 5 del Pueblo
-https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg" group-title="02 Interior",Canal 5 Pico Truncado
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="02 Interior",Canal 5 Santa Fe
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="02 Interior",Canal 6 Mar del Plata
-https://panel.dattalive.com/8166/8166/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="02 Interior",Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Chubut.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-7-chubut-ar.png" group-title="02 Interior",Canal 7 Chubut [Not 24/7]
@@ -253,8 +223,6 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChilecitoTV.ar" tvg-logo="https://i.imgur.com/zGubmgZ.png" group-title="02 Interior",Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="02 Interior",Ciudad TV Resistencia (Chaco) [Not 24/7]
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="02 Interior",CN3 Pinamar [Not 24/7]
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-logo="https://i.imgur.com/7PBkvRp.png" group-title="02 Interior",Corrientes TV (CTV)
@@ -265,8 +233,6 @@ https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://i.imgur.com/yKb7nfP.png" group-title="02 Interior",El Siete Mendoza [Not 24/7]
 https://www.youtube.com/watch?v=Vh8xmLBJtR8
-#EXTINF:-1 tvg-id="FenixTV.ar" tvg-logo="https://i.imgur.com/wQ33T78.png" group-title="02 Interior",Fenix TV (Ciudad de La Rioja)
-https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="https://i.imgur.com/k2r7IeQ.png" group-title="02 Interior",La Voz de Tucumán
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 #EXTINF:-1 tvg-id="MisionesCuatro.ar" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="02 Interior",Misiones Cuatro
@@ -277,10 +243,6 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1 tvg-id="RTN.ar" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="02 Interior",RTN (Neuquén) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://i.imgur.com/C1mY5X4.png" group-title="02 Interior",Santa Fe Canal
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="SenillosaTV.ar" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj" group-title="02 Interior",Senillosa TV
-https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="02 Interior",TeleCinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="02 Interior",Telefe Córdoba [Not 24/7]
