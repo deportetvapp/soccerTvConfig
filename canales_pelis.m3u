@@ -10,6 +10,8 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="01 Capital Federal",TN Todo Noticias Ⓨ
 https://www.youtube.com/c/todonoticias/live
 #EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://pelisjuanita.com/tv/logos/cronica.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="01 Capital Federal",Crónica TV Ⓨ
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 (El Nueve)" tvg-logo="https://i.imgur.com/EtcVSm4.png" group-title="01 Capital Federal",Canal 9 (El Nueve)
+https://www.youtube.com/watch?v=e4VpCP8KWLY
 https://www.youtube.com/c/cronicatv/live
 #EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://pelisjuanita.com/tv/logos/c5n.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" group-title="01 Capital Federal",C5N Ⓨ
 https://www.youtube.com/c/c5n/live
@@ -23,14 +25,12 @@ https://www.youtube.com/watch?v=e4VpCP8KWLY
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="01 Capital Federal",La Nación+
 https://www.youtube.com/watch?v=FEWZjXJ7M0c
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="01 Capital Federal",Las Estrellas Latin America
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="01 Capital Federal",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="01 Capital Federal",Rai Italia America
-http://210.210.155.69/s/s63/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="01 Capital Federal",Telefe
 https://www.youtube.com/@telefe/live
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="01 Capital Federal",Telefe
+http://8.243.126.131:8000/play/a0mc/index.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública (TVP) [Not 24/7]
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 # FIN CAPITAL FEDERAL
@@ -1136,6 +1136,14 @@ https://www.youtube.com/watch?v=GcgXLSFKJNQ
 https://www.youtube.com/watch?v=9duv1i593QI
 #EXTINF:-1 tvg-id="" tvg-name="Jazz 24/7" tvg-logo="" group-title="11 Música",Jazz 24/7
 https://www.youtube.com/watch?v=9G0BtLy8cFI
+#EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="" group-title="11 Música",Metal 24/7
+https://www.youtube.com/watch?v=3LWMFjRZQ6k
+#EXTINF:-1 tvg-id="" tvg-name="Synthwave Music" tvg-logo="" group-title="11 Música",Synthwave Music
+https://www.youtube.com/watch?v=GcgXLSFKJNQ
+#EXTINF:-1 tvg-id="" tvg-name="Chiptune.FM" tvg-logo="" group-title="11 Música",Chiptune.FM
+https://www.youtube.com/watch?v=9duv1i593QI
+#EXTINF:-1 tvg-id="" tvg-name="Jazz 24/7" tvg-logo="" group-title="11 Música",Jazz 24/7
+https://www.youtube.com/watch?v=9G0BtLy8cFI
 
 # Deportes
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/directv-sports.png" tvg-id="" tvg-name="DSports" tvg-logo="" group-title="12 Deportes",DSports
@@ -1212,6 +1220,8 @@ http://8.243.126.131:8000/play/a0ih/index.m3u8?hls
 http://8.243.126.131:8000/play/a025/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Mundial 2026" group-title="12 Deportes" tvg-logo="", mundial 2026
 http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun HD" tvg-logo="" group-title="12 Deportes",TNT Sports Premiun HD
+http://8.243.126.131:8000/play/a0o7/index.m3u8
 # FIN Deportes
 
 # Lifestyle
