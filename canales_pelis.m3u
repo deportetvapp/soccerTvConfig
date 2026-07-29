@@ -5,8 +5,6 @@
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/ciudad-magazine.png" tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="" group-title="01 Capital Federal",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/telemax.png" tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="01 Capital Federal",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="01 Capital Federal",TN Todo Noticias Ⓨ
 https://www.youtube.com/c/todonoticias/live
 #EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://pelisjuanita.com/tv/logos/cronica.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="01 Capital Federal",Crónica TV Ⓨ
@@ -26,7 +24,7 @@ https://www.youtube.com/watch?v=FEWZjXJ7M0c
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="01 Capital Federal",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="01 Capital Federal",Telefe
-http://8.243.126.131:8000/play/a0mc/index.m3u8
+http://181.79.87.130:8000/play/a0mc/index.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública
 https://www.youtube.com/watch?v=YCjVyOeej3o
 # FIN CAPITAL FEDERAL
@@ -45,7 +43,7 @@ https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvac
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tv-ciudad.png" tvg-id="" tvg-name="TV Ciudad" tvg-logo="" group-title="02 Interior",TV Ciudad
 https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzgxMzUyODM5JnJhbmRvbT1BZWx0d1dmMDEzJmMtaXA9MTgxLjE3MC4xMzcuMTM5JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sZWE1YjRiYjUxNjU0MGNmNmJjOWNjZjFkOTg1OWM4YTdmMzEzMDZlZjllOTJkNDhjZWQ4ODg2Mjg2MjQ0YzI5Zg==/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var950000/playlist.m3u8
 #EXTINF:-1 group-title="02 Interior",Canal 10 HD
-http://8.243.126.131:8000/play/a0fm/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fm/index.m3u8?hls
 #EXTINF:-1 tvg-id="AcequiaTV.ar" tvg-logo="https://i.imgur.com/RdGdMCj.png" group-title="02 Interior",Acequia TV [Not 24/7]
 https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="02 Interior",Agrotendencia TV
@@ -342,83 +340,83 @@ https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/unife.png" tvg-id="" tvg-name="Unife" tvg-logo="" group-title="04 Internacional",Unife
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 #EXTINF:-1 group-title="04 Internacional",MEGA
-http://8.243.126.131:8000/play/a051/index.m3u8?hls
+http://181.79.87.130:8000/play/a051/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",CANAL N
-http://8.243.126.131:8000/play/a058/index.m3u8?hls
+http://181.79.87.130:8000/play/a058/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",START CHANNEL
-http://8.243.126.131:8000/play/a05b/index.m3u8?hls
+http://181.79.87.130:8000/play/a05b/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",EUROCHANNEL
-http://8.243.126.131:8000/play/a05c/index.m3u8?hls
+http://181.79.87.130:8000/play/a05c/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",CANAL DE ESTRELLAS
-http://8.243.126.131:8000/play/a05l/index.m3u8?hls
+http://181.79.87.130:8000/play/a05l/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",CNN
-http://8.243.126.131:8000/play/a05y/index.m3u8?hls
+http://181.79.87.130:8000/play/a05y/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",USA HD
-http://8.243.126.131:8000/play/a05z/index.m3u8?hls
+http://181.79.87.130:8000/play/a05z/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",AZ click HD
-http://8.243.126.131:8000/play/a0e8/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e8/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/antena-3.png" group-title="04 Internacional",Antena 3
-http://8.243.126.131:8000/play/a0fc/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fc/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Azmundo
-http://8.243.126.131:8000/play/a0g5/index.m3u8?hls
+http://181.79.87.130:8000/play/a0g5/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",CNN Espaæol
-http://8.243.126.131:8000/play/a0oi/index.m3u8?hls
+http://181.79.87.130:8000/play/a0oi/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/cnn-internacional.png" group-title="04 Internacional",CNN Internacional
-http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fj/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Canal 14 - NIC
-http://8.243.126.131:8000/play/a0jk/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jk/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Canal 4 HD ESA
-http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fk/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Canal 6 - NI
-http://8.243.126.131:8000/play/a0jm/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jm/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Canal 7 HD CR
-http://8.243.126.131:8000/play/a0dv/index.m3u8?hls
+http://181.79.87.130:8000/play/a0dv/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Canal 8 - NIC
-http://8.243.126.131:8000/play/a0jj/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jj/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Canal Claro HD
-http://8.243.126.131:8000/play/a0f1/index.m3u8?hls
+http://181.79.87.130:8000/play/a0f1/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Canal N
-http://8.243.126.131:8000/play/a0of/index.m3u8?hls
+http://181.79.87.130:8000/play/a0of/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Caracol
-http://8.243.126.131:8000/play/a0le/index.m3u8?hls
+http://181.79.87.130:8000/play/a0le/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Clover
-http://8.243.126.131:8000/play/a0lb/index.m3u8?hls
+http://181.79.87.130:8000/play/a0lb/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Digital 15 - RD
-http://8.243.126.131:8000/play/a0jl/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jl/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",E!
-http://8.243.126.131:8000/play/a0g7/index.m3u8?hls
+http://181.79.87.130:8000/play/a0g7/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",E! Entertairment HD
-http://8.243.126.131:8000/play/a0dz/index.m3u8?hls
+http://181.79.87.130:8000/play/a0dz/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" group-title="04 Internacional",EWTN
-http://8.243.126.131:8000/play/a0ol/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ol/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",FOX CR
-http://8.243.126.131:8000/play/a0oq/index.m3u8?hls
+http://181.79.87.130:8000/play/a0oq/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Hispan TV
-http://8.243.126.131:8000/play/a0jd/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jd/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",MEGA HD
-http://8.243.126.131:8000/play/a0o8/index.m3u8?hls
+http://181.79.87.130:8000/play/a0o8/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",SUYAPA TV
-http://8.243.126.131:8000/play/a0ji/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ji/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Sin Limites
-http://8.243.126.131:8000/play/a0jw/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jw/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/sun-channel.png" group-title="04 Internacional",Sun Channel
-http://8.243.126.131:8000/play/a0jr/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jr/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",TV Familia
-http://8.243.126.131:8000/play/a0j9/index.m3u8?hls
+http://181.79.87.130:8000/play/a0j9/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",TVChile
-http://8.243.126.131:8000/play/a0fd/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fd/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",TVE
-http://8.243.126.131:8000/play/a0gx/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gx/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",TVN HD
-http://8.243.126.131:8000/play/a0o6/index.m3u8?hls
+http://181.79.87.130:8000/play/a0o6/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Telemundo HD
-http://8.243.126.131:8000/play/a0e3/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e3/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Telesur
-http://8.243.126.131:8000/play/a0og/index.m3u8?hls
+http://181.79.87.130:8000/play/a0og/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Televida RD
-http://8.243.126.131:8000/play/a0ew/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ew/index.m3u8?hls
 #EXTINF:-1 group-title="04 Internacional",Univision HD
-http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
+http://181.79.87.130:8000/play/a0dc/index.m3u8?hls
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="04 Internacional",CNN en Español
 http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="04 Internacional",DW Español
@@ -431,6 +429,8 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="04 Internacional",Big TV HD
 https://lbgo.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/telemax.png" tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="04 Internacional",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 # FIN Internacional
 
 # Infantil
@@ -439,37 +439,37 @@ http://190.61.101.11:7050/play/a05y/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="https://pelisjuanita.com/tv/logos/disney-jr.png" group-title="05 Infantil",Disney JR
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 group-title="05 Infantil",TOONCAST
-http://8.243.126.131:8000/play/a054/index.m3u8?hls
+http://181.79.87.130:8000/play/a054/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",NICK JUNIOR
-http://8.243.126.131:8000/play/a05f/index.m3u8?hls
+http://181.79.87.130:8000/play/a05f/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",DISNEY JUNIOR
-http://8.243.126.131:8000/play/a05g/index.m3u8?hls
+http://181.79.87.130:8000/play/a05g/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",CN 
-http://8.243.126.131:8000/play/a05i/index.m3u8?hls
+http://181.79.87.130:8000/play/a05i/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",CARTOONITO
-http://8.243.126.131:8000/play/a05p/index.m3u8?hls
+http://181.79.87.130:8000/play/a05p/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",BABYFIRST HD
-http://8.243.126.131:8000/play/a06e/index.m3u8?hls
+http://181.79.87.130:8000/play/a06e/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/disney-channel.png" group-title="05 Infantil",82 DISNEY CHANNEL
-http://8.243.126.131:8000/play/a0m7/index.m3u8?hls
+http://181.79.87.130:8000/play/a0m7/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",Baby First
-http://8.243.126.131:8000/play/a0jo/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jo/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",CARTOON NETWORK HD
-http://8.243.126.131:8000/play/a0f2/index.m3u8?hls
+http://181.79.87.130:8000/play/a0f2/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/cartoonito.png" group-title="05 Infantil",Cartoonito
-http://8.243.126.131:8000/play/a0o9/index.m3u8?hls
+http://181.79.87.130:8000/play/a0o9/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/disney-channel.png" group-title="05 Infantil",Disney Channel
-http://8.243.126.131:8000/play/a0gn/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gn/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/disney-jr.png" group-title="05 Infantil",Disney Jr.
-http://8.243.126.131:8000/play/a0oj/index.m3u8?hls
+http://181.79.87.130:8000/play/a0oj/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",Nick Jr.
-http://8.243.126.131:8000/play/a0oh/index.m3u8?hls
+http://181.79.87.130:8000/play/a0oh/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",Plim Plim TV
-http://8.243.126.131:8000/play/a0od/index.m3u8?hls
+http://181.79.87.130:8000/play/a0od/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tooncast.png" group-title="05 Infantil",Tooncast
-http://8.243.126.131:8000/play/a0g4/index.m3u8?hls
+http://181.79.87.130:8000/play/a0g4/index.m3u8?hls
 #EXTINF:-1 group-title="05 Infantil",ZooMoo
-http://8.243.126.131:8000/play/a0li/index.m3u8?hls
+http://181.79.87.130:8000/play/a0li/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Dreiko TV" group-title="05 Infantil" tvg-logo="https://i.imgur.com/vH97Z9P.png", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="05 Infantil",EnerGeek Retro [Not 24/7]
@@ -633,121 +633,121 @@ http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://pelisjuanita.com/tv/logos/warner.png" group-title="07 Cine",Warner
 http://190.61.101.11:7050/play/a078/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",WILLAX HD
-http://8.243.126.131:8000/play/a01s/index.m3u8?hls
+http://181.79.87.130:8000/play/a01s/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",NEXT TV
-http://8.243.126.131:8000/play/a01t/index.m3u8?hls
+http://181.79.87.130:8000/play/a01t/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tnt.png" group-title="07 Cine",TNT HD
-http://8.243.126.131:8000/play/a05h/index.m3u8?hls
+http://181.79.87.130:8000/play/a05h/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/hbo.png" group-title="07 Cine",HBO2 HD
-http://8.243.126.131:8000/play/a05o/index.m3u8?hls
+http://181.79.87.130:8000/play/a05o/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",AXN
-http://8.243.126.131:8000/play/a05r/index.m3u8?hls
+http://181.79.87.130:8000/play/a05r/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",GOLDEN HD
-http://8.243.126.131:8000/play/a05s/index.m3u8?hls
+http://181.79.87.130:8000/play/a05s/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/hbo-family.png" group-title="07 Cine",HBO FAMILY HD
-http://8.243.126.131:8000/play/a05t/index.m3u8?hls
+http://181.79.87.130:8000/play/a05t/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",COMEDY CENTRAL HD
-http://8.243.126.131:8000/play/a060/index.m3u8?hls
+http://181.79.87.130:8000/play/a060/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/cinecanal.png" group-title="07 Cine",CINECANAL HD
-http://8.243.126.131:8000/play/a061/index.m3u8?hls
+http://181.79.87.130:8000/play/a061/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",ESTUDIO UNIVERSAL HD
-http://8.243.126.131:8000/play/a062/index.m3u8?hls
+http://181.79.87.130:8000/play/a062/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",FX HD
-http://8.243.126.131:8000/play/a064/index.m3u8?hls
+http://181.79.87.130:8000/play/a064/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",UNIVERSAL HD
-http://8.243.126.131:8000/play/a067/index.m3u8?hls
+http://181.79.87.130:8000/play/a067/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",TCM
-http://8.243.126.131:8000/play/a068/index.m3u8?hls
+http://181.79.87.130:8000/play/a068/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",SONY HD
-http://8.243.126.131:8000/play/a06a/index.m3u8?hls
+http://181.79.87.130:8000/play/a06a/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/space.png" group-title="07 Cine",SPACE HD
-http://8.243.126.131:8000/play/a06d/index.m3u8?hls
+http://181.79.87.130:8000/play/a06d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/hbo.png" group-title="07 Cine",HBO HD
-http://8.243.126.131:8000/play/a06j/index.m3u8?hls
+http://181.79.87.130:8000/play/a06j/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",AMC HD
-http://8.243.126.131:8000/play/a0e2/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e2/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/amc-series.png" group-title="07 Cine",AMC Series
-http://8.243.126.131:8000/play/a0ld/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ld/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",AXN HD
-http://8.243.126.131:8000/play/a0gy/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gy/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/cinecanal.png" group-title="07 Cine",CINECANAL HD
-http://8.243.126.131:8000/play/a0gj/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gj/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Cine Latino
-http://8.243.126.131:8000/play/a0gu/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gu/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Cine Premium HD
-http://8.243.126.131:8000/play/a0mi/index.m3u8?hls
+http://181.79.87.130:8000/play/a0mi/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/cinemax.png" group-title="07 Cine",CineMax
-http://8.243.126.131:8000/play/a0gv/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gv/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Claro Cinema
-http://8.243.126.131:8000/play/a0gf/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gf/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",DHE
-http://8.243.126.131:8000/play/a0ey/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ey/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",DHE HD
-http://8.243.126.131:8000/play/a0e7/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e7/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",De Pelicula
-http://8.243.126.131:8000/play/a0ob/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ob/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Europa HD
-http://8.243.126.131:8000/play/a0e5/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e5/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",FX HD
-http://8.243.126.131:8000/play/a0e4/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e4/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Film & Arts
-http://8.243.126.131:8000/play/a0ex/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ex/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Film & arts HD
-http://8.243.126.131:8000/play/a0e0/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e0/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/golden.png" group-title="07 Cine",Golden
-http://8.243.126.131:8000/play/a0k9/index.m3u8?hls
+http://181.79.87.130:8000/play/a0k9/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Golden Premiere 2 HD
-http://8.243.126.131:8000/play/a0fo/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fo/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Golden Premiere HD
-http://8.243.126.131:8000/play/a0fn/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fn/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/hbo-family.png" group-title="07 Cine",HBO Family HD
-http://8.243.126.131:8000/play/a0f6/index.m3u8?hls
+http://181.79.87.130:8000/play/a0f6/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/hbo.png" group-title="07 Cine",HBO HD
-http://8.243.126.131:8000/play/a0f3/index.m3u8?hls
+http://181.79.87.130:8000/play/a0f3/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/hbo.png" group-title="07 Cine",HBO Plus HD
-http://8.243.126.131:8000/play/a0f5/index.m3u8?hls
+http://181.79.87.130:8000/play/a0f5/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/hbo.png" group-title="07 Cine",HBO XTREME
-http://8.243.126.131:8000/play/a0f7/index.m3u8?hls
+http://181.79.87.130:8000/play/a0f7/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/hbo.png" group-title="07 Cine",HBO2 HD
-http://8.243.126.131:8000/play/a0f4/index.m3u8?hls
+http://181.79.87.130:8000/play/a0f4/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Multicinema
-http://8.243.126.131:8000/play/a0jx/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jx/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",SONY
-http://8.243.126.131:8000/play/a0g6/index.m3u8?hls
+http://181.79.87.130:8000/play/a0g6/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",SONY HD
-http://8.243.126.131:8000/play/a0gi/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gi/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/space.png" group-title="07 Cine",SPACE HD
-http://8.243.126.131:8000/play/a0gz/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gz/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/star-channel.png" group-title="07 Cine",STAR CHANNEL HD
-http://8.243.126.131:8000/play/a0gg/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gg/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Sony Movies HD
-http://8.243.126.131:8000/play/a0e6/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e6/index.m3u8?hls
 #EXTINF:-1 group-title="07 Cine",Star TVE HD
-http://8.243.126.131:8000/play/a0e9/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e9/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",Studio Universal
-http://8.243.126.131:8000/play/a0gw/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gw/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",Studio Universal HD
-http://8.243.126.131:8000/play/a0dx/index.m3u8?hls
+http://181.79.87.130:8000/play/a0dx/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tcm.png" group-title="07 Cine",TCM
-http://8.243.126.131:8000/play/a0ka/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ka/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tnt.png" group-title="07 Cine",TNT HD
-http://8.243.126.131:8000/play/a0ij/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ij/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tnt-series.png" group-title="07 Cine",TNT Series HD
-http://8.243.126.131:8000/play/a0d8/index.m3u8?hls
+http://181.79.87.130:8000/play/a0d8/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",UNIVERSAL CINEMA ESTE HD
-http://8.243.126.131:8000/play/a0de/index.m3u8?hls
+http://181.79.87.130:8000/play/a0de/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",UNIVERSAL COMEDY HD
-http://8.243.126.131:8000/play/a0iu/index.m3u8?hls
+http://181.79.87.130:8000/play/a0iu/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",UNIVERSAL CRIME HD
-http://8.243.126.131:8000/play/a0it/index.m3u8?hls
+http://181.79.87.130:8000/play/a0it/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",UNIVERSAL PREMIERE HD
-http://8.243.126.131:8000/play/a0iq/index.m3u8?hls
+http://181.79.87.130:8000/play/a0iq/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",UNIVERSAL PREMIERE O HD
-http://8.243.126.131:8000/play/a0ir/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ir/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="07 Cine",Universal
-http://8.243.126.131:8000/play/a0gt/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gt/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/warner.png" group-title="07 Cine",WARNER HD
-http://8.243.126.131:8000/play/a0gh/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gh/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_mexico_latam_1400x2000.jpg",group-title="07 Cine", Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_mexico_latam_1400x2000.jpg",group-title="07 Cine", Run Time Films
@@ -971,21 +971,21 @@ https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8
 
 # Novelas
 #EXTINF:-1 tvg-logo="" group-title="09 Novelas",TNT NOVELAS 
-http://8.243.126.131:8000/play/a050/index.m3u8?hls
+http://181.79.87.130:8000/play/a050/index.m3u8?hls
 #EXTINF:-1 group-title="09 Novelas",TELENOVELAS
-http://8.243.126.131:8000/play/a06c/index.m3u8?hls
+http://181.79.87.130:8000/play/a06c/index.m3u8?hls
 #EXTINF:-1 group-title="09 Novelas",Atres Series
-http://8.243.126.131:8000/play/a0fh/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fh/index.m3u8?hls
 #EXTINF:-1 group-title="09 Novelas",KANALD  DRAMA
-http://8.243.126.131:8000/play/a0m3/index.m3u8?hls
+http://181.79.87.130:8000/play/a0m3/index.m3u8?hls
 #EXTINF:-1 group-title="09 Novelas",KDrama HD
-http://8.243.126.131:8000/play/a0mn/index.m3u8?hls
+http://181.79.87.130:8000/play/a0mn/index.m3u8?hls
 #EXTINF:-1 group-title="09 Novelas",Pasiones HD
-http://8.243.126.131:8000/play/a0db/index.m3u8?hls
+http://181.79.87.130:8000/play/a0db/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/rcn-novelas.png" group-title="09 Novelas",RCN Novelas
-http://8.243.126.131:8000/play/a0jp/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jp/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tnt-series.png" group-title="09 Novelas",TNT Novelas HD
-http://8.243.126.131:8000/play/a0om/index.m3u8?hls
+http://181.79.87.130:8000/play/a0om/index.m3u8?hls
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="09 Novelas",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="09 Novelas",Novelísima [Not 24/7]
@@ -996,69 +996,69 @@ https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
 # Documentales
 #EXTINF:-1 tvg-id="" tvg-name="Discovery H&amp;H" tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",Discovery H&amp;H
-http://8.243.126.131:8000/play/a069/index.m3u8?hls
+http://181.79.87.130:8000/play/a069/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",Discovery Science
-http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ff/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://pelisjuanita.com/tv/logos/discovery-theater.png" group-title="10 Documentales",Discovery Theater
-http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ik/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",Discovery TLC
-http://8.243.126.131:8000/play/a04t/index.m3u8?hls
+http://181.79.87.130:8000/play/a04t/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://pelisjuanita.com/tv/logos/discovery-world.png" group-title="10 Documentales",Discovery World
-http://8.243.126.131:8000/play/a05x/index.m3u8?hls
+http://181.79.87.130:8000/play/a05x/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/love-nature.png" tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="10 Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/240p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-turbo.png" group-title="10 Documentales",DISCOVERY TURBO
-http://8.243.126.131:8000/play/a055/index.m3u8?hls
+http://181.79.87.130:8000/play/a055/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",HISTORY HD
-http://8.243.126.131:8000/play/a05d/index.m3u8?hls
+http://181.79.87.130:8000/play/a05d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",DISCOVERY HD
-http://8.243.126.131:8000/play/a05k/index.m3u8?hls
+http://181.79.87.130:8000/play/a05k/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",NATGEO HD
-http://8.243.126.131:8000/play/a05m/index.m3u8?hls
+http://181.79.87.130:8000/play/a05m/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-kids.png" group-title="10 Documentales",DISCOVERY KIDS
-http://8.243.126.131:8000/play/a05n/index.m3u8?hls
+http://181.79.87.130:8000/play/a05n/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",HISTORY 2
-http://8.243.126.131:8000/play/a05u/index.m3u8?hls
+http://181.79.87.130:8000/play/a05u/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-world.png" group-title="10 Documentales",DISCOVERY WORLD
-http://8.243.126.131:8000/play/a05x/index.m3u8?hls
+http://181.79.87.130:8000/play/a05x/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",ID
-http://8.243.126.131:8000/play/a066/index.m3u8?hls
+http://181.79.87.130:8000/play/a066/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/animal-planet.png" group-title="10 Documentales",Animal Planet
-http://8.243.126.131:8000/play/a0ga/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ga/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",Animal Planet HD
-http://8.243.126.131:8000/play/a0dy/index.m3u8?hls
+http://181.79.87.130:8000/play/a0dy/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",DISC THEATHER HD
-http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ik/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",Discovery Channel
-http://8.243.126.131:8000/play/a0g9/index.m3u8?hls
+http://181.79.87.130:8000/play/a0g9/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",Discovery Channel HD
-http://8.243.126.131:8000/play/a0d9/index.m3u8?hls
+http://181.79.87.130:8000/play/a0d9/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",Discovery Home & Health
-http://8.243.126.131:8000/play/a0gp/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gp/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",Discovery ID HD
-http://8.243.126.131:8000/play/a0dd/index.m3u8?hls
+http://181.79.87.130:8000/play/a0dd/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-kids.png" group-title="10 Documentales",Discovery Kids
-http://8.243.126.131:8000/play/a0gl/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gl/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-kids.png" group-title="10 Documentales",Discovery Kids HD
-http://8.243.126.131:8000/play/a0fl/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fl/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",Discovery Science
-http://8.243.126.131:8000/play/a0ok/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ok/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-channel.png" group-title="10 Documentales",Discovery Science
-http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ff/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-turbo.png" group-title="10 Documentales",Discovery Turbo
-http://8.243.126.131:8000/play/a0go/index.m3u8?hls
+http://181.79.87.130:8000/play/a0go/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/discovery-world.png" group-title="10 Documentales",Discovery World HD
-http://8.243.126.131:8000/play/a0da/index.m3u8?hls
+http://181.79.87.130:8000/play/a0da/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",History 2
-http://8.243.126.131:8000/play/a0mo/index.m3u8?hls
+http://181.79.87.130:8000/play/a0mo/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",History Channel
-http://8.243.126.131:8000/play/a0gb/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gb/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",Nat Geo HD
-http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
+http://181.79.87.130:8000/play/a0d6/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",TLC
-http://8.243.126.131:8000/play/a0gc/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gc/index.m3u8?hls
 #EXTINF:-1 group-title="10 Documentales",TLC
-http://8.243.126.131:8000/play/a0ja/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ja/index.m3u8?hls
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="10 Documentales",Hiperconectados Televisión
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="MilennioTV.ar" tvg-logo="https://i.ibb.co/0C5ZpfP/7-LPSf1-Th-400x400.jpg" group-title="10 Documentales",Milennio TV
@@ -1077,11 +1077,11 @@ https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/musica-top.png" tvg-id="" tvg-name="Música Top" tvg-logo="" group-title="11 Música",Música Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 group-title="11 Música",STINGRAY CONCERT
-http://8.243.126.131:8000/play/a04z/index.m3u8?hls
+http://181.79.87.130:8000/play/a04z/index.m3u8?hls
 #EXTINF:-1 group-title="11 Música",Concert Channel
-http://8.243.126.131:8000/play/a0lf/index.m3u8?hls
+http://181.79.87.130:8000/play/a0lf/index.m3u8?hls
 #EXTINF:-1 group-title="11 Música",MTV HD
-http://8.243.126.131:8000/play/a0oa/index.m3u8?hls
+http://181.79.87.130:8000/play/a0oa/index.m3u8?hls
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" group-title="11 Música"  tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?hls
 #EXTINF:-1 tvg-id="1719" tvg-name="Retroclub"group-title="11 Música" tvg-logo="https://cdn.m3u.cl/logo/1719_Retroclub.png", Retroclub | AR
@@ -1139,81 +1139,81 @@ https://www.youtube.com/watch?v=9G0BtLy8cFI
 
 # Deportes
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/directv-sports.png" tvg-id="" tvg-name="DSports" tvg-logo="" group-title="12 Deportes",DSports
-http://8.243.126.131:8000/play/a05a/index.m3u8
+http://181.79.87.130:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://pelisjuanita.com/tv/logos/tyc-sports.png" group-title="12 Deportes",TyC Sports
 https://p2.domain761.sbs/tyc/index.m3u8?token=dbb0fac4e09401fba1f6a75d60c86e7387cbd471-a8-1785313794-1785259794&ip=186.122.2.187
 #EXTINF:-1 group-title="12 Deportes",MOVISTAR DEPORTE
-http://8.243.126.131:8000/play/a052/index.m3u8?hls
+http://181.79.87.130:8000/play/a052/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png", group-title="12 Deportes",ESPN PREMIUN HD
-http://8.243.126.131:8000/play/a053/index.m3u8?hls
+http://181.79.87.130:8000/play/a053/index.m3u8?hls
 #EXTINF:-1 group-title="12 Deportes",DIRECTV DEPORTE
-http://8.243.126.131:8000/play/a05a/index.m3u8?hls
+http://181.79.87.130:8000/play/a05a/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png", group-title="12 Deportes",ESPN6 HD
-http://8.243.126.131:8000/play/a05e/index.m3u8?hls
+http://181.79.87.130:8000/play/a05e/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN3 HD
-http://8.243.126.131:8000/play/a05j/index.m3u8?hls
+http://181.79.87.130:8000/play/a05j/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN1
-http://8.243.126.131:8000/play/a05q/index.m3u8?hls
+http://181.79.87.130:8000/play/a05q/index.m3u8?hls
 #EXTINF:-1 group-title="12 Deportes",LIGA 1 MAX HD
-http://8.243.126.131:8000/play/a063/index.m3u8?hls
+http://181.79.87.130:8000/play/a063/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 7 HD
-http://8.243.126.131:8000/play/a065/index.m3u8?hls
+http://181.79.87.130:8000/play/a065/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 5 HD 
-http://8.243.126.131:8000/play/a0jz/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jz/index.m3u8?hls
 #EXTINF:-1 group-title="12 Deportes",Claro Sports 1 HD
-http://8.243.126.131:8000/play/a0f0/index.m3u8?hls
+http://181.79.87.130:8000/play/a0f0/index.m3u8?hls
 #EXTINF:-1 group-title="12 Deportes",Claro Sports 2 SD
-http://8.243.126.131:8000/play/a0js/index.m3u8?hls
+http://181.79.87.130:8000/play/a0js/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn2.png",group-title="12 Deportes",ESPN 2
-http://8.243.126.131:8000/play/a0ge/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ge/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn2.png",group-title="12 Deportes",ESPN 2 HD
-http://8.243.126.131:8000/play/a0d3/index.m3u8?hls
+http://181.79.87.130:8000/play/a0d3/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn2.png",group-title="12 Deportes",ESPN 2 HD
-http://8.243.126.131:8000/play/a0nl/index.m3u8?hls
+http://181.79.87.130:8000/play/a0nl/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn2.png",group-title="12 Deportes",ESPN 2 HD
-http://8.243.126.131:8000/play/a0nv/index.m3u8?hls
+http://181.79.87.130:8000/play/a0nv/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 3
-http://8.243.126.131:8000/play/a0jt/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jt/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 3 HD
-http://8.243.126.131:8000/play/a0d4/index.m3u8?hls
+http://181.79.87.130:8000/play/a0d4/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 3 HD
-http://8.243.126.131:8000/play/a0nz/index.m3u8?hls
+http://181.79.87.130:8000/play/a0nz/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 4
-http://8.243.126.131:8000/play/a0ju/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ju/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 4HD
-http://8.243.126.131:8000/play/a0kl/index.m3u8?hls
+http://181.79.87.130:8000/play/a0kl/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 5
-http://8.243.126.131:8000/play/a0gq/index.m3u8?hls
+http://181.79.87.130:8000/play/a0gq/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 5  HD
-http://8.243.126.131:8000/play/a0h0/index.m3u8?hls
+http://181.79.87.130:8000/play/a0h0/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN 5 HD
-http://8.243.126.131:8000/play/a0nh/index.m3u8?hls
+http://181.79.87.130:8000/play/a0nh/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/espn.png", group-title="12 Deportes",ESPN 6 HD
-http://8.243.126.131:8000/play/a0d5/index.m3u8?hls
+http://181.79.87.130:8000/play/a0d5/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/espn.png", group-title="12 Deportes",ESPN 6 HD
-http://8.243.126.131:8000/play/a0ns/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ns/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN HD
-http://8.243.126.131:8000/play/a0nk/index.m3u8?hls
+http://181.79.87.130:8000/play/a0nk/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN HD
-http://8.243.126.131:8000/play/a0d2/index.m3u8?hls
+http://181.79.87.130:8000/play/a0d2/index.m3u8?hls
 #EXTINF:-1  tvg-logo="https://pelisjuanita.com/tv/logos/espn.png",group-title="12 Deportes",ESPN Premium HD
-http://8.243.126.131:8000/play/a0no/index.m3u8?hls
+http://181.79.87.130:8000/play/a0no/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/golf-channel.png" group-title="12 Deportes",Golf Channel
-http://8.243.126.131:8000/play/a0fi/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fi/index.m3u8?hls
 #EXTINF:-1 group-title="12 Deportes",Golf Channel HD
-http://8.243.126.131:8000/play/a0ea/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ea/index.m3u8?hls
 #EXTINF:-1 group-title="12 Deportes",Movistar Deportes
-http://8.243.126.131:8000/play/a0oe/index.m3u8?hls
+http://181.79.87.130:8000/play/a0oe/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tnt-sports.png" group-title="12 Deportes",TNT SPORTS
 https://streamx-hd.com/live1.php?stream=tntsports
 #EXTINF:-1 group-title="12 Deportes",Tigo Sports HD
-http://8.243.126.131:8000/play/a0ih/index.m3u8?hls
+http://181.79.87.130:8000/play/a0ih/index.m3u8?hls
 #EXTINF:-1 group-title="12 Deportes",Win Sports+
-http://8.243.126.131:8000/play/a025/index.m3u8?hls
+http://181.79.87.130:8000/play/a025/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Mundial 2026" group-title="12 Deportes" tvg-logo="", mundial 2026
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun HD" tvg-logo="" group-title="12 Deportes",TNT Sports Premiun HD
-http://8.243.126.131:8000/play/a0o7/index.m3u8
+http://181.79.87.130:8000/play/a0o7/index.m3u8
 # FIN Deportes
 
 # Lifestyle
@@ -1228,35 +1228,35 @@ https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/miami-tv-models.png" tvg-id="" tvg-name="MiamiTV Models" tvg-logo="" group-title="13 Lifestyle",MiamiTV Models
 https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
 #EXTINF:-1 group-title="13 Lifestyle",HGTV HD
-http://8.243.126.131:8000/play/a056/index.m3u8?hls
+http://181.79.87.130:8000/play/a056/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",Ei HD
-http://8.243.126.131:8000/play/a05v/index.m3u8?hls
+http://181.79.87.130:8000/play/a05v/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",FOOD NETWORD
-http://8.243.126.131:8000/play/a05w/index.m3u8?hls
+http://181.79.87.130:8000/play/a05w/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",HYH
-http://8.243.126.131:8000/play/a069/index.m3u8?hls
+http://181.79.87.130:8000/play/a069/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",A&E HD
-http://8.243.126.131:8000/play/a06b/index.m3u8?hls
+http://181.79.87.130:8000/play/a06b/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/a-e.png" group-title="13 Lifestyle",A&E
-http://8.243.126.131:8000/play/a0g8/index.m3u8?hls
+http://181.79.87.130:8000/play/a0g8/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",A&E HD
-http://8.243.126.131:8000/play/a0e1/index.m3u8?hls
+http://181.79.87.130:8000/play/a0e1/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/el-gourmet.png" group-title="13 Lifestyle",El Gourmet
-http://8.243.126.131:8000/play/a0jq/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jq/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/food-network.png" group-title="13 Lifestyle",Food Network
-http://8.243.126.131:8000/play/a0me/index.m3u8?hls
+http://181.79.87.130:8000/play/a0me/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",HOLA! TV HD
-http://8.243.126.131:8000/play/a0im/index.m3u8?hls
+http://181.79.87.130:8000/play/a0im/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",Hola!TV
-http://8.243.126.131:8000/play/a0fg/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fg/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",Home & Health HD
-http://8.243.126.131:8000/play/a0il/index.m3u8?hls
+http://181.79.87.130:8000/play/a0il/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",Home Garden Latino
-http://8.243.126.131:8000/play/a0fe/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fe/index.m3u8?hls
 #EXTINF:-1 group-title="13 Lifestyle",Mas Chic
-http://8.243.126.131:8000/play/a0fb/index.m3u8?hls
+http://181.79.87.130:8000/play/a0fb/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/universal-tv.png" group-title="13 Lifestyle",UNIVERSAL REALITY HD
-http://8.243.126.131:8000/play/a0is/index.m3u8?hls
+http://181.79.87.130:8000/play/a0is/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Time Travel NETWORK TV" tvg-logo="https://i.ibb.co/GqFdZwH/Logo-Time-Travel-Network-TV.png" group-title="13 Lifestyle",Time Travel NETWORK TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/213nRFfy/Logo-Canal-Familia-HD.jpg" group-title="13 Lifestyle",Canal Familia HD
@@ -1333,7 +1333,7 @@ https://mega.stweb.tv/mega983/live/playlist.m3u8
 
 # XXX
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/playboy.png" group-title="XXX",Playboy
-http://8.243.126.131:8000/play/a0f8/index.m3u8?hls
+http://181.79.87.130:8000/play/a0f8/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/venus.png" group-title="XXX",VENUS
-http://8.243.126.131:8000/play/a0jy/index.m3u8?hls
+http://181.79.87.130:8000/play/a0jy/index.m3u8?hls
 # FIN XXX
