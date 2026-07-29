@@ -27,11 +27,11 @@ https://www.youtube.com/watch?v=FEWZjXJ7M0c
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="01 Capital Federal",Telefe
 http://8.243.126.131:8000/play/a0mc/index.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública (TVP) [Not 24/7]
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública
+https://www.youtube.com/watch?v=YCjVyOeej3o
 # FIN CAPITAL FEDERAL
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="01 Capital Federal",El Trece
-https://regionales.saohgdasregions.fun/tvenvivo2.php?stream=4_&exp=1785268745&sig=fec55c6b804e25b37a62913d1e5a2d08f3dec06ced4ddfc6bce9d451faa63a97
+http://15.204.246.24:8080/eltreceHD/index.m3u8
 
 #Interior
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/argentinisima.png" tvg-id="" tvg-name="Argentinisima" tvg-logo="" group-title="02 Interior",Argentinisima
