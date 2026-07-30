@@ -26,8 +26,6 @@ https://www.youtube.com/watch?v=YCjVyOeej3o
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="" group-title="01 Capital Federal",Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 # FIN CAPITAL FEDERAL
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="01 Capital Federal",El Trece
-http://15.204.246.24:8080/eltreceHD/index.m3u8
 
 #Interior
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/argentinisima.png" group-title="02 Interior",Argentinisima
@@ -130,8 +128,6 @@ https://www.twitch.tv/vorterixok
 # Internacional
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/24h.png" tvg-id="" tvg-name="24h" tvg-logo="" group-title="04 Internacional",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/arirang.png" tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="04 Internacional",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/azteca-7.png" tvg-id="" tvg-name="Azteca 7" tvg-logo="" group-title="04 Internacional",Azteca 7
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/azteca-internacional.png" tvg-id="" tvg-name="Azteca Internacional" tvg-logo="" group-title="04 Internacional",Azteca Internacional
@@ -144,16 +140,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/france-24-espanol.png" tvg-id="" tvg-name="France 24 Español" tvg-logo="" group-title="04 Internacional",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/nettv.png" tvg-id="" tvg-name="NETTV" tvg-logo="" group-title="04 Internacional",NETTV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/rcn-mas.png" tvg-id="" tvg-name="RCN MÁS" tvg-logo="" group-title="04 Internacional",RCN MÁS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/rt-en-espanol.png" tvg-id="" tvg-name="RT en Español" tvg-logo="" group-title="04 Internacional",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/telemundo.png" tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="04 Internacional",Telemundo
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/unife.png" tvg-id="" tvg-name="Unife" tvg-logo="" group-title="04 Internacional",Unife
-https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="04 Internacional",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/telemax.png" tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="04 Internacional",Telemax
@@ -162,8 +154,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
 #EXTINF:-1 channel-id="66c45c0de7f5e80008b82005" tvg-id="66c45c0de7f5e80008b82005" tvg-chno="602" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png" group-title="04 Internacional",CNN Headlines International
 https://jmp2.uk/plu-66c45c0de7f5e80008b82005.m3u8
-#EXTINF:-1 channel-id="622f42b831233300078658cc" tvg-id="622f42b831233300078658cc" tvg-chno="455" tvg-name="Ciudadanos por el mundo" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="04 Internacional",Ciudadanos por el mundo
-https://jmp2.uk/plu-622f42b831233300078658cc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Costa Rica" tvg-logo="" group-title="04 Internacional",Costa Rica
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesur Costa Rica HD" tvg-logo="" group-title="04 Internacional",Telesur Costa Rica HD
@@ -225,6 +215,8 @@ https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Pantera Rosa" tvg-logo="" group-title="05 Infantil",La Pantera Rosa
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Time Travel NETWORK TV" tvg-logo="https://i.ibb.co/GqFdZwH/Logo-Time-Travel-Network-TV.png" group-title="05 Infantil",Time Travel NETWORK TV HD
+https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/playlist.m3u8
 # FIN Infantil
 
 # Animación Adulta
@@ -250,12 +242,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="06 Animación Adulta",Unetev HD
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="06 Animación Adulta",Wow Movies SD
-https://lbgo.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="06 Animación Adulta",Wow Movies SD (Opcion 2)
-https://lbgo.bozztv.com/ssh101/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png" group-title="06 Animación Adulta",Wow Documentary HD
-https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="06 Animación Adulta",AnimeStation HD
 https://lbgo.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Locomotion Esp" tvg-id="LocomotionEsp" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="06 Animación Adulta",Locomotion Esp
@@ -320,6 +306,8 @@ https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
 https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 #EXTINF:-1 channel-id="683457e5f59cc6a13212fce4" tvg-id="683457e5f59cc6a13212fce4" tvg-chno="304" tvg-name="Lupin" tvg-logo="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png" group-title="06 Animación Adulta",Lupin
 https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="06 Animación Adulta",Retro Magico
+https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
 # FIN Animación_Adulta
 
 # Cine
@@ -329,8 +317,6 @@ http://190.61.101.11:7050/play/a08r/index.m3u8?hls
 http://190.61.101.11:7050/play/a07a/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/europa-europa.png" tvg-id="" tvg-name="Europa Europa" tvg-logo="" group-title="07 Cine",Europa Europa
 http://190.61.101.11:7050/play/a082/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/sony-one-the-blacklist.png" tvg-id="" tvg-name="Sony One The Blacklist" tvg-logo="" group-title="07 Cine",Sony One The Blacklist
-https://teleon.tv/stream/cG5wODQ4NDc2MXBucDg0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://pelisjuanita.com/tv/logos/warner.png" group-title="07 Cine",Warner
 http://190.61.101.11:7050/play/a078/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_mexico_latam_1400x2000.jpg",group-title="07 Cine", Run Time Latino
@@ -349,10 +335,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" group-title="07 Cine" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?hls
-#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="07 Cine",Xtrema Cine Acción
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="07 Cine",Retro Magico
-https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png"  group-title="07 Cine",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJ620t8/logo-Telecl-sica.jpg" group-title="07 Cine",Teleclasica
@@ -397,8 +379,6 @@ https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 #EXTINF:-1 channel-id="6267d4d1fb694f0007a6af0e" tvg-id="6267d4d1fb694f0007a6af0e" tvg-chno="254" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="07 Cine",Pluto TV Horror
 https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
-#EXTINF:-1 channel-id="654a35ce346f420008d5c36e" tvg-id="654a35ce346f420008d5c36e" tvg-chno="124" tvg-name="Pluto TV Invasión Alien" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="07 Cine",Pluto TV Invasión Alien
-https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
 #EXTINF:-1 channel-id="65ce480a78df2200131c597b" tvg-id="65ce480a78df2200131c597b" tvg-chno="206" tvg-name="Pluto TV Psycho" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="07 Cine",Pluto TV Psycho
 https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 #EXTINF:-1 channel-id="5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-chno="205" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="07 Cine",Pluto TV Sci-Fi
@@ -425,10 +405,6 @@ https://jmp2.uk/plu-6745f0643a61d40008a61510.m3u8
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
 #EXTINF:-1 channel-id="676e7b4a4bd636000819c6a7" tvg-id="676e7b4a4bd636000819c6a7" tvg-chno="213" tvg-name="SensaCine TV x Pluto" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="07 Cine",SensaCine TV x Pluto
 #EXTINF:-1 channel-id="5f1aca8310a30e00074fab92" tvg-id="5f1aca8310a30e00074fab92" tvg-chno="106" tvg-name="Los Asesinatos de Midsomer" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="07 Cine",Los Asesinatos de Midsomer
-#EXTINF:-1 channel-id="60ed5fb9c4716d0007d180c5" tvg-id="60ed5fb9c4716d0007d180c5" tvg-chno="123" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="07 Cine",Cazador de Homicidas
-https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
-#EXTINF:-1 channel-id="6335a6b6e6f7a600076e589e" tvg-id="6335a6b6e6f7a600076e589e" tvg-chno="152" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="07 Cine",Cazasubastas
-https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
 #EXTINF:-1 channel-id="66d71c656b63480008cf0427" tvg-id="66d71c656b63480008cf0427" tvg-chno="104" tvg-name="Cherif" tvg-logo="https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png" group-title="07 Cine",Cherif
 https://jmp2.uk/plu-66d71c656b63480008cf0427.m3u8
 #EXTINF:-1 channel-id="68de3db35fc0afe85de0b843" tvg-id="68de3db35fc0afe85de0b843" tvg-chno="321" tvg-name="Comedia a lo bestia de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="07 Cine",Comedia a lo bestia de Pluto TV
@@ -461,8 +437,6 @@ https://jmp2.uk/stvp-ES2300005G7
 https://jmp2.uk/stvp-ES2600013H4
 #EXTINF:-1 tvg-id="" tvg-name="Planeta de Cine" tvg-logo="" group-title="07 Cine",Planeta de Cine
 https://jmp2.uk/stvp-ES2800001G7
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Series Thriller" tvg-logo="" group-title="07 Cine",Sony One Series Thriller
-https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Comedia" tvg-logo="" group-title="07 Cine",Sony One Hits Comedia
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Exitos" tvg-logo="" group-title="07 Cine",Sony One Exitos
@@ -479,8 +453,15 @@ http://45.162.193.35/STAR_CHANNEL/index.m3u8
 http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead Universe" tvg-logo="" group-title="07 Cine",The Walking Dead Universe
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="07 Cine",Wow Movies SD
+https://lbgo.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="07 Cine",Wow Movies SD (Opcion 2)
+https://lbgo.bozztv.com/ssh101/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png" group-title="07 Cine",Wow Documentary HD
+https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFvPLGcB/Logo-ENT-Family.jpg" group-title="07 Cine",ENT Family HD
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 # FIN Cine
-
 
 # Novelas
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="09 Novelas",Kanal D Drama
@@ -498,10 +479,6 @@ https://jmp2.uk/plu-65254e8d81f9420008342cee.m3u8
 # Documentales
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/love-nature.png" tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="10 Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/240p-cc/index.m3u8
-#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="10 Documentales",Hiperconectados Televisión
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="MilennioTV.ar" tvg-logo="https://i.ibb.co/0C5ZpfP/7-LPSf1-Th-400x400.jpg" group-title="10 Documentales",Milennio TV
-https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="10 Documentales",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 channel-id="600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-chno="421" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="10 Documentales",Pluto TV Animales
@@ -539,6 +516,12 @@ http://138.121.15.230:9002/HISTORY-2/index.m3u8
 http://45.162.193.35/NATGEO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba" tvg-logo="" group-title="10 Documentales",Historias de Ultratumba
 https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+#EXTINF:-1 channel-id="6335a6b6e6f7a600076e589e" tvg-id="6335a6b6e6f7a600076e589e" tvg-chno="152" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="10 Documentales",Cazasubastas
+https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
+#EXTINF:-1 channel-id="60ed5fb9c4716d0007d180c5" tvg-id="60ed5fb9c4716d0007d180c5" tvg-chno="123" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="10 Documentales",Cazador de Homicidas
+https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
+#EXTINF:-1 channel-id="654a35ce346f420008d5c36e" tvg-id="654a35ce346f420008d5c36e" tvg-chno="124" tvg-name="Pluto TV Invasión Alien" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="10 Documentales",Pluto TV Invasión Alien
+https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
 # FIN Documentales
 
 #Música
@@ -566,8 +549,6 @@ http://181.209.91.106:2222/Live/2747d400c336a4f75779b7ff29c02074/retro_540.m3u8
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="11 Música",Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://i.imgur.com/gwpETyS.png" group-title="11 Música" user-agent="iPhone",CM El Canal de la Música
-#EXTVLCOPT:http-user-agent=iPhone
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="DanceTV.ar" tvg-logo="https://i.imgur.com/UKMR625.png" group-title="11 Música",Dance TV
 https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
@@ -579,12 +560,12 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-id="SuperClassicsTV.ar" tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="11 Música",Super Classics TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="11 Música",Vorterix [Not 24/7]
-https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GEX TV HD" tvg-logo="" group-title="11 Música",GEX TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW 70s" tvg-logo="" group-title="11 Música",NOW 70s
 https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/playlist/rakutenAA-lightning-now70s-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/arirang.png" tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="11 Música",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 # FIN MÚSICA
 #EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="" group-title="11 Música",Metal 24/7
 https://www.youtube.com/watch?v=3LWMFjRZQ6k
@@ -596,20 +577,12 @@ https://www.youtube.com/watch?v=9duv1i593QI
 https://www.youtube.com/watch?v=9G0BtLy8cFI
 
 # Deportes
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://pelisjuanita.com/tv/logos/tyc-sports.png" group-title="12 Deportes",TyC Sports
-https://p2.domain761.sbs/tyc/index.m3u8?token=dbb0fac4e09401fba1f6a75d60c86e7387cbd471-a8-1785313794-1785259794&ip=186.122.2.187
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/tnt-sports.png" group-title="12 Deportes",TNT SPORTS
-https://streamx-hd.com/live1.php?stream=tntsports
-#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026" group-title="12 Deportes" tvg-logo="", mundial 2026
-http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 channel-id="6080345ebb49b90007ce0baf" tvg-id="6080345ebb49b90007ce0baf" tvg-chno="164" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="12 Deportes",Pluto TV Motor
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 #EXTINF:-1 channel-id="69148c470155f9b136b5d856" tvg-id="69148c470155f9b136b5d856" tvg-chno="551" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="12 Deportes",Pluto TV Snooker 900
 https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
 #EXTINF:-1 channel-id="696e02423b9ce349c90edef9" tvg-id="696e02423b9ce349c90edef9" tvg-chno="556" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png" group-title="12 Deportes",Rally TV
 https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
-#EXTINF:-1 channel-id="65f96cd34e01740008ef1c97" tvg-id="65f96cd34e01740008ef1c97" tvg-chno="559" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" group-title="12 Deportes",Realmadrid TV
-https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
 #EXTINF:-1 channel-id="69f9c50202b6c1c00a213519" tvg-id="69f9c50202b6c1c00a213519" tvg-chno="555" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png" group-title="12 Deportes",Dominance FC TV
 https://jmp2.uk/plu-69f9c50202b6c1c00a213519.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="" group-title="12 Deportes",Red Bull TV
@@ -628,6 +601,8 @@ https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="" group-title="12 Deportes",NBA TV
 http://40.160.24.58/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/unife.png" tvg-id="" tvg-name="Unife" tvg-logo="" group-title="12 Deportes",Unife
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 # FIN Deportes
 
 # Lifestyle
@@ -641,10 +616,6 @@ https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/mas
 https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/miami-tv-models.png" tvg-id="" tvg-name="MiamiTV Models" tvg-logo="" group-title="13 Lifestyle",MiamiTV Models
 https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Time Travel NETWORK TV" tvg-logo="https://i.ibb.co/GqFdZwH/Logo-Time-Travel-Network-TV.png" group-title="13 Lifestyle",Time Travel NETWORK TV HD
-https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFvPLGcB/Logo-ENT-Family.jpg" group-title="13 Lifestyle",ENT Family HD
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 channel-id="6578836cdfed030008ce5bdb" tvg-id="6578836cdfed030008ce5bdb" tvg-chno="158" tvg-name="Sí quiero ese vestido" tvg-logo="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png" group-title="13 Lifestyle",Sí quiero ese vestido
 #EXTINF:-1 channel-id="5f1acdaa8ba90f0007d5e760" tvg-id="5f1acdaa8ba90f0007d5e760" tvg-chno="450" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="13 Lifestyle",Pluto TV Cocina
 https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
