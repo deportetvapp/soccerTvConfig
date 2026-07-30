@@ -174,6 +174,8 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67e6979de1de65be88aeb39f/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
 #EXTINF:-1 tvg-id="" tvg-name="La Popular TV Chile" tvg-logo="" group-title="04 Internacional",La Popular TV Chile
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Chile" tvg-logo="" group-title="04 Internacional",TVN Chile
+https://iptv2.intersurtv.cl/TVN/tracks-v1a1/mono.ts.m3u8
 # FIN Internacional
 
 # Infantil
@@ -592,6 +594,8 @@ https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
 https://jmp2.uk/plu-69f9c50202b6c1c00a213519.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="" group-title="12 Deportes",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="" group-title="12 Deportes",Tennis Channel
+https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
 # FIN Deportes
 
 # Lifestyle
@@ -683,4 +687,10 @@ https://mega.stweb.tv/mega983/live/playlist.m3u8
 # FIN RADIO
 
 # XXX
+#EXTINF:-1 tvg-id="" tvg-name="Babes" tvg-logo="" group-title="15 XXX",Babes
+https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse" tvg-logo="" group-title="15 XXX",Penthouse
+https://live1-ott.izzigo.tv/12/out/u/dash/PENTHOUSE-HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="" group-title="15 XXX",Playboy
+https://live1-ott.izzigo.tv/12/out/u/dash/PLAYBOY-TV-HD/default.mpd
 # FIN XXX
