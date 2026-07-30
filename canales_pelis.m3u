@@ -596,6 +596,10 @@ https://jmp2.uk/plu-69f9c50202b6c1c00a213519.m3u8
 https://jmp2.uk/stvp-ES3800001V1
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="" group-title="12 Deportes",Tennis Channel
 https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox USA Deportes" tvg-logo="" group-title="12 Deportes",Fox USA Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein USA" tvg-logo="" group-title="12 Deportes",Bein USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
 # FIN Deportes
 
 # Lifestyle
@@ -689,8 +693,4 @@ https://mega.stweb.tv/mega983/live/playlist.m3u8
 # XXX
 #EXTINF:-1 tvg-id="" tvg-name="Babes" tvg-logo="" group-title="15 XXX",Babes
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse" tvg-logo="" group-title="15 XXX",Penthouse
-https://live1-ott.izzigo.tv/12/out/u/dash/PENTHOUSE-HD/default.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="" group-title="15 XXX",Playboy
-https://live1-ott.izzigo.tv/12/out/u/dash/PLAYBOY-TV-HD/default.mpd
 # FIN XXX
