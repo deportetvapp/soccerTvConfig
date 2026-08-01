@@ -463,6 +463,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/wowchannelsd/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFvPLGcB/Logo-ENT-Family.jpg" group-title="07 Cine",ENT Family HD
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" tvg-name="Rakuten Cine" group-title="07 Cine",Rakuten Cine
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 # FIN Cine
 
 # Novelas
@@ -524,6 +526,8 @@ https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
 https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
 #EXTINF:-1 channel-id="654a35ce346f420008d5c36e" tvg-id="654a35ce346f420008d5c36e" tvg-chno="124" tvg-name="Pluto TV Invasión Alien" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="10 Documentales",Pluto TV Invasión Alien
 https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+#EXTINF:-1 tvg-id="NasaTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/320px-NASA_logo.svg.png" group-title="10 Documentales",NASA TV
+https://www.youtube.com/watch?v=21X5lGlDOfg
 # FIN Documentales
 
 #Música
