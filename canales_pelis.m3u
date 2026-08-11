@@ -146,6 +146,8 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/rt-en-espanol.png" tvg-id="" tvg-name="RT en Español" tvg-logo="" group-title="04 Internacional",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 channel-id="ES2300004XW-es" tvg-id="ES2300004XW" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300004XW_20251118T015346SQUARE.png" group-title="04 Internacional",Al Jazeera
+https://jmp2.uk/stvp-ES2300004XW
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/telemundo.png" tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="04 Internacional",Telemundo
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="04 Internacional",DW Español
@@ -521,7 +523,9 @@ https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine Friki" tvg-logo="" group-title="07 Cine",Cine Friki
 https://jmp2.uk/stvp-ESBD800001RJ
-#EXTINF:-1 tvg-id="" tvg-name="Cine Western" tvg-logo="" group-title="07 Cine",Cine Western
+#EXTINF:-1 channel-id="ESBC2700012RP-es" tvg-id="ESBC2700012RP" tvg-chno="4904" tvg-name="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="07 Cine",Cine Feel Good – Verdi TV
+https://jmp2.uk/stvp-ESBC2700012RP
+#EXTINF:-1 channel-id="ES2300005G7-es" tvg-id="ES2300005G7" tvg-chno="4926" tvg-name="Cine Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="07 Cine",Cine Western
 https://jmp2.uk/stvp-ES2300005G7
 #EXTINF:-1 tvg-id="" tvg-name="Películas Top" tvg-logo="" group-title="07 Cine",Películas Top
 https://jmp2.uk/stvp-ES2600013H4
@@ -724,6 +728,8 @@ https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
 https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
 #EXTINF:-1 channel-id="5ea71d48af1d0b0007d837f4" tvg-id="5ea71d48af1d0b0007d837f4" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="10 Documentales",The New Detectives
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
+#EXTINF:-1 channel-id="625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="10 Documentales",MTV Catfish
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 #EXTINF:-1 channel-id="5efb8c19b2678b000780d032" tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="10 Documentales",Archivos Forenses
 https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
 #EXTINF:-1 channel-id="5f230e416b68ff00075b0139" tvg-id="5f230e416b68ff00075b0139" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="10 Documentales",Misterios Medicos
@@ -792,6 +798,8 @@ https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW 70s" tvg-logo="" group-title="11 Música",NOW 70s
 https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/playlist/rakutenAA-lightning-now70s-rakuten/playlist.m3u8
+#EXTINF:-1 channel-id="ES2500001F9-es" tvg-id="ES2500001F9" tvg-chno="4742" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png" group-title="11 Música",Cool Summer Channel
+https://jmp2.uk/stvp-ES2500001F9
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/arirang.png" tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="11 Música",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="" group-title="11 Música",MTV Classic
@@ -939,8 +947,6 @@ https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 channel-id="620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="13 Lifestyle",MTV Teen Mom
 https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
-#EXTINF:-1 channel-id="625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="13 Lifestyle",MTV Catfish
-https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 #EXTINF:-1 channel-id="6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-name="Revive Gran Hermano" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="13 Lifestyle",Revive Gran Hermano
 https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
 #EXTINF:-1 channel-id="63211ba9cad976000794f988" tvg-id="63211ba9cad976000794f988" tvg-name="La Selección" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="13 Lifestyle",La Selección
