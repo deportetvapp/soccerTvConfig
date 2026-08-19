@@ -279,6 +279,8 @@ https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="05 Infantil",Sailor Moon
 https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="05 Infantil",Nick Jr.
+http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 # FIN Infantil
 
 # Animación Adulta
@@ -527,12 +529,6 @@ https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Series" tvg-logo="" group-title="07 Cine",BBC Series
 https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Friki" tvg-logo="" group-title="07 Cine",Cine Friki
-https://jmp2.uk/stvp-ESBD800001RJ
-#EXTINF:-1 channel-id="ESBC2700012RP-es" tvg-id="ESBC2700012RP" tvg-chno="4904" tvg-name="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="07 Cine",Cine Feel Good – Verdi TV
-https://jmp2.uk/stvp-ESBC2700012RP
-#EXTINF:-1 channel-id="ES2300005G7-es" tvg-id="ES2300005G7" tvg-chno="4926" tvg-name="Cine Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="07 Cine",Cine Western
-https://jmp2.uk/stvp-ES2300005G7
 #EXTINF:-1 tvg-id="" tvg-name="Películas Top" tvg-logo="" group-title="07 Cine",Películas Top
 https://jmp2.uk/stvp-ES2600013H4
 #EXTINF:-1 tvg-id="" tvg-name="Planeta de Cine" tvg-logo="" group-title="07 Cine",Planeta de Cine
@@ -548,8 +544,6 @@ https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/
 http://45.162.193.35/FX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="07 Cine",Universal
 http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="07 Cine",Star Channel
-http://45.162.193.35/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Edge" tvg-logo="" group-title="07 Cine",Edge
 http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead Universe" tvg-logo="" group-title="07 Cine",The Walking Dead Universe
@@ -658,8 +652,6 @@ https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="07 Cine",Star Channel
 http://45.134.141.161:2200/ARG/Star_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="07 Cine",Sony
-http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="07 Cine",Film & Arts
 http://45.134.141.161:2200/ARG/Film_Arts_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="07 Cine",TNT
@@ -942,7 +934,6 @@ https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="" group-title="12 Deportes",NBA TV
 http://40.160.24.58/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/unife.png" tvg-id="" tvg-name="Unife" tvg-logo="" group-title="12 Deportes",Unife
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 #EXTINF:-1 channel-id="5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="12 Deportes",Pluto TV Deportes
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
@@ -1085,6 +1076,7 @@ http://45.134.141.161:2200/ARG/E_Entertainment/index.m3u8
 # Religioso
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/canal-luz.png" tvg-id="" tvg-name="Canal Luz" tvg-logo="" group-title="14 Religioso",Canal Luz
 https://g2.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/unife.png" tvg-id="" tvg-name="Unife" tvg-logo="" group-title="14 Religioso",Unife
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/orbe-21.png" tvg-id="" tvg-name="Orbe 21" tvg-logo="" group-title="14 Religioso",Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1179893763_b2211840.m3u8
 #EXTINF:-1 tvg-id="AngelTVSpanish.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="14 Religioso",Angel TV Spanish
