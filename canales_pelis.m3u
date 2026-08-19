@@ -552,8 +552,6 @@ https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 https://lbgo.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="07 Cine",Wow Movies SD (Opcion 2)
 https://lbgo.bozztv.com/ssh101/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png" group-title="07 Cine",Wow Documentary HD
-https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFvPLGcB/Logo-ENT-Family.jpg" group-title="07 Cine",ENT Family HD
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" tvg-name="Rakuten Cine" group-title="07 Cine",Rakuten Cine
@@ -795,6 +793,8 @@ http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="10 Documentales",Discovery Investigation
 http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png" group-title="10 Documentales",Wow Documentary HD
+https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 # FIN Documentales
 
 #Música
