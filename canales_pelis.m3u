@@ -662,6 +662,14 @@ http://45.134.141.161:2200/ARG/Star_Channel_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="07 Cine",Film & Arts
 http://45.134.141.161:2200/ARG/Film_Arts_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="07 Cine",TNT
+http://45.134.141.161:2200/ARG/TNT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="07 Cine",TCM
+http://45.134.141.161:2200/ARG/TCM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="07 Cine",AMC
+http://45.134.141.161:2200/ARG/AMC_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="07 Cine",Warner Channel
+http://45.134.141.161:2200/ARG/Warner_Channel_HD/index.m3u8
 # FIN Cine
 
 # Novelas
@@ -791,6 +799,10 @@ https://www.twitch.tv/nasa
 http://45.134.141.161:2200/ARG/History_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="10 Documentales",Nat Geo Wild
 http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="10 Documentales",Discovery Science
+http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="10 Documentales",Discovery Investigation
+http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
 # FIN Documentales
 
 #Música
@@ -1066,6 +1078,8 @@ https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
 https://jmp2.uk/plu-69fcaa88e022927e1c94c533.m3u8
 #EXTINF:-1 channel-id="69fcdc73488e575cff213adc" tvg-id="69fcdc73488e575cff213adc" tvg-name="Hermanos a la Obra" tvg-logo="https://images.pluto.tv/channels/69fcdc73488e575cff213adc/colorLogoPNG.png" group-title="13 Lifestyle",Hermanos a la Obra
 https://jmp2.uk/plu-69fcdc73488e575cff213adc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="13 Lifestyle",E! Entertainment
+http://45.134.141.161:2200/ARG/E_Entertainment/index.m3u8
 # FIN Lifestyle
 
 # Religioso
