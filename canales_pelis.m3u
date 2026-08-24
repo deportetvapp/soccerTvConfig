@@ -3,18 +3,18 @@
 #Capital Federal
 #EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/ciudad-magazine.png" tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="" group-title="01 Capital Federal",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://pelisjuanita.com/tv/logos/tn.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="01 Capital Federal",TN Todo Noticias Ⓨ
+#EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Bwftgji9rDsQkaRB_9USNkjh1J-PF9lFlNaBYbzZ_YiKMuY4VjwvgptWe_UF452aR5ym4x4nFy8eZWuTFjpWrd8ALKN-8vH7LE_NvzxZkns6gxEXRZrweBeHPs_qftbhGaaDzds8RpQV/s320/tn.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="01 Capital Federal",TN Todo Noticias Ⓨ
 https://www.youtube.com/c/todonoticias/live
-#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://pelisjuanita.com/tv/logos/cronica.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="01 Capital Federal",Crónica TV Ⓨ
+#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pairz7rTZeAzlv9zs4qk_lEBdRsRLvvtRnE3JreuICroX2n_T9YhWiPmtZkNxNHFvIczJ3AsEZbeCG7w2-bdKC8sON2pyh2y9Hk7v1kwKwxk2Rn6Rp3q3rcWGcysoPoqKlIRg2-I-BiE3T0Jvjg2K4XGw65i5PPgxr6BcXxm4Qfq7MF54rnJ9rxP_ng/s320/cronica-c.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="01 Capital Federal",Crónica TV Ⓨ
 https://www.youtube.com/c/cronicatv/live
-#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://pelisjuanita.com/tv/logos/c5n.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" group-title="01 Capital Federal",C5N Ⓨ
+#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3u1LkBh586K7lxgI_kZjDUmMori8fodzF5fCVy0r-Y-zGDpAaNDeAIIYrsBngz9ZjmAv_NPFM39HUTYZpDaOQ-5WVoOIBVXB9Hgp2uQ_rjVUhyvumOZzHBOpJwzsWuFOFlSDQSL1tBk0/w200-h200/c5n-2017.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" group-title="01 Capital Federal",C5N Ⓨ
 https://www.youtube.com/c/c5n/live
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="01 Capital Federal" user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://www.youtube.com/c/A24com/live
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9 (El Nueve)" tvg-logo="https://i.imgur.com/EtcVSm4.png" group-title="01 Capital Federal",Canal 9 (El Nueve)
 https://access.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="01 Capital Federal" user-agent="iPhone",América TV
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyqFXZN64OKu_83EanrNLiQPVNGp4El6TBVTr-ErGwmKEWCLKSEb2d7EkfrawR-zNWej_-AW6Caa4q2vF5wsy-yRmQBDCFFTHdwzMD_D35gKpepscvImmwoT6fmjs2A3rQVxltgPePh4/s320/america-logo2020.png" group-title="01 Capital Federal" user-agent="iPhone",América TV
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="01 Capital Federal",La Nación+
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=FEWZjXJ7M0c
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública
 https://www.youtube.com/watch?v=YCjVyOeej3o
-#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://images.seeklogo.com/logo-png/52/2/telefe-2018-logo-png_seeklogo-527139.png" group-title="01 Capital Federal",Telefe
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjumHFy0EWzmERVbGYkcJVEf0Cv6ecqOLxG766FcU79f974a1IcFWbRoT48c9qNDgZdFgLVCx2vWm2i7H7QFc4k2HKQql-nSxCaOTyqGNi6BGyBD5aJ1Fr-Y_lUcPHJi3Lkh_BNSTww3ij9bT_WdS0nW0r1m-_9DIjU5dwhlRAwFhJLHIKXDLIL1Fm9Nw/w640-h360-rw/telefebasico.jpg" group-title="01 Capital Federal",Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 # FIN CAPITAL FEDERAL
 
