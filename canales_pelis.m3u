@@ -1,7 +1,7 @@
 #EXTM3U
 
 #Capital Federal
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/ciudad-magazine.png" tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="" group-title="01 Capital Federal",Ciudad Magazine
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi21ESowpnRgV7nuWY5hiSE2hfw_RW_sv5FSeVy9QpPSxC6_X7_elWbd2iURKaH8lV_KxQFLgSU26UDCEfzQetX8hiBmIcIIs07M2ICFu8YQVyoJaEwU7SGS5xxxiNGUC0IIhWeM9JAlwXj/s1600/magazine-2013.png" tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="" group-title="01 Capital Federal",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Bwftgji9rDsQkaRB_9USNkjh1J-PF9lFlNaBYbzZ_YiKMuY4VjwvgptWe_UF452aR5ym4x4nFy8eZWuTFjpWrd8ALKN-8vH7LE_NvzxZkns6gxEXRZrweBeHPs_qftbhGaaDzds8RpQV/s320/tn.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="01 Capital Federal",TN Todo Noticias Ⓨ
 https://www.youtube.com/c/todonoticias/live
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=FEWZjXJ7M0c
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública
 https://www.youtube.com/watch?v=YCjVyOeej3o
-#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjumHFy0EWzmERVbGYkcJVEf0Cv6ecqOLxG766FcU79f974a1IcFWbRoT48c9qNDgZdFgLVCx2vWm2i7H7QFc4k2HKQql-nSxCaOTyqGNi6BGyBD5aJ1Fr-Y_lUcPHJi3Lkh_BNSTww3ij9bT_WdS0nW0r1m-_9DIjU5dwhlRAwFhJLHIKXDLIL1Fm9Nw/w640-h360-rw/telefebasico.jpg" group-title="01 Capital Federal",Telefe
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://images.seeklogo.com/logo-png/52/2/telefe-2018-logo-png_seeklogo-527139.png"" group-title="01 Capital Federal",Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 # FIN CAPITAL FEDERAL
 
