@@ -1094,35 +1094,35 @@ https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 # FIN Religioso
 
 #Radio
-#EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="https://images.seeklogo.com/logo-png/49/2/radio10-logo-png_seeklogo-491885.png" group-title="15 Radio",Radio 10
+#EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Radio_10_logo.svg" group-title="15 Radio",Radio 10
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio La Red" tvg-logo="https://images.seeklogo.com/logo-png/26/1/radio-la-red-logo-png_seeklogo-269187.png" group-title="15 Radio",Radio La Red
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="Radio Con Vos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Radio_Con_Vos_logo.png" group-title="15 Radio",Radio Con Vos
+#EXTINF:-1 tvg-id="" tvg-name="Radio Con Vos" tvg-logo="" group-title="15 Radio",Radio Con Vos
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Mitre" tvg-logo="https://images.seeklogo.com/logo-png/9/1/mitre-radio-logo-png_seeklogo-93520.png" group-title="15 Radio",Radio Mitre
 https://radio.eduneu.eu:8040/radio.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Radio_Rivadavia_logo.png" group-title="15 Radio",Radio Rivadavia
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="15 Radio",Radio Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="Radio Continental" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Radio_Continental_Argentina.png" group-title="15 Radio",Radio Continental
+#EXTINF:-1 tvg-id="" tvg-name="Radio Continental" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="15 Radio",Radio Continental
 https://frontend.radiohdvivo.com/continental/live
-#EXTINF:-1 tvg-id="" tvg-name="Cadena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Cadena_3_Argentina_logo.png" group-title="15 Radio",Cadena 3
+#EXTINF:-1 tvg-id="" tvg-name="Cadena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logotipo-Cadena-Tres.png" group-title="15 Radio",Cadena 3
 https://24373.live.streamtheworld.com/RADIO3.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Nihuil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Radio_Nihuil_logo.png" group-title="15 Radio",Radio Nihuil
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nihuil" tvg-logo="" group-title="15 Radio",Radio Nihuil
 https://playerservices.streamtheworld.com/api/livestream-redirect/NIHUIL_AM680.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio LT7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Radio_LT7_logo.png" group-title="15 Radio",Radio LT7
+#EXTINF:-1 tvg-id="" tvg-name="Radio LT7" tvg-logo="" group-title="15 Radio",Radio LT7
 https://turadioenvivo.com/proxy/radiolt7/stream
-#EXTINF:-1 tvg-id="" tvg-name="Aspen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Aspen_Argentina_logo.png" group-title="15 Radio",Aspen
+#EXTINF:-1 tvg-id="" tvg-name="Aspen" tvg-logo="" group-title="15 Radio",Aspen
 https://sslstream.online:7001/stream
-#EXTINF:-1 tvg-id="" tvg-name="LV12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/LV12_logo.png" group-title="15 Radio",LV12
+#EXTINF:-1 tvg-id="" tvg-name="LV12" tvg-logo="" group-title="15 Radio",LV12
 https://streams.programmes-radio.com/?k=Gret27&stream=http://s1.radiosnethosting.com:8032/stream
-#EXTINF:-1 tvg-id="" tvg-name="La 100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/La_100_Argentina_logo.png" group-title="15 Radio",La 100
+#EXTINF:-1 tvg-id="" tvg-name="La 100" tvg-logo="" group-title="15 Radio",La 100
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/disney.png" group-title="15 Radio",Disney
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="15 Radio",Disney
 https://27343.live.streamtheworld.com/DISNEY_ARG_BA_ADP.aac
-#EXTINF:-1 tvg-id="" tvg-name="Rock & Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Rock_and_Pop_Argentina_logo.png" group-title="15 Radio",Rock & Pop
+#EXTINF:-1 tvg-id="" tvg-name="Rock & Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Pop_viejo_logo.png" group-title="15 Radio",Rock & Pop
 https://tolkien.republicahosting.net:2112/live
-#EXTINF:-1 tvg-id="" tvg-name="Mega 98.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mega_98.3_logo.png" group-title="15 Radio",Mega 98.3
+#EXTINF:-1 tvg-id="" tvg-name="Mega 98.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/MEGA_983_logoEDT_black.png" group-title="15 Radio",Mega 98.3
 https://mega.stweb.tv/mega983/live/playlist.m3u8
 # FIN RADIO
 
