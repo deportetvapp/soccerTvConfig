@@ -117,7 +117,7 @@ https://www.youtube.com/watch?v=Vh8xmLBJtR8
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-id="RTN.ar" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="02 Interior",RTN [Neuquén]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-logo="https://i.imgur.com/vcD8fXq.png" group-title="02 Interior",Canal 9 Televida [Mendoza]
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/El_Nueve_Televida_%28ID_2025%29.jpg/revision/latest/scale-to-width-down/200?cb=20250529065336" group-title="02 Interior",Canal 9 Televida [Mendoza]
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Formosa.ar" tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="02 Interior",Canal 3 [Formosa]
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
