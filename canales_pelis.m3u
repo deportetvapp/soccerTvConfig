@@ -301,7 +301,7 @@ https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 # FIN Infantil
 
 # Animación Adulta
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://pelisjuanita.com/tv/logos/los-simpsons.png" group-title="06 Animación Adulta",Los Simpsons
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://static.wikia.nocookie.net/simpsons/images/9/9b/SimpsonNeox1.jpg/revision/latest/scale-to-width-down/180?cb=20131210211540" group-title="06 Animación Adulta",Los Simpsons
 http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="06 Animación Adulta",Neo Go Go Play Mix
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
@@ -361,7 +361,7 @@ https://lbgo.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 https://lbgo.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="06 Animación Adulta",Gogoplay TV
 https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALF Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/ALF_1984_logo.png" group-title="06 Animación Adulta",ALF Español
+#EXTINF:-1 tvg-id="" tvg-name="ALF Español" tvg-logo="https://media.themoviedb.org/t/p/w58_and_h87_face/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg" group-title="06 Animación Adulta",ALF Español
 https://www.twitch.tv/alf_espanol
 #EXTINF:-1 channel-id="628751bb7154a40007168843" tvg-id="628751bb7154a40007168843" tvg-chno="320" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="06 Animación Adulta",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
@@ -385,7 +385,7 @@ https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="06 Animación Adulta",Retro Magico
 https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Adult_Swim_logo.svg/512px-Adult_Swim_logo.svg.png" tvg-name="Adult Swim Brazil" group-title="06 Animación Adulta",Adult Swim Brazil
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngitem.com/pimgs/m/765-7651775_adult-swim-logo-png-transparent-png.png" tvg-name="Adult Swim Brazil" group-title="06 Animación Adulta",Adult Swim Brazil
 http://45.190.28.50/TRUTV_HD/index.m3u8
 #EXTINF:-1 channel-id="5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="06 Animación Adulta",Naruto
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
