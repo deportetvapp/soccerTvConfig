@@ -1103,27 +1103,27 @@ https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio La Red" tvg-logo="https://images.seeklogo.com/logo-png/26/1/radio-la-red-logo-png_seeklogo-269187.png" group-title="15 Radio",Radio La Red
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="Radio Con Vos" tvg-logo="" group-title="15 Radio",Radio Con Vos
+#EXTINF:-1 tvg-id="" tvg-name="Radio Con Vos" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbd7wbsq4Jh-9FddcqB5LkRpMAyA4vkR25SA0ixKq8Xwle3kcGsI8Cn-QFi7PwdUgVhKwBo-OxOFNwWalv2_b3Qf-kA0xE-UK3x1uT0kWQ-Vkh9cryukf7iq6mR-EgIBNxCK9dfj534giigeWAavzUoynrCymGoc67Br9GQeR2H2aS4oc-H7B53p4Ords/s320/radioconvos-2024-v2.png" group-title="15 Radio",Radio Con Vos
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Mitre" tvg-logo="https://images.seeklogo.com/logo-png/9/1/mitre-radio-logo-png_seeklogo-93520.png" group-title="15 Radio",Radio Mitre
 https://radio.eduneu.eu:8040/radio.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/LS5Rivadavia2021_GB.svg/revision/latest/scale-to-width-down/200?cb=20250706235151&path-prefix=es" group-title="15 Radio",Radio Rivadavia
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Radio_Rivadavia_1998.png/revision/latest/scale-to-width-down/78?cb=20200926142740&path-prefix=es" group-title="15 Radio",Radio Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="Radio Continental" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="15 Radio",Radio Continental
 https://frontend.radiohdvivo.com/continental/live
 #EXTINF:-1 tvg-id="" tvg-name="Cadena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logotipo-Cadena-Tres.png" group-title="15 Radio",Cadena 3
 https://24373.live.streamtheworld.com/RADIO3.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Nihuil" tvg-logo="" group-title="15 Radio",Radio Nihuil
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nihuil" tvg-logo="https://radioarg.net/storage/radios/7843/9965/conversions/radioNihuil-lg.webp" group-title="15 Radio",Radio Nihuil
 https://playerservices.streamtheworld.com/api/livestream-redirect/NIHUIL_AM680.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio LT7" tvg-logo="" group-title="15 Radio",Radio LT7
+#EXTINF:-1 tvg-id="" tvg-name="Radio LT7" tvg-logo="https://cdn-profiles.tunein.com/s2435/images/logod.jpg?t=638338414800000000" group-title="15 Radio",Radio LT7
 https://turadioenvivo.com/proxy/radiolt7/stream
-#EXTINF:-1 tvg-id="" tvg-name="Aspen" tvg-logo="" group-title="15 Radio",Aspen
+#EXTINF:-1 tvg-id="" tvg-name="Aspen" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8vNvkGfdsNtIN-yUKR2E-dxSR62R9tDvezD2_lBI_uKhiKUDLKw6wCR0OybTS9pni6tPKkVNjVDiVKNgGWKQtpayBpMvhedHNk1604AIX1gvPhstmjR8xv7BWxqYE134cX1HbodFRrvLfGNkDErUenMZWUD_d1gofDnPbfZ1cmLNPfKx8e_4e4ZJDDhs/s904/aspen-logo-gr.png" group-title="15 Radio",Aspen
 https://sslstream.online:7001/stream
-#EXTINF:-1 tvg-id="" tvg-name="LV12" tvg-logo="" group-title="15 Radio",LV12
+#EXTINF:-1 tvg-id="" tvg-name="LV12" tvg-logo="https://cdn-radiotime-logos.tunein.com/s108390d.png" group-title="15 Radio",Radio LV12
 https://streams.programmes-radio.com/?k=Gret27&stream=http://s1.radiosnethosting.com:8032/stream
-#EXTINF:-1 tvg-id="" tvg-name="La 100" tvg-logo="" group-title="15 Radio",La 100
+#EXTINF:-1 tvg-id="" tvg-name="La 100" tvg-logo="https://cdn-profiles.tunein.com/s6984/images/logod.jpg?t=636247636848500000" group-title="15 Radio",La 100
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="15 Radio",Disney
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="src="https://cdn-profiles.tunein.com/s13659/images/logod.png?t=638297748750000000" group-title="15 Radio",Radio Disney
 https://27343.live.streamtheworld.com/DISNEY_ARG_BA_ADP.aac
 #EXTINF:-1 tvg-id="" tvg-name="Rock & Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Pop_viejo_logo.png" group-title="15 Radio",Rock & Pop
 https://tolkien.republicahosting.net:2112/live
