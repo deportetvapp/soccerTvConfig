@@ -1107,7 +1107,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AA
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Mitre" tvg-logo="https://images.seeklogo.com/logo-png/9/1/mitre-radio-logo-png_seeklogo-93520.png" group-title="15 Radio",Radio Mitre
 https://radio.eduneu.eu:8040/radio.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="15 Radio",Radio Rivadavia
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/LS5Rivadavia2021_GB.svg/revision/latest/scale-to-width-down/200?cb=20250706235151&path-prefix=es" group-title="15 Radio",Radio Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="Radio Continental" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="15 Radio",Radio Continental
 https://frontend.radiohdvivo.com/continental/live
