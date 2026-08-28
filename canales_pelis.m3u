@@ -31,10 +31,6 @@ http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/El_Doce_C%C3%B3rdoba_%28Logo_2010%29.png/revision/latest/scale-to-width-down/50?cb=20211001180836&path-prefix=es" group-title="02 Interior",El Doce [Córdoba]
 https://www.youtube.com/watch?v=nndzeKDSjuc
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="02 Interior",Canal 10 Junín
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_360p.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="02 Interior",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="02 Interior",Argentinísima Satelital
@@ -149,15 +145,13 @@ https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-491
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/9qOOQy1cVCs84SE18ivIWpL8Mqc.png" group-title="04 Internacional",Distrito TV
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/wiZ9S6UFFGro47TnzgAR13IhneP.png" group-title="04 Internacional",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/EWTN-Logo.svg" group-title="04 Internacional",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="04 Internacional",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN MÁS" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="04 Internacional",RCN MÁS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="04 Internacional",RT en Español
+#EXTINF:-1 tvg-id="" tvg-name="RT en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RT_Espa%C3%B1ol_2010.png/revision/latest/scale-to-width-down/119?cb=20191103091047" group-title="04 Internacional",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 channel-id="ES2300004XW-es" tvg-id="ES2300004XW" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300004XW_20251118T015346SQUARE.png" group-title="04 Internacional",Al Jazeera
 https://jmp2.uk/stvp-ES2300004XW
