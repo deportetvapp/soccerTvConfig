@@ -1099,7 +1099,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 # FIN Religioso
 
 #Radio
-#EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Radio_10_logo.svg/330px-Radio_10_logo.svg.png" group-title="15 Radio",Radio 10
+#EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_s0zizEsnaXiLt1pDzlR9DhkyZ3xPIjZW-wt1K4Pkq8jM1Nlp4mANyFTV-xK6jWRwczpfD2SNS-rd0wn7yT9I8fsxdJ1SPS76LCBYJlo33St3rLcr3hxrzZWdaHT8HM7sD-UiVY-XVWc/w205-h119/r10-2018.png" group-title="15 Radio",Radio 10
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio La Red" tvg-logo="https://images.seeklogo.com/logo-png/26/1/radio-la-red-logo-png_seeklogo-269187.png" group-title="15 Radio",Radio La Red
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
@@ -1123,7 +1123,7 @@ https://sslstream.online:7001/stream
 https://streams.programmes-radio.com/?k=Gret27&stream=http://s1.radiosnethosting.com:8032/stream
 #EXTINF:-1 tvg-id="" tvg-name="La 100" tvg-logo="https://cdn-profiles.tunein.com/s6984/images/logod.jpg?t=636247636848500000" group-title="15 Radio",La 100
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="src="https://cdn-profiles.tunein.com/s13659/images/logod.png?t=638297748750000000" group-title="15 Radio",Radio Disney
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="src="https://static.wikia.nocookie.net/logopedia/images/f/f2/Radio_Disney_2001.jpg/revision/latest/scale-to-width-down/250?cb=20200414193549&path-prefix=es" group-title="15 Radio",Radio Disney
 https://27343.live.streamtheworld.com/DISNEY_ARG_BA_ADP.aac
 #EXTINF:-1 tvg-id="" tvg-name="Rock & Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Pop_viejo_logo.png" group-title="15 Radio",Rock & Pop
 https://tolkien.republicahosting.net:2112/live
