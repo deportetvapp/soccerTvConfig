@@ -33,7 +33,7 @@ http://200.91.32.158:8080/telefehdvalle/index.m3u8
 https://www.youtube.com/watch?v=nndzeKDSjuc
 
 
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/canal-10-junin.png" group-title="02 Interior",Canal 10 Junín
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="02 Interior",Canal 10 Junín
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_360p.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="02 Interior",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
@@ -141,31 +141,31 @@ https://www.twitch.tv/vorterixok
 # FIN STREAM
 
 # Internacional
-#EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://pelisjuanita.com/tv/logos/24h.png" group-title="04 Internacional",24h
+#EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/24h_2026.svg" group-title="04 Internacional",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://pelisjuanita.com/tv/logos/azteca-7.png" group-title="04 Internacional",Azteca 7
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/hRxYQTVSCRh4uCs3Wk4AisHOKUI.png" group-title="04 Internacional",Azteca 7
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Internacional" tvg-logo="https://pelisjuanita.com/tv/logos/azteca-internacional.png" group-title="04 Internacional",Azteca Internacional
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Internacional" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="04 Internacional",Azteca Internacional
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="https://pelisjuanita.com/tv/logos/distrito-tv.png" group-title="04 Internacional",Distrito TV
+#EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/9qOOQy1cVCs84SE18ivIWpL8Mqc.png" group-title="04 Internacional",Distrito TV
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://pelisjuanita.com/tv/logos/dw.png" group-title="04 Internacional",DW
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/wiZ9S6UFFGro47TnzgAR13IhneP.png" group-title="04 Internacional",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://pelisjuanita.com/tv/logos/ewtn.png" group-title="04 Internacional",EWTN
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/EWTN-Logo.svg" group-title="04 Internacional",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://pelisjuanita.com/tv/logos/france-24-espanol.png" group-title="04 Internacional",France 24 Español
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="04 Internacional",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN MÁS" tvg-logo="https://pelisjuanita.com/tv/logos/rcn-mas.png" group-title="04 Internacional",RCN MÁS
+#EXTINF:-1 tvg-id="" tvg-name="RCN MÁS" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="04 Internacional",RCN MÁS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT en Español" tvg-logo="https://pelisjuanita.com/tv/logos/rt-en-espanol.png" group-title="04 Internacional",RT en Español
+#EXTINF:-1 tvg-id="" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="04 Internacional",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 channel-id="ES2300004XW-es" tvg-id="ES2300004XW" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300004XW_20251118T015346SQUARE.png" group-title="04 Internacional",Al Jazeera
 https://jmp2.uk/stvp-ES2300004XW
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://pelisjuanita.com/tv/logos/telemundo.png" group-title="04 Internacional",Telemundo
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="04 Internacional",Telemundo
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="04 Internacional",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://pelisjuanita.com/tv/logos/telemax.png" group-title="04 Internacional",Telemax
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="04 Internacional",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 #EXTINF:-1 channel-id="62310d5a5dc9550007c6f580" tvg-id="62310d5a5dc9550007c6f580" tvg-chno="603" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" group-title="04 Internacional",CBS News 24/7
 https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
@@ -181,7 +181,7 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67e6979de1de
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TVN_Chile_logo.png" group-title="04 Internacional",TVN Chile
 https://iptv2.intersurtv.cl/TVN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://pelisjuanita.com/tv/logos/latele.png" group-title="04 Internacional",Latele
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Latele_LEP_2023.png" group-title="04 Internacional",Latele
 https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="" tvg-name="CTV Honduras" tvg-logo="https://images.seeklogo.com/logo-png/33/1/canal-11-honduras-logo-png_seeklogo-332813.png" group-title="04 Internacional",CTV Honduras
 https://viewhn.com/ctvinternacional/live/playlist.m3u8
@@ -424,13 +424,13 @@ https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 # FIN Animación_Adulta
 
 # Cine
-#EXTINF:-1 tvg-id="" tvg-name="AMC Series" tvg-logo="https://pelisjuanita.com/tv/logos/amc-series.png" group-title="07 Cine",AMC Series
+#EXTINF:-1 tvg-id="" tvg-name="AMC Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="07 Cine",AMC Series
 http://190.61.101.11:7050/play/a08r/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://pelisjuanita.com/tv/logos/cinecanal.png" group-title="07 Cine",Cinecanal
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="07 Cine",Cinecanal
 http://190.61.101.11:7050/play/a07a/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="https://pelisjuanita.com/tv/logos/europa-europa.png" group-title="07 Cine",Europa Europa
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="07 Cine",Europa Europa
 http://190.61.101.11:7050/play/a082/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://pelisjuanita.com/tv/logos/warner.png" group-title="07 Cine",Warner
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="07 Cine",Warner
 http://190.61.101.11:7050/play/a078/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_mexico_latam_1400x2000.jpg",group-title="07 Cine", Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
@@ -643,7 +643,7 @@ https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
 https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 #EXTINF:-1 channel-id="699763d184235f26d5056002" tvg-id="699763d184235f26d5056002" tvg-name="Enchufe.TV" tvg-logo="https://images.pluto.tv/channels/699763d184235f26d5056002/colorLogoPNG.png" group-title="07 Cine",Enchufe.TV
 https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pelisjuanita.com/tv/logos/mega-cine-tv.png" group-title="07 Cine",Mega Cine TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvivu.com/logos/mega-cine-tv-160.webp" group-title="07 Cine",Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/MyTime_Cine_Espa%C3%B1a_logo.png" group-title="07 Cine",MyTime Cine España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -713,7 +713,7 @@ https://jmp2.uk/plu-69b32974814d27f4aed90fdd.m3u8
 # FIN Novelas
 
 # Documentales
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://pelisjuanita.com/tv/logos/love-nature.png" group-title="10 Documentales",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sQzxQ1GOyNyxyaznugkicB1JNDO.png" group-title="10 Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/240p-cc/index.m3u8
 #EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="10 Documentales",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
@@ -736,19 +736,19 @@ https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 #EXTINF:-1 channel-id="61099f2b40d0640007fc5aa2" tvg-id="61099f2b40d0640007fc5aa2" tvg-chno="161" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="10 Documentales",El encantador de perros
 #EXTINF:-1 channel-id="5e67d41b93312100076f3fca" tvg-id="5e67d41b93312100076f3fca" tvg-chno="121" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="10 Documentales",Los archivos del FBI
 https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Bob Ross Channel" tvg-logo="https://pelisjuanita.com/tv/logos/the-bob-ross-channel.png" group-title="10 Documentales",The Bob Ross Channel
+#EXTINF:-1 tvg-id="" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png" group-title="10 Documentales",The Bob Ross Channel
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f88/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
-#EXTINF:-1 tvg-id="" tvg-name="The Design Network" tvg-logo="https://pelisjuanita.com/tv/logos/the-design-network.png" group-title="10 Documentales",The Design Network
+#EXTINF:-1 tvg-id="" tvg-name="The Design Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png" group-title="10 Documentales",The Design Network
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5f0641d3e8ffda004033b16e/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
-#EXTINF:-1 tvg-id="" tvg-name="Xataka" tvg-logo="https://pelisjuanita.com/tv/logos/xataka.png" group-title="10 Documentales",Xataka
+#EXTINF:-1 tvg-id="" tvg-name="Xataka" tvg-logo="https://cdn.tvivu.com/logos/xataka-es-160.webp" group-title="10 Documentales",Xataka
 https://jmp2.uk/stvp-ES42000022E
-#EXTINF:-1 tvg-id="" tvg-name="El encantador de perros" tvg-logo="https://pelisjuanita.com/tv/logos/el-encantador-de-perros.png" group-title="10 Documentales",El encantador de perros
+#EXTINF:-1 tvg-id="" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="10 Documentales",El encantador de perros
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="10 Documentales",History
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/national_geographic.png" group-title="10 Documentales",NatGeo
 http://45.162.193.35/NATGEO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba" tvg-logo="https://pelisjuanita.com/tv/logos/historias-de-ultratumba.png" group-title="10 Documentales",Historias de Ultratumba
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="10 Documentales",Historias de Ultratumba
 https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
 #EXTINF:-1 channel-id="6335a6b6e6f7a600076e589e" tvg-id="6335a6b6e6f7a600076e589e" tvg-chno="152" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="10 Documentales",Cazasubastas
 https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
@@ -800,11 +800,11 @@ https://jmp2.uk/plu-69fcaaa1853a01a827bcd056.m3u8
 https://www.twitch.tv/nasa
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="10 Documentales",History
 http://45.134.141.161:2200/ARG/History_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pelisjuanita.com/tv/logos/nat-geo-wild.png" group-title="10 Documentales",Nat Geo Wild
+#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/esXeePrsUGpF6mGQXs3jImz9QoN.png" group-title="10 Documentales",Nat Geo Wild
 http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/discovery_science.png" group-title="10 Documentales",Discovery Science
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pelisjuanita.com/tv/logos/discovery-investigation.png" group-title="10 Documentales",Discovery Investigation
+#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/3s6YJSYXW9mtJwoszTVI1BHDNc6.png" group-title="10 Documentales",Discovery Investigation
 http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png" group-title="10 Documentales",Wow Documentary HD
 https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
