@@ -145,9 +145,9 @@ https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-491
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/9qOOQy1cVCs84SE18ivIWpL8Mqc.png" group-title="04 Internacional",Distrito TV
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/EWTN-Logo.svg" group-title="04 Internacional",EWTN
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/EWTN-Logo.svg/330px-EWTN-Logo.svg.png" group-title="04 Internacional",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="04 Internacional",France 24 Español
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/330px-France_24_logo_%282013%29.svg.png" group-title="04 Internacional",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN MÁS" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="04 Internacional",RCN MÁS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -1101,7 +1101,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 # FIN Religioso
 
 #Radio
-#EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Radio_10_logo.svg" group-title="15 Radio",Radio 10
+#EXTINF:-1 tvg-id="" tvg-name="Radio 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Radio_10_logo.svg/330px-Radio_10_logo.svg.png" group-title="15 Radio",Radio 10
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio La Red" tvg-logo="https://images.seeklogo.com/logo-png/26/1/radio-la-red-logo-png_seeklogo-269187.png" group-title="15 Radio",Radio La Red
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
