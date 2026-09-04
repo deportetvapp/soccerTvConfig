@@ -24,7 +24,9 @@ https://www.youtube.com/watch?v=FEWZjXJ7M0c
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="01 Capital Federal",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública
-https://www.youtube.com/watch?v=YCjVyOeej3o
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.tvpublica.com.ar/
+https://g2.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.tvpublica.com.ar/
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://images.seeklogo.com/logo-png/52/2/telefe-2018-logo-png_seeklogo-527139.png"" group-title="01 Capital Federal",Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 # FIN CAPITAL FEDERAL
@@ -667,6 +669,8 @@ http://45.134.141.161:2200/ARG/TCM/index.m3u8
 http://45.134.141.161:2200/ARG/AMC_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="07 Cine",Warner Channel
 http://45.134.141.161:2200/ARG/Warner_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/32/8/nashville-logo-png_seeklogo-32814.png" group-title="07 Cine",Nashville
+https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 # FIN Cine
 
 # Novelas
@@ -866,8 +870,6 @@ https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTINF:-1 channel-id="68ba0910e1d03fec7d5c084f" tvg-id="68ba0910e1d03fec7d5c084f" tvg-name="Al Ritmo del Jaripeo" tvg-logo="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/colorLogoPNG.png" group-title="11 Música",Al Ritmo del Jaripeo
 https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/32/8/nashville-logo-png_seeklogo-32814.png" group-title="11 Música",Nashville
-https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="11 Música",Vevo 2010s
 https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="11 Música",Vevo 70s y 80s
