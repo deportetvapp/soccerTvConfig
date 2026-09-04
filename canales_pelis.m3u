@@ -292,6 +292,8 @@ http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="05 Infantil",Unetev HD
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://img.favpng.com/23/9/6/el-chavo-del-ocho-logo-sitcom-television-show-comedy-png-favpng-0YNLgrnBWxhT9rHkbakqV7STg.jpg" group-title="05 Infantil", El Chavo del 8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 # FIN Infantil
 
 # Animación Adulta
@@ -303,8 +305,7 @@ https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="" tvg-name="Energeek Fan" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" group-title="06 Animación Adulta", Energeek Fan
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://i.imgur.com/rU1fKqI.png" group-title="06 Animación Adulta", El Chavo del 8
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Hikari Station" tvg-id="HikariStation" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="06 Animación Adulta",Hikari Station HD
 https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 #EXTINF:-1 tvg-name="Laika Channel" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/KpQZrVtp/Laika-Channel-sin-fondo-2026-Esp.png" group-title="06 Animación Adulta",Laika Channel HD
