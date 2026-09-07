@@ -24,9 +24,7 @@ https://www.youtube.com/watch?v=FEWZjXJ7M0c
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="01 Capital Federal",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.tvpublica.com.ar/
-https://g2.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.tvpublica.com.ar/
+https://www.youtube.com/watch?v=1jWpqLRGsEI
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://images.seeklogo.com/logo-png/52/2/telefe-2018-logo-png_seeklogo-527139.png"" group-title="01 Capital Federal",Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 # FIN CAPITAL FEDERAL
@@ -204,6 +202,8 @@ https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
 # FIN Internacional
 
 # Infantil
+#EXTINF:-1 tvg-id="X-Mens" tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/X-Men-Logo-1987.png" group-title="05 Infantil",X-Mens
+https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="05 Infantil",EnerGeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="05 Infantil",RCN Más
@@ -297,6 +297,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 # FIN Infantil
 
 # Animación Adulta
+#EXTINF:-1 tvg-id="" tvg-name="TL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYO353n3wq3F-Zgubbqmg3D7iIJJqt89fhuSU59Vbtw&s=10" group-title="06 Animación Adulta",TL
+https://cdn.40mediagroup.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://static.wikia.nocookie.net/simpsons/images/9/9b/SimpsonNeox1.jpg/revision/latest/scale-to-width-down/180?cb=20131210211540" group-title="06 Animación Adulta",Los Simpsons
 http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="06 Animación Adulta",Neo Go Go Play Mix
@@ -305,7 +308,6 @@ https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="" tvg-name="Energeek Fan" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" group-title="06 Animación Adulta", Energeek Fan
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
-
 #EXTINF:-1 tvg-name="Hikari Station" tvg-id="HikariStation" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="06 Animación Adulta",Hikari Station HD
 https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 #EXTINF:-1 tvg-name="Laika Channel" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/KpQZrVtp/Laika-Channel-sin-fondo-2026-Esp.png" group-title="06 Animación Adulta",Laika Channel HD
@@ -810,6 +812,11 @@ https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 # FIN Documentales
 
 #Música
+#EXTINF:-1 tvg-id="" tvg-name="Metallica TV" tvg-logo="https://i.ytimg.com/vi/1fz60gNnSdU/maxresdefault.jpg" group-title="11 Música",Metallica TV
+https://www.youtube.com/watch?v=1fz60gNnSdU
+
+#EXTINF:-1 tvg-id="" tvg-name="Tierra Mía" tvg-logo="https://www.5900.tv/storage/thumbnails/RJqZv1cxmng1hrA9lfPhSlnXKTMTZ40TdQmBdW64.jpg" group-title="11 Música",Tierra Mía
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=84c2dc3d2721606ee81c5209bac94797
 #EXTINF:-1 tvg-id="" tvg-name="ChamameTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chamame_TV_logo.png/440px-Chamame_TV_logo.png" group-title="11 Música",ChamameTV
 https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cumbia Mix" tvg-logo="https://i.ibb.co/4n7qBPF9/Logo-Cumbia-Mix.png" group-title="11 Música",Cumbia Mix
