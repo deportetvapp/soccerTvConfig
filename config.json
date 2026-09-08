@@ -2,7 +2,7 @@
   "minimumVersion": "1.0.5", 
   "web": "https://deportetvapp.github.io/download/",  
   "m3uUrl": "https://raw.githubusercontent.com/deportetvapp/soccerTvConfig/main/canales_pelis.m3u",
-  "premiumCategories": ["Cine"]  
+  "premiumCategories": ["Cine","Animación Adulta"]  
 }
  
  
