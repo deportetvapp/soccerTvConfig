@@ -987,6 +987,10 @@ http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 # FIN Deportes
 
 # Lifestyle
+#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="165" tvg-name="Caso Cerrado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest?cb=20200816205635&path-prefix=es" group-title="13 Lifestyle",Caso Cerrado
+https://www.youtube.com/watch?v=CG7UYN5OrQA
+#EXTINF:-1 tvg-id="CarasTV.ar" tvg-logo="https://caras.perfil.com/seccion/caras-tv" group-title="13 Lifestyle", CARAS TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chacra TV" tvg-logo="https://i.ibb.co/R0h2k8S/Logo-Chacra-TV.png" group-title="13 Lifestyle",Chacra TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/chunklist_w2025152899.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Garage-TV.png" group-title="13 Lifestyle",Garage TV
