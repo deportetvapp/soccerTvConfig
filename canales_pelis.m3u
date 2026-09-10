@@ -202,6 +202,10 @@ https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
 # FIN Internacional
 
 # Infantil
+#EXTINF:-1 tvg-id="Bluey" tvg-logo="https://static.freepnglogo.com/images/all_img/1706376323bluey-icon-png.png" group-title="05 Infantil",Bluey
+https://www.youtube.com/watch?v=4bbPfVFaSx8
+#EXTINF:-1 tvg-id="Classic Cartoons" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/04/Kids-WB-Logo-768x432.png" group-title="05 Infantil",Classic Cartoons
+https://www.youtube.com/watch?v=W0Rb3v7J1ZQ
 #EXTINF:-1 tvg-id="X-Mens" tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/X-Men-Logo-1987.png" group-title="05 Infantil",X-Mens
 https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="05 Infantil",EnerGeek Retro
@@ -812,9 +816,12 @@ https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 # FIN Documentales
 
 #Música
+#EXTINF:-1 tvg-id="" tvg-name="Lil Chief Records" tvg-logo="https://i1.sndcdn.com/avatars-000562415877-xolfp6-t500x500.jpg" group-title="11 Música",Lil Chief Records
+https://www.youtube.com/watch?v=5D2zfHjZYqA
+#EXTINF:-1 tvg-id="" tvg-name="Quiero" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s1600/q.png" group-title="11 Música",Quiero
+https://www.youtube.com/watch?v=vGNglKWqwcQ
 #EXTINF:-1 tvg-id="" tvg-name="Metallica TV" tvg-logo="https://i.ytimg.com/vi/1fz60gNnSdU/maxresdefault.jpg" group-title="11 Música",Metallica TV
 https://www.youtube.com/watch?v=1fz60gNnSdU
-
 #EXTINF:-1 tvg-id="" tvg-name="Tierra Mía" tvg-logo="https://www.5900.tv/storage/thumbnails/RJqZv1cxmng1hrA9lfPhSlnXKTMTZ40TdQmBdW64.jpg" group-title="11 Música",Tierra Mía
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=84c2dc3d2721606ee81c5209bac94797
 #EXTINF:-1 tvg-id="" tvg-name="ChamameTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chamame_TV_logo.png/440px-Chamame_TV_logo.png" group-title="11 Música",ChamameTV
