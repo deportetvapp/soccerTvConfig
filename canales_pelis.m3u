@@ -202,6 +202,9 @@ https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
 # FIN Internacional
 
 # Infantil
+
+#EXTINF:-1 tvg-id="Epic Toon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="05 Infantil",Epic Toon
+https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Bluey" tvg-logo="https://static.freepnglogo.com/images/all_img/1706376323bluey-icon-png.png" group-title="05 Infantil",Bluey
 https://www.youtube.com/watch?v=4bbPfVFaSx8	
 #EXTINF:-1 tvg-id="Classic Cartoons" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/04/Kids-WB-Logo-768x432.png" group-title="05 Infantil",Classic Cartoons
@@ -298,12 +301,17 @@ http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://img.favpng.com/23/9/6/el-chavo-del-ocho-logo-sitcom-television-show-comedy-png-favpng-0YNLgrnBWxhT9rHkbakqV7STg.jpg" group-title="05 Infantil", El Chavo del 8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" group-title="05 Infantil",Teletubbies
+https://jmp2.uk/stvp-ES1600007AI
+#EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" group-title="05 Infantil",Teletubbies
+https://jmp2.uk/stvp-ES1600007AI
 # FIN Infantil
 
 # Animación Adulta
 #EXTINF:-1 tvg-id="" tvg-name="TL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYO353n3wq3F-Zgubbqmg3D7iIJJqt89fhuSU59Vbtw&s=10" group-title="06 Animación Adulta",TL
 https://cdn.40mediagroup.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Blender" tvg-logo="https://video.blender.org/lazy-static/avatars/fae48696-478e-4c46-b720-9f3a1919eed0.png" group-title="06 Animación Adulta",Blender
+https://ireplay.tv/test/hd_blender.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://static.wikia.nocookie.net/simpsons/images/9/9b/SimpsonNeox1.jpg/revision/latest/scale-to-width-down/180?cb=20131210211540" group-title="06 Animación Adulta",Los Simpsons
 http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="06 Animación Adulta",Neo Go Go Play Mix
@@ -921,7 +929,6 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mediachoice.eu/uploads/7/7/2/9/77296599/articleimg01_orig.png" group-title="11 Música",XITE Rock y Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-# FIN MÚSICA
 #EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/metal.png" group-title="11 Música",Metal 24/7
 https://www.youtube.com/watch?v=3LWMFjRZQ6k
 #EXTINF:-1 tvg-id="" tvg-name="Synthwave Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Synthwave.svg/1280px-Synthwave.svg.png" group-title="11 Música",Synthwave Music
@@ -930,6 +937,13 @@ https://www.youtube.com/watch?v=GcgXLSFKJNQ
 https://www.youtube.com/watch?v=9duv1i593QI
 #EXTINF:-1 tvg-id="" tvg-name="Jazz 24/7" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/jazz.png" group-title="11 Música",Jazz 24/7
 https://www.youtube.com/watch?v=9G0BtLy8cFI
+#EXTINF:-1 channel-id="ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-chno="4694" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png" group-title="11 Música",Trace Latina
+https://jmp2.uk/stvp-ESBA3300042Y6
+#EXTINF:-1 channel-id="ESBA3300043M0" tvg-id="ESBA3300043M0" tvg-chno="4696" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png" group-title="11 Música",Trace Urban
+https://jmp2.uk/stvp-ESBA3300043M0
+
+
+# FIN MÚSICA
 
 # Deportes
 #EXTINF:-1 channel-id="6080345ebb49b90007ce0baf" tvg-id="6080345ebb49b90007ce0baf" tvg-chno="164" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="12 Deportes",Pluto TV Motor
@@ -1036,7 +1050,7 @@ https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
 #EXTINF:-1 channel-id="5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="13 Lifestyle",MTV Ridiculousness
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
 #EXTINF:-1 channel-id="5ebacbcae43a6d000787b88e" tvg-id="5ebacbcae43a6d000787b88e" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="13 Lifestyle",The Pet Collective
-https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8
+https://jmp2.uk/stvp-ESAJ4500016BH
 #EXTINF:-1 channel-id="5ebaccf1734aaf0007142c86" tvg-id="5ebaccf1734aaf0007142c86" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="13 Lifestyle",FailArmy
 https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
 #EXTINF:-1 channel-id="5ed6828192e8b3000743ef61" tvg-id="5ed6828192e8b3000743ef61" tvg-name="Wipe Out" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="13 Lifestyle",Wipe Out
