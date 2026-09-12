@@ -303,8 +303,6 @@ https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" group-title="05 Infantil",Teletubbies
 https://jmp2.uk/stvp-ES1600007AI
-#EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" group-title="05 Infantil",Teletubbies
-https://jmp2.uk/stvp-ES1600007AI
 # FIN Infantil
 
 # Animación Adulta
