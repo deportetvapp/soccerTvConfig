@@ -33,8 +33,6 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/El_Doce_C%C3%B3rdoba_%28Logo_2010%29.png/revision/latest/scale-to-width-down/50?cb=20211001180836&path-prefix=es" group-title="02 Interior",El Doce [Córdoba]
 https://www.youtube.com/watch?v=nndzeKDSjuc
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="02 Interior",Agrotendencia TV
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="02 Interior",Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="Canal7TV.ar" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="02 Interior",Canal 7 TV [Santiago del Estero]
@@ -845,7 +843,7 @@ https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 #EXTINF:-1 tvg-id="Now90s00s.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/NOW_90s_Logo.png" group-title="11 Música",NOW 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="11 Música",NEW K-POP
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://jmp2.uk/stvp-DE3900002R1
 #EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="11 Música",DanceTV House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://images.sftcdn.net/images/t_app-cover-s-16-9,f_auto/p/6511e82e-ee50-440e-9709-f6f192c987f2/2073027423/retro-music-television-screenshot", tvg-name="Retro TV" group-title="11 Música"  , Retro TV
@@ -1103,6 +1101,8 @@ https://jmp2.uk/plu-69fcaa88e022927e1c94c533.m3u8
 https://jmp2.uk/plu-69fcdc73488e575cff213adc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E!_Logo.png" group-title="13 Lifestyle",E! Entertainment
 http://45.134.141.161:2200/ARG/E_Entertainment/index.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="13 Lifestyle",Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 # FIN Lifestyle
 
 # Religioso

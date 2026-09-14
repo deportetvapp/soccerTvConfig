@@ -2,7 +2,28 @@
   "minimumVersion": "1.0.5", 
   "web": "https://deportetvapp.github.io/download/",  
   "m3uUrl": "https://raw.githubusercontent.com/deportetvapp/soccerTvConfig/main/canales_pelis.m3u",
-  "premiumCategories": ["Religioso"]  
+  "premiumCategories": ["Religioso"] ,
+"podcastShows": [
+  {"nombre":"El Bazar de los Tormentos","feedUrl":"https://www.ivoox.com/podcast-bazar-de-los-tormentos_fg_f11695343_filtro_1.xml","categoria":"Terror","maxEpisodios":4},
+  {"nombre":"Cuentos Narrados","feedUrl":"https://feeds.ivoox.com/feed_fg_f12706344_filtro_1.xml","categoria":"Terror","maxEpisodios":4},
+  {"nombre":"Martes de Misterio","feedUrl":"https://feeds.simplecast.com/EY2hNQ16","categoria":"Misterio","maxEpisodios":4},
+  {"nombre":"Trasnoche Paranormal","feedUrl":"https://www.spreaker.com/show/3291050/episodes/feed","categoria":"Misterio","maxEpisodios":4},
+  {"nombre":"Proyecto Esquinas","feedUrl":"https://anchor.fm/s/fc9a47f8/podcast/rss","categoria":"Ficción","maxEpisodios":4},
+  {"nombre":"Cuentos de Medianoche","feedUrl":"https://www.ivoox.com/podcast-cuentos-de-medianoche_fg_f11351149_filtro_1.xml","categoria":"Relatos","maxEpisodios":4},
+  {"nombre":"Historia en Podcast","feedUrl":"https://feeds.megaphone.fm/ADSMOVILESPAASL6591275552","categoria":"Historia","maxEpisodios":4},
+  {"nombre":"Historias de nuestra historia","feedUrl":"https://www.radionacional.com.ar/category/buenos-aires/lra-1-buenos-aires/historias-de-nuestra-historia/feed/podcast/?redirect=no","categoria":"Historia","maxEpisodios":4},
+  {"nombre":"Argentina y su historia","feedUrl":"https://anchor.fm/s/401c90cc/podcast/rss","categoria":"Historia","maxEpisodios":4},
+  {"nombre":"Mitos y Leyendas Argentinas","feedUrl":"https://www.spreaker.com/show/5743621/episodes/feed","categoria":"Leyendas","maxEpisodios":4},
+  {"nombre":"Laberinto Argentino","feedUrl":"https://anchor.fm/s/716bbf90/podcast/rss","categoria":"Biografías","maxEpisodios":4},
+  {"nombre":"El Sonido y la Furia","feedUrl":"https://anchor.fm/s/963839c/podcast/rss","categoria":"Literatura","maxEpisodios":4},
+  {"nombre":"Vidas Prestadas","feedUrl":"https://www.radionacional.com.ar/category/archivo-rna/archivo-22-23/vidas-prestadas/feed/podcast/","categoria":"Literatura","maxEpisodios":4},
+  {"nombre":"Cuentos al Oído","feedUrl":"https://anchor.fm/s/72392f5c/podcast/rss","categoria":"Audiolibros","maxEpisodios":4},
+  {"nombre":"Antes de Dormir - Cuentos","feedUrl":"https://www.spreaker.com/show/4145736/episodes/feed","categoria":"Niños","maxEpisodios":4},
+  {"nombre":"Demasiado Humano","feedUrl":"https://feeds.ivoox.com/feed_fg_f1675741_filtro_1.xml","categoria":"Filosofía","maxEpisodios":4},
+  {"nombre":"El Tornillo de Arquímedes","feedUrl":"https://feeds.ivoox.com/feed_fg_f1436774_filtro_1.xml","categoria":"Ciencia","maxEpisodios":4},
+  {"nombre":"Ciencia del Fin del Mundo","feedUrl":"https://feeds.ivoox.com/feed_fg_f11488733_filtro_1.xml","categoria":"Ciencia","maxEpisodios":4},
+  {"nombre":"Radiogeek","feedUrl":"https://feeds.ivoox.com/feed_fg_f12792745_filtro_1.xml","categoria":"Tecnología","maxEpisodios":4}
+]  
 }
  
  
