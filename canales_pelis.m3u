@@ -136,6 +136,18 @@ https://www.twitch.tv/vorterixok
 # FIN STREAM
 
 # Internacional
+#EXTINF:-1 tvg-id="N+ Univision" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Nmas_Univision.png" group-title="04 Internacional",N+ Univision [Latinoamerica]
+https://www.youtube.com/watch?v=V4C7VNfRATA
+#EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://www.rtve.es/css/rtveweb/img/logos/rtve.png" group-title="04 Internacional",RTVE Noticias [España]
+https://www.youtube.com/watch?v=b4tE5aKhtlg
+#EXTINF:-1 tvg-id="FRANCE 24" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/France24.png" group-title="04 Internacional",FRANCE 24 [Francia]
+https://www.youtube.com/watch?v=zTv0hCakAhg
+#EXTINF:-1 tvg-id="LATINA" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo-latina-2014.png" group-title="04 Internacional",LATINA [Perú]
+https://www.youtube.com/watch?v=sLzfveqNEJc
+#EXTINF:-1 tvg-id="CNN Noticias" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Cnn_Internacional_Logo.png" group-title="04 Internacional",CNN Noticias [US]
+https://www.youtube.com/watch?v=Qr61waJ6AZg
+#EXTINF:-1 tvg-id="NTN24" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/NTN24_Logo.png" group-title="04 Internacional",NTN24 [Venezuela]
+https://www.youtube.com/watch?v=I4AVxPm58S0
 #EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal_24_Horas_HD.png/revision/latest?cb=20160309172308" group-title="04 Internacional",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/hRxYQTVSCRh4uCs3Wk4AisHOKUI.png" group-title="04 Internacional",Azteca 7
@@ -509,8 +521,6 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Orbit TV HD" tvg-logo="https://i.ibb.co/vX9JVmf/Logo-TV-Retro-Palmares.png" group-title="07 Cine",Orbit TV HD
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Opinion Sur Cine HD" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/opinion_sur.png" group-title="07 Cine",Opinion Sur Cine HD
-https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Series" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/bbc.png" group-title="07 Cine",BBC Series
 https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Películas Top" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Pel%C3%ADculas_Top_logo.png" group-title="07 Cine",Películas Top
@@ -528,8 +538,6 @@ https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/
 http://45.162.193.35/FX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Universal_Channel_logo.png" group-title="07 Cine",Universal
 http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Edge_Logo.png" group-title="07 Cine",Edge
-http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead Universe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Walking_Dead_logo.png" group-title="07 Cine",The Walking Dead Universe
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="07 Cine",Wow Movies SD
@@ -540,8 +548,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/wowchannelsd/playlist.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" tvg-name="Rakuten Cine" group-title="07 Cine",Rakuten Cine
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AXN_logo_2022.svg/320px-AXN_logo_2022.svg.png" tvg-name="AXN" group-title="07 Cine",AXN
-http://138.186.23.7:8082/AXN/index.m3u8
 #EXTINF:-1 channel-id="5dcddf1ed95e740009fef7ab" tvg-id="5dcddf1ed95e740009fef7ab" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="07 Cine",Pluto TV Cine Terror
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 #EXTINF:-1 channel-id="5dd6ddb30a1d8a000908ed4c" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="07 Cine",Pluto TV Cine Familia
@@ -568,8 +574,6 @@ https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 #EXTINF:-1 channel-id="5ffcc21a432945000762d06b" tvg-id="5ffcc21a432945000762d06b" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="07 Cine",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-#EXTINF:-1 channel-id="61b793ccf571b80007b7a610" tvg-id="61b793ccf571b80007b7a610" tvg-name="Adrenalina Pura TV" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="07 Cine",Adrenalina Pura TV
-https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 #EXTINF:-1 channel-id="624af40c004f8000079b784d" tvg-id="624af40c004f8000079b784d" tvg-name="Pluto TV Cine Crimen" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="07 Cine",Pluto TV Cine Crimen
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
 #EXTINF:-1 channel-id="631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-name="Hechizada" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="07 Cine",Hechizada
@@ -632,7 +636,7 @@ https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/53/1/the-x-files-logo-png_seeklogo-535986.png" group-title="07 Cine",The X-Files
 https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/star_channel.png" group-title="07 Cine",Star Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2020/12/32bb08b7c68404985db02bb1c4f97d61_4096x2283_d1c85107-2048x1142.png" group-title="07 Cine",Star Channel
 http://45.134.141.161:2200/ARG/Star_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpXfxANzFkyfxRZSfTGyJDPWrhZDuZQhsQFIzVHA4ForbV-WhPVoxfjAezuwjF-U8IZGsvn_i9PEy23f_1IJ__T7yl4eLo8g8gk3Za6IGmqHhoAdg7y74FQug-JM2dm-5wakctz9kS1M/s1600/filmarts.png" group-title="07 Cine",Film & Arts
 http://45.134.141.161:2200/ARG/Film_Arts_HD/index.m3u8
@@ -644,8 +648,6 @@ http://45.134.141.161:2200/ARG/TCM/index.m3u8
 http://45.134.141.161:2200/ARG/AMC_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="07 Cine",Warner Channel
 http://45.134.141.161:2200/ARG/Warner_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/32/8/nashville-logo-png_seeklogo-32814.png" group-title="07 Cine",Nashville
-https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 #EXTINF:-1 channel-id="ESBD800001RJ" tvg-id="ESBD800001RJ" tvg-chno="4949" tvg-name="Cine Friki" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20260407T040044SQUARE.png" group-title="07 Cine",Cine Friki
 https://jmp2.uk/stvp-ESBD800001RJ
 #EXTINF:-1 channel-id="ES2300005G7" tvg-id="ES2300005G7" tvg-chno="4926" tvg-name="Cine Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="07 Cine",Cine Western
