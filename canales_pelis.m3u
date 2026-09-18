@@ -30,6 +30,8 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 # FIN CAPITAL FEDERAL
 
 #Interior
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="02 Interior",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/El_Doce_C%C3%B3rdoba_%28Logo_2010%29.png/revision/latest/scale-to-width-down/50?cb=20211001180836&path-prefix=es" group-title="02 Interior",El Doce [Córdoba]
 https://www.youtube.com/watch?v=nndzeKDSjuc
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="02 Interior",Argentinísima Satelital
@@ -166,10 +168,6 @@ https://jmp2.uk/stvp-ES2300004XW
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="04 Internacional",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="04 Internacional",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Costa_Rica.svg/200px-Flag_of_Costa_Rica.svg.png" group-title="04 Internacional",Costa Rica
-https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/NoticiasRCN2023.png" group-title="04 Internacional",RCN Noticias
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67e6979de1de65be88aeb39f/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
 #EXTINF:-1 tvg-id="" tvg-name="La Popular TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandera_de_Chile.svg/200px-Bandera_de_Chile.svg.png" group-title="04 Internacional",La Popular TV Chile
@@ -182,6 +180,8 @@ https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvac
 https://viewhn.com/ctvinternacional/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNNinternational-logo.png" group-title="04 Internacional",CNN International
 http://45.134.141.161:2200/ARG/CNN_International/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN (R.D.)" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="04 Internacional",TVN (R.D.)
+https://5790d294af2dc.streamlock.net/tvn/tvn/chunklist_w974989499.m3u8
 # FIN Internacional
 
 # Infantil
@@ -401,6 +401,8 @@ https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 # FIN Animación_Adulta
 
 # Cine
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2950-294x165-FFFFFF.jpg" group-title="07 Cine",Costa Rica
+https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesur Costa Rica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Costa_Rica.svg/200px-Flag_of_Costa_Rica.svg.png" group-title="07 Cine",Telesur Costa Rica HD
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cuidad Mágica" tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="07 Cine",Cuidad Mágica
@@ -652,7 +654,14 @@ http://45.134.141.161:2200/ARG/Warner_Channel_HD/index.m3u8
 https://jmp2.uk/stvp-ESBD800001RJ
 #EXTINF:-1 channel-id="ES2300005G7" tvg-id="ES2300005G7" tvg-chno="4926" tvg-name="Cine Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png" group-title="07 Cine",Cine Western
 https://jmp2.uk/stvp-ES2300005G7
+#EXTINF:-1 tvg-id="" tvg-name="Oxi TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="07 Cine",Oxi TV
+https://5790d294af2dc.streamlock.net/oxitv/live/chunklist_w721076487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infinita" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3235-294x165-FFFFFF.jpg" group-title="07 Cine",Infinita
+https://stream-us-east-1.getpublica.com/cl/260918daml8q1di51s7393t5o0/1280x720_1500000_0_f.m3u8?i=1187_13001
+#EXTINF:-1 tvg-id="" tvg-name="BEST CLASICOS TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="07 Cine",BEST CLASICOS TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 # FIN Cine
+
 
 # Novelas
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="09 Novelas",Kanal D Drama
@@ -691,8 +700,8 @@ https://jmp2.uk/plu-699769fa19ac123965833fd3.m3u8
 https://jmp2.uk/plu-69b32974814d27f4aed90fdd.m3u8
 # FIN Novelas
 
-# Documentales
 
+# Documentales
 #EXTINF:-1 channel-id="ES7000088K" tvg-id="ES7000088K" tvg-chno="4224" tvg-name="Space Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000088K_20260421T125629SQUARE.png" group-title="10 Documentales",Space Live
 https://jmp2.uk/stvp-ES7000088K
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sQzxQ1GOyNyxyaznugkicB1JNDO.png" group-title="10 Documentales",Love Nature
@@ -790,6 +799,8 @@ http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png" group-title="10 Documentales",Wow Documentary HD
 https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAKINA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" group-title="10 Documentales",MAKINA TV
+https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
 # FIN Documentales
 
 #Música
@@ -914,8 +925,18 @@ https://www.youtube.com/watch?v=9G0BtLy8cFI
 https://jmp2.uk/stvp-ESBA3300042Y6
 #EXTINF:-1 channel-id="ESBA3300043M0" tvg-id="ESBA3300043M0" tvg-chno="4696" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png" group-title="11 Música",Trace Urban
 https://jmp2.uk/stvp-ESBA3300043M0
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Zona Hits" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3781-294x165-FFFFFF.jpg" group-title="11 Música",Zona Hits
+https://5790d294af2dc.streamlock.net/canalzonahits/canalzonahits/chunklist_w1086106780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Energy DJ" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="11 Música",Energy DJ
+https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/chunklist_w1609287844_b1896000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Miami DJ" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="11 Música",Miami DJ
+https://be7e362af1604c4ba89a6d84cdd90b85.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Music/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Son de Salsa" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3714-294x165-FFFFFF.jpg" group-title="11 Música",A Son de Salsa
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruidos TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2507-294x165-FFFFFF.jpg" group-title="11 Música",Ruidos TV
+https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?hls_ctx=16934369
+#EXTINF:-1 tvg-id="" tvg-name="Leña Radio TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg" group-title="11 Música",Leña Radio TV
+https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/chunklist_w1515759735.m3u8
 # FIN MÚSICA
 
 # Deportes
