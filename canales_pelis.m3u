@@ -138,6 +138,10 @@ https://www.twitch.tv/vorterixok
 # FIN STREAM
 
 # Internacional
+#EXTINF:-1 tvg-id="CARACOL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Caracol_2000.png/revision/latest/scale-to-width-down/150?cb=20240305203519&path-prefix=es" group-title="04 Internacional",CARACOL [Colombia]
+https://www.youtube.com/watch?v=XE-HAP0KALo
+#EXTINF:-1 tvg-id="teleSUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/150?cb=20220719221045" group-title="04 Internacional",teleSUR  [Venezuela]
+https://www.youtube.com/watch?v=GKp8PFf6m4o
 #EXTINF:-1 tvg-id="N+ Univision" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Nmas_Univision.png" group-title="04 Internacional",N+ Univision [Latinoamerica]
 https://www.youtube.com/watch?v=V4C7VNfRATA
 #EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://www.rtve.es/css/rtveweb/img/logos/rtve.png" group-title="04 Internacional",RTVE Noticias [España]
@@ -934,6 +938,8 @@ https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/6
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?hls_ctx=16934369
 #EXTINF:-1 tvg-id="" tvg-name="Leña Radio TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg" group-title="11 Música",Leña Radio TV
 https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/chunklist_w1515759735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A State of Trance" tvg-logo="https://i1.sndcdn.com/avatars-000093881867-1ihoor-t200x200.jpg" group-title="11 Música",A State of Trance
+https://www.youtube.com/watch?v=NGsjwNsXE0w
 # FIN MÚSICA
 
 # Deportes
