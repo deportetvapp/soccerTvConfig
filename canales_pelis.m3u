@@ -183,6 +183,9 @@ https://5790d294af2dc.streamlock.net/tvn/tvn/chunklist_w974989499.m3u8
 # FIN Internacional
 
 # Infantil
+#EXTINF:-1 channel-id="" tvg-id=""  tvg-name="Spiderman" tvg-logo="https://logos-world.net/wp-content/uploads/2024/08/Spider-Man-Logo-1985-500x281.png" group-title="05 Infantil",Spiderman
+https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 channel-id="ESBD5100001G0" tvg-id="ESBD5100001G0" tvg-chno="4797" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png" group-title="05 Infantil",SuperToons TV
 https://jmp2.uk/stvp-ESBD5100001G0
 #EXTINF:-1 tvg-id="Epic Toon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="05 Infantil",Epic Toon
@@ -725,10 +728,6 @@ https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 #EXTINF:-1 channel-id="61099f2b40d0640007fc5aa2" tvg-id="61099f2b40d0640007fc5aa2" tvg-chno="161" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="10 Documentales",El encantador de perros
 #EXTINF:-1 channel-id="5e67d41b93312100076f3fca" tvg-id="5e67d41b93312100076f3fca" tvg-chno="121" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="10 Documentales",Los archivos del FBI
 https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png" group-title="10 Documentales",The Bob Ross Channel
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f88/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
-#EXTINF:-1 tvg-id="" tvg-name="The Design Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png" group-title="10 Documentales",The Design Network
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-5f0641d3e8ffda004033b16e/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
 #EXTINF:-1 tvg-id="" tvg-name="Xataka" tvg-logo="https://cdn.tvivu.com/logos/xataka-es-160.webp" group-title="10 Documentales",Xataka
 https://jmp2.uk/stvp-ES42000022E
 #EXTINF:-1 tvg-id="" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="10 Documentales",El encantador de perros
