@@ -347,8 +347,6 @@ https://lbgo.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 https://lbgo.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="06 Animación Adulta",Gogoplay TV
 https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALF Español" tvg-logo="https://media.themoviedb.org/t/p/w58_and_h87_face/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg" group-title="06 Animación Adulta",ALF Español
-https://www.twitch.tv/alf_espanol
 #EXTINF:-1 channel-id="628751bb7154a40007168843" tvg-id="628751bb7154a40007168843" tvg-chno="320" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="06 Animación Adulta",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:-1 channel-id="63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-chno="324" tvg-name="South Park Versión Original" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="06 Animación Adulta",South Park Versión Original
