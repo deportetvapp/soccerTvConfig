@@ -193,7 +193,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 # Infantil
 #EXTINF:-1 channel-id="" tvg-id=""  tvg-name="Spiderman" tvg-logo="https://logos-world.net/wp-content/uploads/2024/08/Spider-Man-Logo-1985-500x281.png" group-title="05 Infantil",Spiderman
 https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 channel-id="ESBD5100001G0" tvg-id="ESBD5100001G0" tvg-chno="4797" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png" group-title="05 Infantil",SuperToons TV
 https://jmp2.uk/stvp-ESBD5100001G0
 #EXTINF:-1 tvg-id="Epic Toon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="05 Infantil",Epic Toon
@@ -282,6 +281,8 @@ http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" group-title="05 Infantil",Teletubbies
 https://jmp2.uk/stvp-ES1600007AI
+#EXTINF:-1 tvg-id="beyblade-es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Grev.jpg/revision/latest/scale-to-width-down/250?cb=20220418143724&path-prefix=es" group-title="05 Infantil",Beyblade
+https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8?ads_amagi_channel_id=953&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=action%2Canimation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=beyblade-es_es&ads_rtv_content_id=6421&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=1e3788d4-0d29-412c-966b-02c6e6815b03&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 # FIN Infantil
 
 # Animación Adulta
@@ -705,6 +706,8 @@ https://jmp2.uk/plu-699769fa19ac123965833fd3.m3u8
 https://jmp2.uk/plu-69b32974814d27f4aed90fdd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="09 Novelas",Mundo Series HD
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+#EXTINF:-1 tvg-id="wedotv-amor" tvg-logo="https://cdn-01.watch4.com/01/1720621000_wedo-amor_white_logo.png" group-title="09 Novelas",wedotv Amor
+https://amg00735-amg00735c15-rakuten-es-8598.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-rakutenes/playlist.m3u8?ads_amagi_channel_id=1051&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=romance%2Csoap-opera&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_channel_name=wedotv-amor_es&ads_rtv_content_id=7049&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=8adc4087-1c6b-4cfa-9c85-b219168d9451&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 # FIN Novelas
 
 
@@ -802,6 +805,14 @@ http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png" group-title="10 Documentales",Wow Documentary HD
 https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
+#EXTINF:-1 tvg-id="5-minutes-craft-es"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Title_Cards.jpg/revision/latest/scale-to-width-down/300?cb=20200604043523" group-title="10 Documentales",Ideas en 5 minutos
+https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel_id=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment%2Chobbies&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=5-minutes-craft-es_es&ads_rtv_content_id=4658&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=1b686875-1a51-45a8-8c62-a7f749be08a2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="crimenes-reales" group-title="10 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/21253b5f-aed5-4d4c-ac02-c8a9a83936d0-width308-quality90.png" group-title="10 Documentales"
+https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel_id=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=crime&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=16&ads_rtv_channel_name=crimenes-reales_es&ads_rtv_content_id=6735&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3dfdde39-8e38-472b-9a76-90beb86b0edb&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="crimenes-reales" group-title="10 tvg-logo="https://cdn-01.watch4.com/01/1742400187_time2rlx_white_logo.png" group-title="10 Documentales"
+https://amg00735-amg00735c51-wedotv-eu-7283.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvtime2rlx-wedotveu/cb7d3e167b716f8792ca3f6cd9f944a9d10e6589013ad6316fac5e9574974b5381bba096e748ef685abd40a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05846c66cbfb10248854c14b1d30090cb19b887ca5898519273a4179ac3f08e820dd0819963b456b33258157a78cc8534c2cc59b48cc96b3fcd707e1e44108cce92ee5e0395534c4efdc0dead698d67a4fb2d957427a85ad70093358e64be1fe9e241adf7c0b521542ba8b62f0b55a8f1b49ae86f7cf271fea6e6c965329af919222ca309df263b2ae29ea175d59961fcde2295a4561339cd9437f3f7d494eab4825e8a17c0ad80f0d6d5c5027e60a76fe0f34cc92ed876bcc71d202e352ecfa974b4485dc3521822b58f4bc01b5b98d68e91d60d3ab000513aba34b15f74577fe8ef08c80c59e3acab2f0d5dd4189db126148d47eeb12ff4e8faf7013ebbcace4cfe20cda00fdcf911964c354b07a0c8e13e2f4350dff46f013c788c10aa838aa940000ee8f8daed807d0c4768471c5cd0a2d07995d894725d0e97076f205500079a01e16cdd2b4014619c4d84e25a22c54e0a05d28a13111a609fc3b4c1a0d3c94fba3693ecf52b20365c2cec6656683e9de6c309bd0b4a787b4f89403110ea49091498e0a38fae8960ca9373b978334411a2de230158023d3370d8fa0ef051ed9411bce1ba7fc4fd821f40c571e3361990d4d37bebafe6e34a1c9bbe58096df4827491934c0db6649eee4c89932ffeec5875dd5aaf932fad05e1/134/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-id="nature-scape" group-title="10 tvg-logo="https://cdn-01.watch4.com/01/1762782133_stingray-naturescape_white_logo.png" group-title="10 Documentales",Naturescape
+https://ce5766cc.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5TmF0dXJlU2NhcGVfSExT/f9993455-7564-4132-9af0-2dd314c64c58/3.m3u8
 # FIN Documentales
 
 #Música
@@ -874,7 +885,6 @@ https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
 https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="11 Música",Vevo 90s y 00s
 https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="11 Música",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="11 Música",Vevo 70s
@@ -933,6 +943,8 @@ https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/chunklist_w1515759735.m3u
 https://www.youtube.com/watch?v=NGsjwNsXE0w
 #EXTINF:-1 tvg-id="" tvg-name="Country" tvg-logo="https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png" group-title="11 Música",Country
 https://www.youtube.com/watch?v=p6rZI6JFTHQ
+#EXTINF:-1 tvg-id="" tvg-name="Movie Music" tvg-logo="https://cdn-01.watch4.com/01/1762781812_stingray-movie-music_white_logo.png" group-title="11 Música",Movie Music 
+https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/df4dfcf1-cb3a-425f-bf85-49aaac5f28b0/3.m3u8
 # FIN MÚSICA
 
 # Deportes
@@ -998,7 +1010,6 @@ http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 # FIN Deportes
 
 # Lifestyle
-
 #EXTINF:-1 tvg-id="" tvg-name="RCN MÁS" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="13 Lifestyle",RCN MÁS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="165" tvg-name="Caso Cerrado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest?cb=20200816205635&path-prefix=es" group-title="13 Lifestyle",Caso Cerrado
