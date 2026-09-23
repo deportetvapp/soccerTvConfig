@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=FEWZjXJ7M0c
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="01 Capital Federal",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="01 Capital Federal",TV Pública
-https://www.youtube.com/watch?v=fXeJQyeJoyE
+https://www.youtube.com/user/TVPublicaArgentina/live
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://images.seeklogo.com/logo-png/52/2/telefe-2018-logo-png_seeklogo-527139.png"" group-title="01 Capital Federal",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 # FIN CAPITAL FEDERAL
@@ -186,6 +186,8 @@ https://viewhn.com/ctvinternacional/live/playlist.m3u8
 http://45.134.141.161:2200/ARG/CNN_International/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVN (R.D.)" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="04 Internacional",TVN (R.D.)
 https://5790d294af2dc.streamlock.net/tvn/tvn/chunklist_w974989499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-BTS-Arirang-icon-PNG-horizontal.png" group-title="04 Internacional",Arirang [Korea]
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 # FIN Internacional
 
 # Infantil
@@ -448,7 +450,7 @@ https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vX9JVmf/Logo-TV-Retro-Palmares.png" group-title="07 Cine",TV Retro Palmares (Opcion 2)
 https://lbgo.bozztv.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1msVb31/logo-Retro-TV.png" group-title="07 Cine",Retro TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Retro_Music_Television_2013.svg/revision/latest/scale-to-width-down/250?cb=20210627161000" group-title="07 Cine",Retro TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/retrotvcr2025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4n7qBPF9/Logo-Retrox-TV.png" group-title="07 Cine",Retrox TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
@@ -817,7 +819,7 @@ https://www.youtube.com/watch?v=vGNglKWqwcQ
 https://www.youtube.com/watch?v=1fz60gNnSdU
 #EXTINF:-1 tvg-id="" tvg-name="Tierra Mía" tvg-logo="https://www.5900.tv/storage/thumbnails/RJqZv1cxmng1hrA9lfPhSlnXKTMTZ40TdQmBdW64.jpg" group-title="11 Música",Tierra Mía
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=84c2dc3d2721606ee81c5209bac94797
-#EXTINF:-1 tvg-id="" tvg-name="ChamameTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chamame_TV_logo.png/440px-Chamame_TV_logo.png" group-title="11 Música",ChamameTV
+#EXTINF:-1 tvg-id="" tvg-name="ChamameTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3302-294x165-FFFFFF.jpg" group-title="11 Música",ChamameTV
 https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cumbia Mix" tvg-logo="https://i.ibb.co/4n7qBPF9/Logo-Cumbia-Mix.png" group-title="11 Música",Cumbia Mix
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
@@ -833,14 +835,10 @@ https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="11 Música",NEW K-POP
 https://jmp2.uk/stvp-DE3900002R1
-#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="11 Música",DanceTV House Floor
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/DANCE_TRIPPIN.png/revision/latest/scale-to-width-down/185?cb=20191025115710" group-title="11 Música",DanceTV House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://images.sftcdn.net/images/t_app-cover-s-16-9,f_auto/p/6511e82e-ee50-440e-9709-f6f192c987f2/2073027423/retro-music-television-screenshot", tvg-name="Retro TV" group-title="11 Música"  , Retro TV
 http://181.209.91.106:2222/Live/2747d400c336a4f75779b7ff29c02074/retro_540.m3u8
-#EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="11 Música",Azahares Radio Multimedia
-https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="11 Música",Beats Radio
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="11 Música",Más FM 95.9
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -848,14 +846,12 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-id="SuperClassicsTV.ar" tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="11 Música",Super Classics TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GEX TV HD" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/gex.png" group-title="11 Música",GEX TV HD
+#EXTINF:-1 tvg-id="" tvg-name="GEX TV HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="11 Música",GEX TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW 70s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/NOW_70s.png" group-title="11 Música",NOW 70s
 https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/playlist/rakutenAA-lightning-now70s-rakuten/playlist.m3u8
 #EXTINF:-1 channel-id="ES2500001F9-es" tvg-id="ES2500001F9" tvg-chno="4742" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png" group-title="11 Música",Cool Summer Channel
 https://jmp2.uk/stvp-ES2500001F9
-#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-BTS-Arirang-icon-PNG-horizontal.png" group-title="11 Música",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/mtv_classic.png" group-title="11 Música",MTV Classic
 http://206.212.244.63/117/index.m3u8
 #EXTINF:-1 channel-id="5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-name="Conciertos por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="11 Música",Conciertos por Stingray
@@ -880,8 +876,7 @@ https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
 https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="11 Música",Vevo 90s y 00s
 https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/qwest_tv.png" group-title="11 Música",Qwest TV Jazz
-https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="11 Música",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" group-title="11 Música",Vevo 70s
@@ -910,21 +905,23 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mediachoice.eu/uploads/7/7/2/9/77296599/articleimg01_orig.png" group-title="11 Música",XITE Rock y Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/metal.png" group-title="11 Música",Metal 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Nuclear_Blast_Records_logo_alt.png/revision/latest/scale-to-width-down/150?cb=20241102145842" group-title="11 Música",Metal 24/7
 https://www.youtube.com/watch?v=3LWMFjRZQ6k
-#EXTINF:-1 tvg-id="" tvg-name="Synthwave Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Synthwave.svg/1280px-Synthwave.svg.png" group-title="11 Música",Synthwave Music
+#EXTINF:-1 tvg-id="" tvg-name="Synthwave Music" tvg-logo="https://i1.sndcdn.com/avatars-000294954504-wc1ryz-t200x200.jpg" group-title="11 Música",Synthwave Music
 https://www.youtube.com/watch?v=GcgXLSFKJNQ
-#EXTINF:-1 tvg-id="" tvg-name="Chiptune.FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Chiptune_FM_logo.png" group-title="11 Música",Chiptune.FM
+#EXTINF:-1 tvg-id="" tvg-name="Chiptune.FM" tvg-logo="https://i1.sndcdn.com/artworks-KzERZS9hj0tFzzOQ-Upw8yg-t500x500.jpg" group-title="11 Música",Chiptune.FM
 https://www.youtube.com/watch?v=9duv1i593QI
-#EXTINF:-1 tvg-id="" tvg-name="Jazz 24/7" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/jazz.png" group-title="11 Música",Jazz 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Jazz 24/7" tvg-logo="https://cdn.prod.website-files.com/6058a55e7bf32c592084ed88/6669d493c5398b6ee7d6c60e_Logo-white.png" group-title="11 Música",Qwest(1)  TV Jazz
 https://www.youtube.com/watch?v=9G0BtLy8cFI
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/6058a55e7bf32c592084ed88/6669d493c5398b6ee7d6c60e_Logo-white.png" group-title="11 Música",Qwest(2) TV Jazz
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
 #EXTINF:-1 channel-id="ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-chno="4694" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png" group-title="11 Música",Trace Latina
 https://jmp2.uk/stvp-ESBA3300042Y6
 #EXTINF:-1 channel-id="ESBA3300043M0" tvg-id="ESBA3300043M0" tvg-chno="4696" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png" group-title="11 Música",Trace Urban
 https://jmp2.uk/stvp-ESBA3300043M0
 #EXTINF:-1 tvg-id="" tvg-name="Zona Hits" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3781-294x165-FFFFFF.jpg" group-title="11 Música",Zona Hits
 https://5790d294af2dc.streamlock.net/canalzonahits/canalzonahits/chunklist_w1086106780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Energy DJ" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="11 Música",Energy DJ
+#EXTINF:-1 tvg-id="" tvg-name="Energy DJ" tvg-logo="https://energy-tv.com/assets/img/canales/CanalDJ.jpg" group-title="11 Música",Energy DJ
 https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/chunklist_w1609287844_b1896000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Miami DJ" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="11 Música",Miami DJ
 https://be7e362af1604c4ba89a6d84cdd90b85.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Music/playlist.m3u8
