@@ -946,64 +946,44 @@ https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vk
 # FIN MÚSICA
 
 # Deportes
-#EXTINF:-1 channel-id="6080345ebb49b90007ce0baf" tvg-id="6080345ebb49b90007ce0baf" tvg-chno="164" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="12 Deportes",Pluto TV Motor
-https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
-#EXTINF:-1 channel-id="69148c470155f9b136b5d856" tvg-id="69148c470155f9b136b5d856" tvg-chno="551" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="12 Deportes",Pluto TV Snooker 900
-https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
-#EXTINF:-1 channel-id="696e02423b9ce349c90edef9" tvg-id="696e02423b9ce349c90edef9" tvg-chno="556" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png" group-title="12 Deportes",Rally TV
-https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
-#EXTINF:-1 channel-id="69f9c50202b6c1c00a213519" tvg-id="69f9c50202b6c1c00a213519" tvg-chno="555" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png" group-title="12 Deportes",Dominance FC TV
-https://jmp2.uk/plu-69f9c50202b6c1c00a213519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/red_bull_tv.png" group-title="12 Deportes",Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-name="Manchester United TV" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg" group-title="12 Deportes",Manchester United TV
+https://iptv-web.app/UK/MUTV.uk/
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://www.pasjatv.pl/files/tv/photo/min/172735216318_logo_vertical_negativo-1.jpg" group-title="12 Deportes",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-name="Barça TV"  tvg-logo="https://artwork.espncdn.com/airings/addffcab-cfd5-4cff-b92d-64cd39acc41d/16x9/1280x720_20200401201108.jpg" group-title="12 Deportes",Barça TV
+https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-name="Cittaceleste Tv" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" group-title="12 Deportes",Lazio Tv
+https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+#EXTINF:-1 tvg-name="Inter Tv" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="12 Deportes",Inter Tv
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/3JUSJKaupT1HZfl5jzodmK/9e43ec378a5e6b38e687d90d07e02946/FIFA_LOGO.png?fm=webp&q=50" group-title="12 Deportes",FIFA+
+https://6c849fb3.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/7dd6b7e2-6901-4654-b369-01e5467911e1/3.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest/scale-to-width-down/250?cb=20180423100712" group-title="12 Deportes",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://images.seeklogo.com/logo-png/25/6/tennis-channel-logo-png_seeklogo-256789.png" group-title="12 Deportes",Tennis Channel
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://cdn.theorg.com/78c250dc-7e0f-44ee-89d8-ddf427726e5f_thumb.jpg" group-title="",Tennis Channel
 https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox USA Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/FOX_1986%E2%80%931987_Logo.png" group-title="12 Deportes",Fox USA Deportes
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="12 Deportes",Bein USA
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel 2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="12 Deportes",Tennis Channel 2
+https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TYC Fan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="12 Deportes",TYC Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="12 Deportes",Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://images.seeklogo.com/logo-png/22/1/nba-tv-logo-png_seeklogo-229221.png" group-title="12 Deportes",NBA TV
-https://cdn1.ayitistream.com/NBATV/index.m3u8
-https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
-#EXTINF:-1 channel-id="5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="12 Deportes",Pluto TV Deportes
-https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
-#EXTINF:-1 channel-id="5dd6dc7480e3550009133d4a" tvg-id="5dd6dc7480e3550009133d4a" tvg-name="Pluto TV Velocidad" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="12 Deportes",Pluto TV Velocidad
-https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
-#EXTINF:-1 channel-id="5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-name="Pluto TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="12 Deportes",Pluto TV Peleas
-https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
-#EXTINF:-1 channel-id="5ff3934600d4c7000733ff49" tvg-id="5ff3934600d4c7000733ff49" tvg-name="Pluto TV E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="12 Deportes",Pluto TV E-Sports
-https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
-#EXTINF:-1 channel-id="60e5ea9a9bb4200008376f76" tvg-id="60e5ea9a9bb4200008376f76" tvg-name="Motorvision TV" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="12 Deportes",Motorvision TV
-https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
-#EXTINF:-1 channel-id="6320d2755e54db000783fd87" tvg-id="6320d2755e54db000783fd87" tvg-name="Claro Sports Mexico" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="12 Deportes",Claro Sports Mexico
-https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
-#EXTINF:-1 channel-id="63c6e37e636b7e0007ccb635" tvg-id="63c6e37e636b7e0007ccb635" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="12 Deportes",Pluto TV Fútbol
-https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
-#EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-name="ITV Deportes" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="12 Deportes",ITV Deportes
-https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
-#EXTINF:-1 channel-id="64f6163a30ab3300083d870e" tvg-id="64f6163a30ab3300083d870e" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" group-title="12 Deportes",PFL MMA
-https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
-#EXTINF:-1 channel-id="65cf60d166eec80008724e6f" tvg-id="65cf60d166eec80008724e6f" tvg-name="Azteca Deportes Premium" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="12 Deportes",Azteca Deportes Premium
-https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
-#EXTINF:-1 channel-id="66997d18a1b69e00082ee85f" tvg-id="66997d18a1b69e00082ee85f" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png" group-title="12 Deportes",FIFA+
-https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
-#EXTINF:-1 channel-id="67a52cd4ec91870008a62164" tvg-id="67a52cd4ec91870008a62164" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG.png" group-title="12 Deportes",UFC
-https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/espn.png" group-title="12 Deportes",ESPN 5
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/espn.png" group-title="12 Deportes",ESPN 5
 http://45.134.141.161:2200/ARG/ESPN_5_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/espn.png" group-title="12 Deportes",ESPN Extra
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/espn.png" group-title="12 Deportes",ESPN Extra
 http://45.134.141.161:2200/ARG/ESPN_Extra_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="12 Deportes",TyC Sports
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="12 Deportes",TyC Sports
 http://45.134.141.161:2200/ARG/TyC_Sports_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/27/1/eurosport-1-logo-png_seeklogo-27380.png" group-title="12 Deportes",Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://medianet.mv/media/channel/188x0-icon.png" group-title="12 Deportes",Eurosport 1
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/50/1/eurosport-2-logo-png_seeklogo-50143.png" group-title="12 Deportes",Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://medianet.mv/media/channel/188x0-icon.png" group-title="12 Deportes",Eurosport 2
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/45/8/f1-logo-png_seeklogo-45883.png" group-title="12 Deportes",F1 DAZN
+#EXTINF:-1 tvg-id="" tvg-name="F1 DAZN" tvg-logo="https://images.seeklogo.com/logo-png/45/8/f1-logo-png_seeklogo-45883.png" group-title="12 Deportes",F1 DAZN
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 # FIN Deportes
 
