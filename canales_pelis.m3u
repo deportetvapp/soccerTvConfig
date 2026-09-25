@@ -954,7 +954,7 @@ https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vk
 # FIN MÚSICA
 
 # Deportes
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest/scale-to-width-down/250?cb=20180423100712" group-title="12 Deportes",Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://gonet.tv/api/loga/v2/redbulltv.png" group-title="12 Deportes",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://cdn.theorg.com/78c250dc-7e0f-44ee-89d8-ddf427726e5f_thumb.jpg" group-title="12 Deportes",Tennis Channel
 https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
@@ -984,6 +984,10 @@ https://6c849fb3.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEct
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV_-_Logo_2021.png/398px-Inter_TV_-_Logo_2021.png" group-title="12 Deportes",Inter TV
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+#EXTINF:-1 tvg-id="RallyTV.us@HD" tvg-name="Rally TV" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/10/96/rally-tv-logo_1v7nnxqwp0v6g1w2twu3qidty9.png?t=-917948983" group-title="12 Deportes",Rally TV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="12 Deportes",FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 # FIN Deportes
 
 # Lifestyle
