@@ -946,26 +946,9 @@ https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vk
 # FIN MÚSICA
 
 # Deportes
-#EXTINF:-1 tvg-id="" tvg-name="Manchester United TV" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg" group-title="12 Deportes",Manchester United TV
-https://iptv-web.app/UK/MUTV.uk/
-#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://www.pasjatv.pl/files/tv/photo/min/172735216318_logo_vertical_negativo-1.jpg" group-title="12 Deportes",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-name="Barça TV"  tvg-logo="https://artwork.espncdn.com/airings/addffcab-cfd5-4cff-b92d-64cd39acc41d/16x9/1280x720_20200401201108.jpg" group-title="12 Deportes",Barça TV
-https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-name="Cittaceleste Tv" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" group-title="12 Deportes",Lazio Tv
-https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
-#EXTINF:-1 tvg-name="Inter Tv" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="12 Deportes",Inter Tv
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/3JUSJKaupT1HZfl5jzodmK/9e43ec378a5e6b38e687d90d07e02946/FIFA_LOGO.png?fm=webp&q=50" group-title="12 Deportes",FIFA+
-https://6c849fb3.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/7dd6b7e2-6901-4654-b369-01e5467911e1/3.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest/scale-to-width-down/250?cb=20180423100712" group-title="12 Deportes",Red Bull TV
 https://jmp2.uk/stvp-ES3800001V1
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://cdn.theorg.com/78c250dc-7e0f-44ee-89d8-ddf427726e5f_thumb.jpg" group-title="",Tennis Channel
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://cdn.theorg.com/78c250dc-7e0f-44ee-89d8-ddf427726e5f_thumb.jpg" group-title="12 Deportes",Tennis Channel
 https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel 2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="12 Deportes",Tennis Channel 2
 https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
@@ -983,8 +966,18 @@ http://45.134.141.161:2200/ARG/TyC_Sports_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://medianet.mv/media/channel/188x0-icon.png" group-title="12 Deportes",Eurosport 2
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F1 DAZN" tvg-logo="https://images.seeklogo.com/logo-png/45/8/f1-logo-png_seeklogo-45883.png" group-title="12 Deportes",F1 DAZN
-http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manchester United TV" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg" group-title="12 Deportes",Manchester United TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://www.pasjatv.pl/files/tv/photo/min/172735216318_logo_vertical_negativo-1.jpg" group-title="12 Deportes",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barça TV" tvg-logo="https://artwork.espncdn.com/airings/addffcab-cfd5-4cff-b92d-64cd39acc41d/16x9/1280x720_20200401201108.jpg" group-title="12 Deportes",Barça TV
+https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cittaceleste TV" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" group-title="12 Deportes",Lazio TV
+https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="12 Deportes",Inter TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/3JUSJKaupT1HZfl5jzodmK/9e43ec378a5e6b38e687d90d07e02946/FIFA_LOGO.png?fm=webp&q=50" group-title="12 Deportes",FIFA+
+https://6c849fb3.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/7dd6b7e2-6901-4654-b369-01e5467911e1/3.m3u8
 # FIN Deportes
 
 # Lifestyle
