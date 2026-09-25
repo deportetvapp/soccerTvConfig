@@ -813,6 +813,14 @@ https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg0
 https://amg00735-amg00735c51-wedotv-eu-7283.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvtime2rlx-wedotveu/cb7d3e167b716f8792ca3f6cd9f944a9d10e6589013ad6316fac5e9574974b5381bba096e748ef685abd40a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05846c66cbfb10248854c14b1d30090cb19b887ca5898519273a4179ac3f08e820dd0819963b456b33258157a78cc8534c2cc59b48cc96b3fcd707e1e44108cce92ee5e0395534c4efdc0dead698d67a4fb2d957427a85ad70093358e64be1fe9e241adf7c0b521542ba8b62f0b55a8f1b49ae86f7cf271fea6e6c965329af919222ca309df263b2ae29ea175d59961fcde2295a4561339cd9437f3f7d494eab4825e8a17c0ad80f0d6d5c5027e60a76fe0f34cc92ed876bcc71d202e352ecfa974b4485dc3521822b58f4bc01b5b98d68e91d60d3ab000513aba34b15f74577fe8ef08c80c59e3acab2f0d5dd4189db126148d47eeb12ff4e8faf7013ebbcace4cfe20cda00fdcf911964c354b07a0c8e13e2f4350dff46f013c788c10aa838aa940000ee8f8daed807d0c4768471c5cd0a2d07995d894725d0e97076f205500079a01e16cdd2b4014619c4d84e25a22c54e0a05d28a13111a609fc3b4c1a0d3c94fba3693ecf52b20365c2cec6656683e9de6c309bd0b4a787b4f89403110ea49091498e0a38fae8960ca9373b978334411a2de230158023d3370d8fa0ef051ed9411bce1ba7fc4fd821f40c571e3361990d4d37bebafe6e34a1c9bbe58096df4827491934c0db6649eee4c89932ffeec5875dd5aaf932fad05e1/134/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-id="nature-scape" tvg-logo="https://cdn-01.watch4.com/01/1762782133_stingray-naturescape_white_logo.png" group-title="10 Documentales",Naturescape
 https://ce5766cc.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5TmF0dXJlU2NhcGVfSExT/f9993455-7564-4132-9af0-2dd314c64c58/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://www.tutvplay.com/img/ch/Discovery-Channel-HD.png" group-title="05 Documentales",Discovery Channel HD
+http://45.134.141.161:2200/ARG/Discovery_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-turbo-ar.png" group-title="05 Documentales",Discovery Turbo HD
+http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png" group-title="05 Documentales",Discovery Investigation HD
+http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-health-ar.png" group-title="05 Documentales",Discovery Home & Health HD
+http://45.134.141.161:2200/ARG/Discovery_Home_Health_HD/index.m3u8
 # FIN Documentales
 
 #Música
