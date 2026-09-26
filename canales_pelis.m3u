@@ -988,6 +988,8 @@ https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="12 Deportes",FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague" tvg-name="Strongman Champions League" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png" group-title="12 Deportes",Strongman Champions League
+https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
 # FIN Deportes
 
 # Lifestyle
