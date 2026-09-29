@@ -3,11 +3,11 @@
 #Capital Federal
 #EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi21ESowpnRgV7nuWY5hiSE2hfw_RW_sv5FSeVy9QpPSxC6_X7_elWbd2iURKaH8lV_KxQFLgSU26UDCEfzQetX8hiBmIcIIs07M2ICFu8YQVyoJaEwU7SGS5xxxiNGUC0IIhWeM9JAlwXj/s1600/magazine-2013.png" ageRating="+13" group-title="01 Capital Federal",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-name="TN Todo Noticias ?" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Bwftgji9rDsQkaRB_9USNkjh1J-PF9lFlNaBYbzZ_YiKMuY4VjwvgptWe_UF452aR5ym4x4nFy8eZWuTFjpWrd8ALKN-8vH7LE_NvzxZkns6gxEXRZrweBeHPs_qftbhGaaDzds8RpQV/s320/tn.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" ageRating="+13" group-title="01 Capital Federal",TN Todo Noticias ?
+#EXTINF:-1 tvg-name="TN Todo Noticias " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Bwftgji9rDsQkaRB_9USNkjh1J-PF9lFlNaBYbzZ_YiKMuY4VjwvgptWe_UF452aR5ym4x4nFy8eZWuTFjpWrd8ALKN-8vH7LE_NvzxZkns6gxEXRZrweBeHPs_qftbhGaaDzds8RpQV/s320/tn.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" ageRating="+13" group-title="01 Capital Federal",TN Todo Noticias
 https://www.youtube.com/c/todonoticias/live
-#EXTINF:-1 tvg-name="Crónica TV ?" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pairz7rTZeAzlv9zs4qk_lEBdRsRLvvtRnE3JreuICroX2n_T9YhWiPmtZkNxNHFvIczJ3AsEZbeCG7w2-bdKC8sON2pyh2y9Hk7v1kwKwxk2Rn6Rp3q3rcWGcysoPoqKlIRg2-I-BiE3T0Jvjg2K4XGw65i5PPgxr6BcXxm4Qfq7MF54rnJ9rxP_ng/s320/cronica-c.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" ageRating="+13" group-title="01 Capital Federal",Crónica TV ?
+#EXTINF:-1 tvg-name="Crónica TV " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pairz7rTZeAzlv9zs4qk_lEBdRsRLvvtRnE3JreuICroX2n_T9YhWiPmtZkNxNHFvIczJ3AsEZbeCG7w2-bdKC8sON2pyh2y9Hk7v1kwKwxk2Rn6Rp3q3rcWGcysoPoqKlIRg2-I-BiE3T0Jvjg2K4XGw65i5PPgxr6BcXxm4Qfq7MF54rnJ9rxP_ng/s320/cronica-c.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" ageRating="+13" group-title="01 Capital Federal",Crónica TV
 https://www.youtube.com/c/cronicatv/live
-#EXTINF:-1 tvg-name="C5N ?" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3u1LkBh586K7lxgI_kZjDUmMori8fodzF5fCVy0r-Y-zGDpAaNDeAIIYrsBngz9ZjmAv_NPFM39HUTYZpDaOQ-5WVoOIBVXB9Hgp2uQ_rjVUhyvumOZzHBOpJwzsWuFOFlSDQSL1tBk0/w200-h200/c5n-2017.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" ageRating="+13" group-title="01 Capital Federal",C5N ?
+#EXTINF:-1 tvg-name="C5N " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3u1LkBh586K7lxgI_kZjDUmMori8fodzF5fCVy0r-Y-zGDpAaNDeAIIYrsBngz9ZjmAv_NPFM39HUTYZpDaOQ-5WVoOIBVXB9Hgp2uQ_rjVUhyvumOZzHBOpJwzsWuFOFlSDQSL1tBk0/w200-h200/c5n-2017.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" ageRating="+13" group-title="01 Capital Federal",C5N 
 https://www.youtube.com/c/c5n/live
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" ageRating="+13" group-title="01 Capital Federal" user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
@@ -160,8 +160,6 @@ https://www.youtube.com/watch?v=sLzfveqNEJc
 https://www.youtube.com/watch?v=Qr61waJ6AZg
 #EXTINF:-1 tvg-id="NTN24" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/NTN24_Logo.png" ageRating="+13" group-title="04 Internacional",NTN24 [Venezuela]
 https://www.youtube.com/watch?v=I4AVxPm58S0
-#EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal_24_Horas_HD.png/revision/latest?cb=20160309172308" ageRating="+13" group-title="04 Internacional",24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/hRxYQTVSCRh4uCs3Wk4AisHOKUI.png" ageRating="+13" group-title="04 Internacional",Azteca 7
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Internacional" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" ageRating="+13" group-title="04 Internacional",Azteca Internacional
@@ -1154,5 +1152,10 @@ https://27343.live.streamtheworld.com/DISNEY_ARG_BA_ADP.aac
 https://tolkien.republicahosting.net:2112/live
 #EXTINF:-1 tvg-id="" tvg-name="Mega 98.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/MEGA_983_logoEDT_black.png" ageRating="+7" group-title="15 Radio",Mega 98.3
 https://mega.stweb.tv/mega983/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="con vos" tvg-logo="https://static.radioconvos.com.ar/uploads/2026/03/Logo_1513x717.png" ageRating="+7" group-title="15 Radio",Con Vos 89.9
+https://server1.stweb.tv/rcvos/live/chunks.m3u8?nimblesessionid=939080826
+#EXTINF:-1 tvg-id="" tvg-name="urbana play" tvg-logo="https://urbanaplayfm.com/wp-content/uploads/2023/09/logo-web-blanco.png" ageRating="+7" group-title="15 Radio",Urbana 104.3
+https://live-ar1.cdnrad.com/hls/radio-285/live.m3u8
+
 # FIN RADIO
 
