@@ -3,6 +3,7 @@
   "web": "https://deportetvapp.github.io/download/",  
   "m3uUrl": "https://raw.githubusercontent.com/deportetvapp/soccerTvConfig/main/canales_pelis.m3u",
   "premiumCategories": ["Religioso"] ,
+  "logoHtml": "<span>🎃 BEBORRO 🎃</span>"
 "podcastShows": [
   {"nombre":"El Bazar de los Tormentos","feedUrl":"https://www.ivoox.com/podcast-bazar-de-los-tormentos_fg_f11695343_filtro_1.xml","categoria":"Terror","maxEpisodios":4},
   {"nombre":"Cuentos Narrados","feedUrl":"https://feeds.ivoox.com/feed_fg_f12706344_filtro_1.xml","categoria":"Terror","maxEpisodios":4},
