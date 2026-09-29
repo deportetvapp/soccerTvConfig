@@ -27,6 +27,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://www.youtube.com/user/TVPublicaArgentina/live
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://images.seeklogo.com/logo-png/52/2/telefe-2018-logo-png_seeklogo-527139.png"" ageRating="+13" group-title="01 Capital Federal",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://images.seeklogo.com/logo-png/52/2/telefe-2018-logo-png_seeklogo-527139.png"" ageRating="+13" group-title="01 Capital Federal",xotoco
+http://45.134.141.161:2200/ARG/XOTOXCO/index.m3u8
 # FIN CAPITAL FEDERAL
 
 #Interior
@@ -800,8 +802,6 @@ https://www.twitch.tv/nasa
 http://45.134.141.161:2200/ARG/History_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/esXeePrsUGpF6mGQXs3jImz9QoN.png" ageRating="+16" group-title="10 Documentales",Nat Geo Wild
 http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/discovery_science.png" ageRating="+16" group-title="10 Documentales",Discovery Science
-http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/3s6YJSYXW9mtJwoszTVI1BHDNc6.png" ageRating="+16" group-title="10 Documentales",Discovery Investigation
 http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png" ageRating="+16" group-title="10 Documentales",Wow Documentary HD
@@ -890,8 +890,6 @@ https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
 https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" ageRating="+7" group-title="11 Música",Vevo 90s y 00s
 https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" ageRating="+7" group-title="11 Música",Vevo 2K
-https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" ageRating="+7" group-title="11 Música",Vevo 70s
 https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/133-1336129_vevo-logo-transparent.png" ageRating="+7" group-title="11 Música",Vevo 80s
