@@ -665,8 +665,6 @@ https://stream-us-east-1.getpublica.com/cl/260918daml8q1di51s7393t5o0/1280x720_1
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="CBSenespanol.us@SD" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" group-title="07 Cine",CBS en español
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
-#EXTINF:-1 tvg-id="FITE24x7" tvg-name="FITE 24/7" tvg-logo="https://dl.svgcdn.com/png/simple-icons/fite-800.png" group-title="12 Deportes",FITE 24/7
-https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 # FIN Cine
 
 
