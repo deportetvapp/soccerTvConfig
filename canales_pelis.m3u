@@ -285,126 +285,126 @@ https://jmp2.uk/stvp-ES1600007AI
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8?ads_amagi_channel_id=953&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=action%2Canimation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=beyblade-es_es&ads_rtv_content_id=6421&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=1e3788d4-0d29-412c-966b-02c6e6815b03&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 # FIN Infantil
 
-# Anime
-#EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" ageRating="+7" group-title="06 Anime",Unetev HD
+# Animación
+#EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" ageRating="+7" group-title="06 Animación",Unetev HD
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SXZG5Nfv/Logo-Docevisi-n.jpg" ageRating="+7" group-title="06 Anime",Docevision HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SXZG5Nfv/Logo-Docevisi-n.jpg" ageRating="+7" group-title="06 Animación",Docevision HD
 https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYO353n3wq3F-Zgubbqmg3D7iIJJqt89fhuSU59Vbtw&s=10" ageRating="+7" group-title="06 Anime",TL
+#EXTINF:-1 tvg-id="" tvg-name="TL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYO353n3wq3F-Zgubbqmg3D7iIJJqt89fhuSU59Vbtw&s=10" ageRating="+7" group-title="06 Animación",TL
 https://cdn.40mediagroup.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blender" tvg-logo="https://video.blender.org/lazy-static/avatars/fae48696-478e-4c46-b720-9f3a1919eed0.png" ageRating="+7" group-title="06 Anime",Blender
+#EXTINF:-1 tvg-id="" tvg-name="Blender" tvg-logo="https://video.blender.org/lazy-static/avatars/fae48696-478e-4c46-b720-9f3a1919eed0.png" ageRating="+7" group-title="06 Animación",Blender
 https://ireplay.tv/test/hd_blender.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://static.wikia.nocookie.net/simpsons/images/9/9b/SimpsonNeox1.jpg/revision/latest/scale-to-width-down/180?cb=20131210211540" ageRating="+7" group-title="06 Anime",Los Simpsons
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://static.wikia.nocookie.net/simpsons/images/9/9b/SimpsonNeox1.jpg/revision/latest/scale-to-width-down/180?cb=20131210211540" ageRating="+7" group-title="06 Animación",Los Simpsons
 http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Anime",Neo Go Go Play Mix
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Animación",Neo Go Go Play Mix
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Energeek Retro" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" ageRating="+7" group-title="06 Anime", Energeek Retro
+#EXTINF:-1 tvg-id="" tvg-name="Energeek Retro" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" ageRating="+7" group-title="06 Animación", Energeek Retro
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
-#EXTINF:-1 tvg-id="" tvg-name="Energeek Fan" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" ageRating="+7" group-title="06 Anime", Energeek Fan
+#EXTINF:-1 tvg-id="" tvg-name="Energeek Fan" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/cropped-energeekbg-1.webp" ageRating="+7" group-title="06 Animación", Energeek Fan
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
-#EXTINF:-1 tvg-name="Hikari Station" tvg-id="HikariStation" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" ageRating="+7" group-title="06 Anime",Hikari Station HD
+#EXTINF:-1 tvg-name="Hikari Station" tvg-id="HikariStation" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" ageRating="+7" group-title="06 Animación",Hikari Station HD
 https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
-#EXTINF:-1 tvg-name="Laika Channel" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/KpQZrVtp/Laika-Channel-sin-fondo-2026-Esp.png" ageRating="+7" group-title="06 Anime",Laika Channel HD
+#EXTINF:-1 tvg-name="Laika Channel" tvg-id="LaikaChannel" tvg-logo="https://i.ibb.co/KpQZrVtp/Laika-Channel-sin-fondo-2026-Esp.png" ageRating="+7" group-title="06 Animación",Laika Channel HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
-#EXTINF:-1 tvg-name="Laika Channel Galicia" tvg-id="LaikaChannelGalicia" tvg-logo="https://i.ibb.co/G49XfrN3/Laika-Channel-Galicia-2026.png" ageRating="+7" group-title="06 Anime",Laika Channel Galicia HD
+#EXTINF:-1 tvg-name="Laika Channel Galicia" tvg-id="LaikaChannelGalicia" tvg-logo="https://i.ibb.co/G49XfrN3/Laika-Channel-Galicia-2026.png" ageRating="+7" group-title="06 Animación",Laika Channel Galicia HD
 https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
-#EXTINF:-1 tvg-name="Delmi TV" tvg-id="DelmiTV" tvg-logo="https://i.ibb.co/NnFbddpc/Logo-animado-de-Delmi-TV.png" ageRating="+7" group-title="06 Anime",Delmi TV HD
+#EXTINF:-1 tvg-name="Delmi TV" tvg-id="DelmiTV" tvg-logo="https://i.ibb.co/NnFbddpc/Logo-animado-de-Delmi-TV.png" ageRating="+7" group-title="06 Animación",Delmi TV HD
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-#EXTINF:-1 tvg-name="Locomotion Esp" tvg-id="LocomotionEsp" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" ageRating="+7" group-title="06 Anime",Locomotion Esp
+#EXTINF:-1 tvg-name="Locomotion Esp" tvg-id="LocomotionEsp" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" ageRating="+7" group-title="06 Animación",Locomotion Esp
 https://lbgo.bozztv.com/ssh101/ssh101/myevent2025/playlist.m3u8
-#EXTINF:-1 tvg-name="LOCOMOTION 24/7" tvg-id="LOCOMOTION24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png" ageRating="+7" group-title="06 Anime",LOCOMOTION 24/7 HD
+#EXTINF:-1 tvg-name="LOCOMOTION 24/7" tvg-id="LOCOMOTION24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png" ageRating="+7" group-title="06 Animación",LOCOMOTION 24/7 HD
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
-#EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" ageRating="+7" group-title="06 Anime",Zyoon Tv HD
+#EXTINF:-1 tvg-name="Zyoon Tv" tvg-id="Zyoon Tv" tvg-logo="https://i.ibb.co/zWhrb4q9/Logo-Zyoontv.jpg" ageRating="+7" group-title="06 Animación",Zyoon Tv HD
 https://lbgo.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Buzz" tvg-id="CanalBuzz" tvg-logo="https://i.ibb.co/zWkbw8qX/Logo-Canal-Buzz.png" ageRating="+7" group-title="06 Anime",Canal Buzz HD 
+#EXTINF:-1 tvg-name="Canal Buzz" tvg-id="CanalBuzz" tvg-logo="https://i.ibb.co/zWkbw8qX/Logo-Canal-Buzz.png" ageRating="+7" group-title="06 Animación",Canal Buzz HD 
 https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
-#EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" ageRating="+7" group-title="06 Anime",Max Anime HD
+#EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" ageRating="+7" group-title="06 Animación",Max Anime HD
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Anime",TALTALTV ANIME (series) HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Animación",TALTALTV ANIME (series) HD
 https://lbgo.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Anime",TALTALTV Anime HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Animación",TALTALTV Anime HD
 https://lbgo.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Anime",TALTALTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Animación",TALTALTV HD
 https://lbgo.bozztv.com/giatv/giatv-TALTALTVHD/TALTALTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Anime",TALTALTV ANIME (City Pop) HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Animación",TALTALTV ANIME (City Pop) HD
 https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/35jpRw1G/Logo-Iunior-TV.png" ageRating="+7" group-title="06 Anime",Iunior TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/35jpRw1G/Logo-Iunior-TV.png" ageRating="+7" group-title="06 Animación",Iunior TV HD
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" ageRating="+7" group-title="06 Anime",Loading HD [Brasil]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" ageRating="+7" group-title="06 Animación",Loading HD [Brasil]
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ANIME TV" tvg-logo="https://i.ibb.co/ZVKdyNQ/logo-Anime-TV.png" ageRating="+7" group-title="06 Anime",Anime TV [Brasil]
+#EXTINF:-1 tvg-id="ANIME TV" tvg-logo="https://i.ibb.co/ZVKdyNQ/logo-Anime-TV.png" ageRating="+7" group-title="06 Animación",Anime TV [Brasil]
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DkHFvM1/logo-Wording.png" ageRating="+7" group-title="06 Anime",Wording TV HD [Brasil]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DkHFvM1/logo-Wording.png" ageRating="+7" group-title="06 Animación",Wording TV HD [Brasil]
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Dragon_Ball_Super_Logo.png" ageRating="+7" group-title="06 Anime",Goku TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Dragon_Ball_Super_Logo.png" ageRating="+7" group-title="06 Animación",Goku TV HD
 https://lbgo.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg" ageRating="+7" group-title="06 Anime",Mr Bean HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg" ageRating="+7" group-title="06 Animación",Mr Bean HD
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" ageRating="+7" group-title="06 Anime",Mr Bean Animado HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" ageRating="+7" group-title="06 Animación",Mr Bean Animado HD
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Anime",Gogoplay Max
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Animación",Gogoplay Max
 https://lbgo.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Anime",Gogoplay TVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Animación",Gogoplay TVE
 https://lbgo.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Anime",Gogoplay TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Animación",Gogoplay TV
 https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1 channel-id="628751bb7154a40007168843" tvg-id="628751bb7154a40007168843" tvg-chno="320" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" ageRating="+7" group-title="06 Anime",South Park
+#EXTINF:-1 channel-id="628751bb7154a40007168843" tvg-id="628751bb7154a40007168843" tvg-chno="320" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" ageRating="+7" group-title="06 Animación",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-#EXTINF:-1 channel-id="63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-chno="324" tvg-name="South Park Versión Original" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",South Park Versión Original
+#EXTINF:-1 channel-id="63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-chno="324" tvg-name="South Park Versión Original" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",South Park Versión Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
-#EXTINF:-1 channel-id="5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-chno="306" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Pluto TV Anime
+#EXTINF:-1 channel-id="5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-chno="306" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Pluto TV Anime
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-#EXTINF:-1 channel-id="632c6df43d2bc5000751f621" tvg-id="632c6df43d2bc5000751f621" tvg-chno="305" tvg-name="Inazuma Eleven" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Inazuma Eleven
+#EXTINF:-1 channel-id="632c6df43d2bc5000751f621" tvg-id="632c6df43d2bc5000751f621" tvg-chno="305" tvg-name="Inazuma Eleven" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
-#EXTINF:-1 channel-id="63dd5d7a4e83e700088fbca8" tvg-id="63dd5d7a4e83e700088fbca8" tvg-chno="513" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Las Tortugas Ninja
+#EXTINF:-1 channel-id="63dd5d7a4e83e700088fbca8" tvg-id="63dd5d7a4e83e700088fbca8" tvg-chno="513" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-#EXTINF:-1 channel-id="629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-chno="302" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG_1771323495777.png" ageRating="+7" group-title="06 Anime",Detective Conan
+#EXTINF:-1 channel-id="629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-chno="302" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG_1771323495777.png" ageRating="+7" group-title="06 Animación",Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
-#EXTINF:-1 channel-id="685a996c7c4f2ad40cb4f276" tvg-id="685a996c7c4f2ad40cb4f276" tvg-chno="301" tvg-name="Dragon Ball" tvg-logo="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG_1756876796024.png" ageRating="+7" group-title="06 Anime",Dragon Ball
+#EXTINF:-1 channel-id="685a996c7c4f2ad40cb4f276" tvg-id="685a996c7c4f2ad40cb4f276" tvg-chno="301" tvg-name="Dragon Ball" tvg-logo="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG_1756876796024.png" ageRating="+7" group-title="06 Animación",Dragon Ball
 https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
-#EXTINF:-1 channel-id="68e8fd7c3ede4398bc69af93" tvg-id="68e8fd7c3ede4398bc69af93" tvg-chno="300" tvg-name="Dragon Ball Z" tvg-logo="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1775550158845.png" ageRating="+7" group-title="06 Anime",Dragon Ball Z
+#EXTINF:-1 channel-id="68e8fd7c3ede4398bc69af93" tvg-id="68e8fd7c3ede4398bc69af93" tvg-chno="300" tvg-name="Dragon Ball Z" tvg-logo="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1775550158845.png" ageRating="+7" group-title="06 Animación",Dragon Ball Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
-#EXTINF:-1 channel-id="680ba8c3a48b3ead0db701cc" tvg-id="680ba8c3a48b3ead0db701cc" tvg-chno="303" tvg-name="Los caballeros del Zodiaco" tvg-logo="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG_1758616347633.png" ageRating="+7" group-title="06 Anime",Los caballeros del Zodiaco
+#EXTINF:-1 channel-id="680ba8c3a48b3ead0db701cc" tvg-id="680ba8c3a48b3ead0db701cc" tvg-chno="303" tvg-name="Los caballeros del Zodiaco" tvg-logo="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG_1758616347633.png" ageRating="+7" group-title="06 Animación",Los caballeros del Zodiaco
 https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
-#EXTINF:-1 channel-id="683457e5f59cc6a13212fce4" tvg-id="683457e5f59cc6a13212fce4" tvg-chno="304" tvg-name="Lupin" tvg-logo="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png" ageRating="+7" group-title="06 Anime",Lupin
+#EXTINF:-1 channel-id="683457e5f59cc6a13212fce4" tvg-id="683457e5f59cc6a13212fce4" tvg-chno="304" tvg-name="Lupin" tvg-logo="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png" ageRating="+7" group-title="06 Animación",Lupin
 https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8
-#EXTINF:-1 channel-id="5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Naruto
+#EXTINF:-1 channel-id="5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Naruto
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
-#EXTINF:-1 channel-id="5fceaab478f2af00080ff51f" tvg-id="5fceaab478f2af00080ff51f" tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Yu-Gi-Oh
+#EXTINF:-1 channel-id="5fceaab478f2af00080ff51f" tvg-id="5fceaab478f2af00080ff51f" tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Yu-Gi-Oh
 https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
-#EXTINF:-1 channel-id="5ff4b9ccf938f8000779eb99" tvg-id="5ff4b9ccf938f8000779eb99" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",One Piece
+#EXTINF:-1 channel-id="5ff4b9ccf938f8000779eb99" tvg-id="5ff4b9ccf938f8000779eb99" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",One Piece
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-#EXTINF:-1 channel-id="5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Tokusato
+#EXTINF:-1 channel-id="5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Tokusato
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
-#EXTINF:-1 channel-id="609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Comedy Central South Park
+#EXTINF:-1 channel-id="609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Comedy Central South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1 channel-id="626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Death Note
+#EXTINF:-1 channel-id="626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Death Note
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
-#EXTINF:-1 channel-id="62d0895ebe7a970008785244" tvg-id="62d0895ebe7a970008785244" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Daria
+#EXTINF:-1 channel-id="62d0895ebe7a970008785244" tvg-id="62d0895ebe7a970008785244" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Daria
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
-#EXTINF:-1 channel-id="62d08af527ce19000731eaa0" tvg-id="62d08af527ce19000731eaa0" tvg-name="La Familia del Barrio" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",La Familia del Barrio
+#EXTINF:-1 channel-id="62d08af527ce19000731eaa0" tvg-id="62d08af527ce19000731eaa0" tvg-name="La Familia del Barrio" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",La Familia del Barrio
 https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
-#EXTINF:-1 channel-id="64c92fea3c3344000869e8a9" tvg-id="64c92fea3c3344000869e8a9" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Naruto Shippuden
+#EXTINF:-1 channel-id="64c92fea3c3344000869e8a9" tvg-id="64c92fea3c3344000869e8a9" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Naruto Shippuden
 https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
-#EXTINF:-1 channel-id="656f37f257fe4a000884dfee" tvg-id="656f37f257fe4a000884dfee" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Boruto: Naruto Next Generations
+#EXTINF:-1 channel-id="656f37f257fe4a000884dfee" tvg-id="656f37f257fe4a000884dfee" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Boruto: Naruto Next Generations
 https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
-#EXTINF:-1 channel-id="65d916a2f7f0af0008b6540d" tvg-id="65d916a2f7f0af0008b6540d" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Hunter x Hunter
+#EXTINF:-1 channel-id="65d916a2f7f0af0008b6540d" tvg-id="65d916a2f7f0af0008b6540d" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Hunter x Hunter
 https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
-#EXTINF:-1 channel-id="65df7272ec9fda0008b7a970" tvg-id="65df7272ec9fda0008b7a970" tvg-name="South Park: Colección Kenny" tvg-logo="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",South Park: Colección Kenny
+#EXTINF:-1 channel-id="65df7272ec9fda0008b7a970" tvg-id="65df7272ec9fda0008b7a970" tvg-name="South Park: Colección Kenny" tvg-logo="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",South Park: Colección Kenny
 https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-#EXTINF:-1 channel-id="65df72db18036500081a8292" tvg-id="65df72db18036500081a8292" tvg-name="South Park: Colección Stan" tvg-logo="https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",South Park: Colección Stan
+#EXTINF:-1 channel-id="65df72db18036500081a8292" tvg-id="65df72db18036500081a8292" tvg-name="South Park: Colección Stan" tvg-logo="https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",South Park: Colección Stan
 https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
-#EXTINF:-1 channel-id="65df731cec9fda0008b7aa8d" tvg-id="65df731cec9fda0008b7aa8d" tvg-name="South Park: Colección Cartman" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",South Park: Colección Cartman
+#EXTINF:-1 channel-id="65df731cec9fda0008b7aa8d" tvg-id="65df731cec9fda0008b7aa8d" tvg-name="South Park: Colección Cartman" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",South Park: Colección Cartman
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-#EXTINF:-1 channel-id="65df73520d4561000817c29b" tvg-id="65df73520d4561000817c29b" tvg-name="South Park: Colección Kyle" tvg-logo="https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",South Park: Colección Kyle
+#EXTINF:-1 channel-id="65df73520d4561000817c29b" tvg-id="65df73520d4561000817c29b" tvg-name="South Park: Colección Kyle" tvg-logo="https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",South Park: Colección Kyle
 https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
-#EXTINF:-1 channel-id="66b26665d512590008c507b7" tvg-id="66b26665d512590008c507b7" tvg-name="Inuyasha" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",Inuyasha
+#EXTINF:-1 channel-id="66b26665d512590008c507b7" tvg-id="66b26665d512590008c507b7" tvg-name="Inuyasha" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Inuyasha
 https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
-#EXTINF:-1 channel-id="66c790f780a0af0008583aa4" tvg-id="66c790f780a0af0008583aa4" tvg-name="JoJo's Bizarre Adventure" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png" ageRating="+7" group-title="06 Anime",JoJo's Bizarre Adventure
+#EXTINF:-1 channel-id="66c790f780a0af0008583aa4" tvg-id="66c790f780a0af0008583aa4" tvg-name="JoJo's Bizarre Adventure" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",JoJo's Bizarre Adventure
 https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sailor_moon.png" ageRating="+7" group-title="06 Anime",Sailor Moon [Ingles]
+#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sailor_moon.png" ageRating="+7" group-title="06 Animación",Sailor Moon [Ingles]
 https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
-# FIN Anime
+# FIN Animación
 
 
 
