@@ -27,6 +27,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://www.youtube.com/user/TVPublicaArgentina/live
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://images.seeklogo.com/logo-png/52/2/telefe-2018-logo-png_seeklogo-527139.png"" ageRating="+13" group-title="01 Capital Federal",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="1417" tvg-name="Canal E" ageRating="+13" group-title="01 Capital Federal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LihWvGGlLGpNQtNRv3TJfjf83xnCC2L7eaDTmfcLsn1KIFuLoagHN-721F-zMx_VEAxmXakXbe08X2A7xUj1Diw47r3p0esbOI3Zv7P66QmC0qZEkdDnPg5giOO1mAkAmbO3Y2pqOuxN87ftTdPgWi743ODV02l5BYeqz1azJYII7llCJXu6mLMBTA/s16000/g-perfil.png", Perfil+
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
 # FIN CAPITAL FEDERAL
 
 #Interior
@@ -128,6 +130,36 @@ https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
 #EXTINF:-1 tvg-id="LUMPEN TV" tvg-logo="https://lumpentv.com.ar/lumpen.png" ageRating="+13" group-title="02 Interior",LUMPEN TV [La Plata]
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 tvg-id="252" tvg-name="Aire de Santa Fe" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png", Aire de Santa Fe [Santa Fe]
+https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1057" tvg-name="Canal 21 Misiones" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/1057_Canal_21_Misiones.png", Canal 21 Misiones [Misiones]
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232" tvg-name="Canal 50 Morteros" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/232_Canal_50_Morteros.png", Canal 50 Morteros [Córdoba]
+https://online.coopmorteros.coop/canal50/vivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="272" tvg-name="Canal 79 Mar del Plata" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/272_Canal_79_Mar_del_Plata.png", Canal 79 [Mar del Plata]
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="815" tvg-name="Celta TV" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/815_Celta_TV.png", Celta TV [Tres Arroyos]
+https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1237" tvg-name="Corrientes TV" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/1237_Corrientes_TV.png", Corrientes TV [Corrientes]
+https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="281" tvg-name="El 10 TV Salta" ageRating="+13" group-title="02 Interior"tvg-logo="https://cdn.m3u.cl/logo/281_El_10_TV_Salta.png", El 10 TV [Salta]
+https://el10tvstream.digitalnoa.com.ar/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?session=HQnDkiiefYtyyMntKPEH8d&PlaylistM3UCL
+#EXTINF:-1 tvg-id="212" tvg-name="Link TV"  ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/212_Link_TV.png", Link TV [Santa Fe]
+https://panel.host-live.com:19360/linktv/linktv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="244" tvg-name="T5 Satelital" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/244_T5_Satelital.png", T5 Satelital [Corrientes]
+https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="289" tvg-name="TDC TV Santa Fe" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/289_TDC_TV_Santa_Fe.png", TDC TV [Santa Fe]
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="290" tvg-name="Telecreativa" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/290_Telecreativa.png", Telecreativa [Buenos Aires]
+https://panel.host-live.com:19360/8012/8012.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1368" tvg-name="TeleJunin" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/1368_TeleJunin.png", TeleJunin [Buenos Aires]
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="247" tvg-name="UNIRIO" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/247_UNIRIO.png", UNIRIO [Córdoba]
+https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1236" tvg-name="PANC TV" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/1236_PANC_TV.png", PANC TV [Tucumám]
+https://panctv.ddns.net/hls/ar/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias [Santa Cruz]
+https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
 # FIN INTERIOR
 
 #Stream
@@ -180,7 +212,7 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 https://iptv2.intersurtv.cl/TVN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Latele_LEP_2023.png" ageRating="+13" group-title="04 Internacional",Latele
 https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="" tvg-name="CTV Honduras" tvg-logo="https://images.seeklogo.com/logo-png/33/1/canal-11-honduras-logo-png_seeklogo-332813.png" ageRating="+13" group-title="04 Internacional",CTV Honduras
+#EXTINF:-1 tvg-id="" tvg-name="CTV Honduras" tvg-logo="https://images.seeklogo.com/logo-png/33/1/canal-11-honduras-logo-png_seeklogo-332813.png" ageRating="+13" group-title="04 Internacional",CTV [Honduras]
 https://viewhn.com/ctvinternacional/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNNinternational-logo.png" ageRating="+13" group-title="04 Internacional",CNN International
 http://45.134.141.161:2200/ARG/CNN_International/index.m3u8
@@ -666,8 +698,10 @@ https://5790d294af2dc.streamlock.net/oxitv/live/chunklist_w721076487.m3u8
 https://stream-us-east-1.getpublica.com/cl/260918daml8q1di51s7393t5o0/1280x720_1500000_0_f.m3u8?i=1187_13001
 #EXTINF:-1 tvg-id="" tvg-name="BEST CLASICOS TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" ageRating="+16" group-title="07 Cine",BEST CLASICOS TV
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="CBSenespanol.us@SD" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" group-title="07 Cine",CBS en español
+#EXTINF:-1 tvg-id="CBSenespanol.us@SD" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" ageRating="+16" group-title="07 Cine",CBS en español
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
+#EXTINF:-1 tvg-id="1620" tvg-name="Monte Grande" ageRating="+16" group-title="07 Cine" tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/10/MovieFlix.mg_-300x300.png", Movie Flix
+https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/chunks.m3u8?PlaylistM3UCL
 # FIN Cine
 
 
