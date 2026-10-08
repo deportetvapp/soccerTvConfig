@@ -29,7 +29,7 @@ https://www.youtube.com/user/TVPublicaArgentina/live
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="1417" tvg-name="Canal E" ageRating="+13" group-title="01 Capital Federal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LihWvGGlLGpNQtNRv3TJfjf83xnCC2L7eaDTmfcLsn1KIFuLoagHN-721F-zMx_VEAxmXakXbe08X2A7xUj1Diw47r3p0esbOI3Zv7P66QmC0qZEkdDnPg5giOO1mAkAmbO3Y2pqOuxN87ftTdPgWi743ODV02l5BYeqz1azJYII7llCJXu6mLMBTA/s16000/g-perfil.png", Perfil+
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="InfobaeEnVivo" tvg-name="Infobae En Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Infobae.com_logo.png" ageRating="+13" group-title="01 Capital Federal",Infobae En Vivo
+#EXTINF:-1 tvg-id="InfobaeEnVivo" tvg-name="Infobae En Vivo" tvg-logo="https://static.wixstatic.com/media/4a1650_ff8e5356711547de93d49c7af4cc7c11~mv2.png/v1/fill/w_277,h_401,al_c,lg_1,q_85,enc_avif,quality_auto/4a1650_ff8e5356711547de93d49c7af4cc7c11~mv2.png" ageRating="+13" group-title="01 Capital Federal",Infobae En Vivo
 https://www.youtube.com/@infobae/live
 # FIN CAPITAL FEDERAL
 
@@ -228,6 +228,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/chunklist_w1601782278_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="VidaAlMaximoTV" tvg-name="Vida al Máximo TV" tvg-logo="https://www.vivalivetv.com/uploads/channels/vida-al-maximo-tv.png" ageRating="+13" group-title="04 Internacional",Vida al Máximo TV [R.Dominicana]
 https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/chunks.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV" tvg-name="PARAGUAY TV" tvg-logo="https://bestleague.world/img/pytv.png" group-title="04 Internacional" ageRating="+13", TV [PARAGUAY]
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 # FIN Internacional
 
 # Infantil
@@ -327,7 +329,7 @@ https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01
 https://www.youtube.com/channel/UCuSo4gcgxJRf4Bzu43wwVyg/live
 #EXTINF:-1 tvg-id="LaGranjaDeZenon" tvg-name="La Granja de Zenón" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/La_Granja_de_Zenon.jpg" ageRating="ATP" group-title="05 Infantil",La Granja de Zenón
 https://www.youtube.com/watch?v=jSjke_MB0G4
-#EXTINF:-1 tvg-id="PlimPlim" tvg-name="Plim Plim" tvg-logo="https://www.pngegg.com/assets/images/voezc.png" ageRating="ATP" group-title="05 Infantil",Plim Plim
+#EXTINF:-1 tvg-id="PlimPlim" tvg-name="Plim Plim" tvg-logo="https://plimplim.tv/assets/images/logo.png" ageRating="ATP" group-title="05 Infantil",Plim Plim
 https://www.youtube.com/watch?v=iA-G81-JXYI
 # FIN Infantil
 
@@ -587,7 +589,6 @@ https://jmp2.uk/stvp-ES2800001G7
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Exitos" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sony_one.png" ageRating="+16" group-title="07 Cine",Sony One Exitos
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Accion" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sony_one.png" ageRating="+16" group-title="07 Cine",Sony One Hits Accion
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Universal_Channel_logo.png" ageRating="+16" group-title="07 Cine",Universal
@@ -716,6 +717,12 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 #EXTINF:-1 tvg-id="1620" tvg-name="Monte Grande" ageRating="+16" group-title="07 Cine" tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/10/MovieFlix.mg_-300x300.png", Movie Flix
 https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CineHispano" tvg-name="CINE HISPANO" tvg-logo="https://pelisjuanita.com/tv/logos/cine-hispano.png" group-title="07 Cine" ageRating="+16",CINE HISPANO
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CineFamiliar" tvg-name="CINE FAMILIAR" tvg-logo="https://pelisjuanita.com/tv/logos/cine-familiar.png" group-title="07 Cine" ageRating="+16",CINE FAMILIAR
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CinePremium" tvg-name="CINE PREMIUM" tvg-logo="https://pelisjuanita.com/tv/logos/cine-premium.png" group-title="07 Cine" ageRating="+16",CINE PREMIUM
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 # FIN Cine
 
 
@@ -993,11 +1000,13 @@ https://www.youtube.com/watch?v=NGsjwNsXE0w
 #EXTINF:-1 tvg-id="" tvg-name="Country" tvg-logo="https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png" ageRating="+7" group-title="11 Música",Country
 https://www.youtube.com/watch?v=p6rZI6JFTHQ
 #EXTINF:-1 tvg-id="" tvg-name="Movie Music" tvg-logo="https://cdn-01.watch4.com/01/1762781812_stingray-movie-music_white_logo.png" ageRating="+7" group-title="11 Música",Movie Music 
-https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/df4dfcf1-cb3a-425f-bf85-49aaac5f28b0/3.m3u8
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oasis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Oasis_-_1993p4.png/revision/latest/scale-to-width-down/200?cb=20250227081844" ageRating="+7" group-title="11 Música",Oasis
 https://www.youtube.com/watch?v=JbFRzyqW22g
 #EXTINF:-1 tvg-id="" tvg-name="Workout Music" tvg-logo="https://cdn.fitimg.in/studios/studio1753850663-qd8t5te6hsiiflmt5zf5.jpg" ageRating="+7" group-title="11 Música",Workout Music
 https://www.youtube.com/watch?v=kAUVOHB3XYM
+#EXTINF:-1 tvg-id="StingrayClassica" tvg-name="Stingray Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stingray_Classica_Logo_10.2019.svg/3840px-Stingray_Classica_Logo_10.2019.svg.png" group-title="11 Música" ageRating="+7",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 # FIN MÚSICA
 
 # Deportes
@@ -1026,7 +1035,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Barça TV" tvg-logo="https://artwork.espncdn.com/airings/addffcab-cfd5-4cff-b92d-64cd39acc41d/16x9/1280x720_20200401201108.jpg" ageRating="ATP" group-title="12 Deportes",Barça TV
 https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/3JUSJKaupT1HZfl5jzodmK/9e43ec378a5e6b38e687d90d07e02946/FIFA_LOGO.png?fm=webp&q=50" ageRating="ATP" group-title="12 Deportes",FIFA+
-https://6c849fb3.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/7dd6b7e2-6901-4654-b369-01e5467911e1/3.m3u8
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/FIGHTBOX.png" ageRating="ATP" group-title="12 Deportes",FightBox
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-id="FightTV" tvg-name="Fight TV" tvg-logo="" ageRating="ATP" group-title="12 Deportes",Fight TV
@@ -1047,6 +1056,8 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalShowsport.ar" tvg-name="Canal Showsport" tvg-logo="https://cdn.brandfetch.io/canalshowsport.com.ar/w/400/h/400/theme/dark/icon.png" ageRating="ATP" group-title="12 Deportes",Canal Showsport
 https://www.twitch.tv/canalshowsport
+#EXTINF:-1 tvg-id="NASCAR" tvg-name="Nascar" tvg-logo="https://i.ibb.co/200mKsrT/image.png" group-title="12 Deportes" ageRating="ATP",Nascar
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8
 # FIN Deportes
 
 # Lifestyle
@@ -1186,8 +1197,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio La Red" tvg-logo="https://images.seeklogo.com/logo-png/26/1/radio-la-red-logo-png_seeklogo-269187.png" ageRating="+7" group-title="15 Radio",Radio La Red
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="Radio Con Vos" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbd7wbsq4Jh-9FddcqB5LkRpMAyA4vkR25SA0ixKq8Xwle3kcGsI8Cn-QFi7PwdUgVhKwBo-OxOFNwWalv2_b3Qf-kA0xE-UK3x1uT0kWQ-Vkh9cryukf7iq6mR-EgIBNxCK9dfj534giigeWAavzUoynrCymGoc67Br9GQeR2H2aS4oc-H7B53p4Ords/s320/radioconvos-2024-v2.png" ageRating="+7" group-title="15 Radio",Radio Con Vos
-https://server1.stweb.tv/rcvos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Mitre" tvg-logo="https://images.seeklogo.com/logo-png/9/1/mitre-radio-logo-png_seeklogo-93520.png" ageRating="+7" group-title="15 Radio",Radio Mitre
 https://radio.eduneu.eu:8040/radio.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Radio_Rivadavia_1998.png/revision/latest/scale-to-width-down/78?cb=20200926142740&path-prefix=es" ageRating="+7" group-title="15 Radio",Radio Rivadavia
