@@ -212,8 +212,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67e6979de1de65be88aeb39f/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
 #EXTINF:-1 tvg-id="" tvg-name="La Popular TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandera_de_Chile.svg/200px-Bandera_de_Chile.svg.png" ageRating="+13" group-title="04 Internacional",La Popular TV Chile
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TVN_Chile_logo.png" ageRating="+13" group-title="04 Internacional",TVN Chile
-https://iptv2.intersurtv.cl/TVN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Meganoticias" tvg-name="Meganoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png" group-title="04 Internacional" ageRating="+13", Meganoticias [Chile]
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Latele_LEP_2023.png" ageRating="+13" group-title="04 Internacional",Latele
 https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="" tvg-name="CTV Honduras" tvg-logo="https://images.seeklogo.com/logo-png/33/1/canal-11-honduras-logo-png_seeklogo-332813.png" ageRating="+13" group-title="04 Internacional",CTV [Honduras]
@@ -228,7 +228,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/chunklist_w1601782278_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="VidaAlMaximoTV" tvg-name="Vida al Máximo TV" tvg-logo="https://www.vivalivetv.com/uploads/channels/vida-al-maximo-tv.png" ageRating="+13" group-title="04 Internacional",Vida al Máximo TV [R.Dominicana]
 https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/chunks.m3u8
-#EXTINF:-1 tvg-id="ParaguayTV" tvg-name="PARAGUAY TV" tvg-logo="https://bestleague.world/img/pytv.png" group-title="04 Internacional" ageRating="+13", TV [PARAGUAY]
+#EXTINF:-1 tvg-id="ParaguayTV" tvg-name="PARAGUAY TV" tvg-logo="https://bestleague.world/img/pytv.png" group-title="04 Internacional" ageRating="+13", TV [Paraguay]
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 # FIN Internacional
 
@@ -709,8 +709,6 @@ https://jmp2.uk/stvp-ESBD800001RJ
 https://jmp2.uk/stvp-ES2300005G7
 #EXTINF:-1 tvg-id="" tvg-name="Oxi TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" ageRating="+16" group-title="07 Cine",Oxi TV
 https://5790d294af2dc.streamlock.net/oxitv/live/chunklist_w721076487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Infinita" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3235-294x165-FFFFFF.jpg" ageRating="+16" group-title="07 Cine",Infinita
-https://stream-us-east-1.getpublica.com/cl/260918daml8q1di51s7393t5o0/1280x720_1500000_0_f.m3u8?i=1187_13001
 #EXTINF:-1 tvg-id="" tvg-name="BEST CLASICOS TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" ageRating="+16" group-title="07 Cine",BEST CLASICOS TV
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="CBSenespanol.us@SD" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" ageRating="+16" group-title="07 Cine",CBS en español
@@ -799,8 +797,6 @@ https://jmp2.uk/stvp-ES42000022E
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" ageRating="+16" group-title="10 Documentales",History
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/national_geographic.png" ageRating="+16" group-title="10 Documentales",NatGeo
-http://45.162.193.35/NATGEO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" ageRating="+16" group-title="10 Documentales",Historias de Ultratumba
 https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
 #EXTINF:-1 channel-id="6335a6b6e6f7a600076e589e" tvg-id="6335a6b6e6f7a600076e589e" tvg-chno="152" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" ageRating="+16" group-title="10 Documentales",Cazasubastas
@@ -863,8 +859,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel_id=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=crime&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=16&ads_rtv_channel_name=crimenes-reales_es&ads_rtv_content_id=6735&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3dfdde39-8e38-472b-9a76-90beb86b0edb&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-id="crimenes-reales" tvg-logo="https://cdn-01.watch4.com/01/1742400187_time2rlx_white_logo.png" ageRating="+16" group-title="10 Documentales",Time2Rlx
 https://amg00735-amg00735c51-wedotv-eu-7283.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvtime2rlx-wedotveu/cb7d3e167b716f8792ca3f6cd9f944a9d10e6589013ad6316fac5e9574974b5381bba096e748ef685abd40a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05846c66cbfb10248854c14b1d30090cb19b887ca5898519273a4179ac3f08e820dd0819963b456b33258157a78cc8534c2cc59b48cc96b3fcd707e1e44108cce92ee5e0395534c4efdc0dead698d67a4fb2d957427a85ad70093358e64be1fe9e241adf7c0b521542ba8b62f0b55a8f1b49ae86f7cf271fea6e6c965329af919222ca309df263b2ae29ea175d59961fcde2295a4561339cd9437f3f7d494eab4825e8a17c0ad80f0d6d5c5027e60a76fe0f34cc92ed876bcc71d202e352ecfa974b4485dc3521822b58f4bc01b5b98d68e91d60d3ab000513aba34b15f74577fe8ef08c80c59e3acab2f0d5dd4189db126148d47eeb12ff4e8faf7013ebbcace4cfe20cda00fdcf911964c354b07a0c8e13e2f4350dff46f013c788c10aa838aa940000ee8f8daed807d0c4768471c5cd0a2d07995d894725d0e97076f205500079a01e16cdd2b4014619c4d84e25a22c54e0a05d28a13111a609fc3b4c1a0d3c94fba3693ecf52b20365c2cec6656683e9de6c309bd0b4a787b4f89403110ea49091498e0a38fae8960ca9373b978334411a2de230158023d3370d8fa0ef051ed9411bce1ba7fc4fd821f40c571e3361990d4d37bebafe6e34a1c9bbe58096df4827491934c0db6649eee4c89932ffeec5875dd5aaf932fad05e1/134/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-id="nature-scape" tvg-logo="https://cdn-01.watch4.com/01/1762782133_stingray-naturescape_white_logo.png" ageRating="+16" group-title="10 Documentales",Naturescape
-https://ce5766cc.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5TmF0dXJlU2NhcGVfSExT/f9993455-7564-4132-9af0-2dd314c64c58/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Discovery_2016-0.png/revision/latest?cb=20191001133056&path-prefix=es" ageRating="+16" group-title="10 Documentales",Discovery Channel HD
 http://45.134.141.161:2200/ARG/Discovery_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://archive.org/download/discovery-turbo-logo-5206AA4570-seeklogo.com/discovery-turbo-logo-5206AA4570-seeklogo.com.png" ageRating="+16" group-title="10 Documentales",Discovery Turbo HD
@@ -1170,10 +1164,6 @@ https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Luz" tvg-logo="https://i.imgur.com/GnY6dNT.png" ageRating="ATP" group-title="14 Religioso",Canal Luz [Santa Fe]
 https://g2.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Unife_logo.png" ageRating="ATP" group-title="14 Religioso",Unife
-#EXTINF:-1 tvg-id="" tvg-name="Orbe 21" tvg-logo="https://i.imgur.com/USD6Wn8.png" ageRating="ATP" group-title="14 Religioso",Orbe 21
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1179893763_b2211840.m3u8
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://i.imgur.com/USD6Wn8.png" ageRating="ATP" group-title="14 Religioso",Canal Orbe 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" ageRating="ATP" group-title="14 Religioso",Enlace
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/EWTN-Logo.svg/330px-EWTN-Logo.svg.png" ageRating="ATP" group-title="14 Religioso",EWTN el Canal Católico
