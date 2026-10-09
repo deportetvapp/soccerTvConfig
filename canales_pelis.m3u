@@ -27,9 +27,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://www.youtube.com/user/TVPublicaArgentina/live
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://images.seeklogo.com/logo-png/52/2/telefe-2018-logo-png_seeklogo-527139.png" ageRating="+13" group-title="01 Capital Federal",Telefe
 telefe:6a024684fd4ca6a938f3a118
-#EXTINF:-1 tvg-id="1417" tvg-name="Canal E" ageRating="+13" group-title="01 Capital Federal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LihWvGGlLGpNQtNRv3TJfjf83xnCC2L7eaDTmfcLsn1KIFuLoagHN-721F-zMx_VEAxmXakXbe08X2A7xUj1Diw47r3p0esbOI3Zv7P66QmC0qZEkdDnPg5giOO1mAkAmbO3Y2pqOuxN87ftTdPgWi743ODV02l5BYeqz1azJYII7llCJXu6mLMBTA/s16000/g-perfil.png", Perfil+
+#EXTINF:-1 tvg-id="1417" tvg-name="Canal E" ageRating="+13" group-title="01 Capital Federal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LihWvGGlLGpNQtNRv3TJfjf83xnCC2L7eaDTmfcLsn1KIFuLoagHN-721F-zMx_VEAxmXakXbe08X2A7xUj1Diw47r3p0esbOI3Zv7P66QmC0qZEkdDnPg5giOO1mAkAmbO3Y2pqOuxN87ftTdPgWi743ODV02l5BYeqz1azJYII7llCJXu6mLMBTA/s16000/g-perfil.png", +Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="InfobaeEnVivo" tvg-name="Infobae En Vivo" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Infobae.com_logo.png/960px-Infobae.com_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20150527160946" ageRating="+13" group-title="01 Capital Federal",Infobae En Vivo
+#EXTINF:-1 tvg-id="InfobaeEnVivo" tvg-name="Infobae En Vivo" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Infobae.com_logo.png/960px-Infobae.com_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20150527160946" ageRating="+13" group-title="01 Capital Federal",Infobae
 https://www.youtube.com/@infobae/live
 # FIN CAPITAL FEDERAL
 
@@ -275,7 +275,7 @@ https://jmp2.uk/plu-688892172928933015abe479.m3u8
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 #EXTINF:-1 channel-id="5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="523" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" ageRating="ATP" group-title="05 Infantil",El Reino Infantil
 https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Pantera Rosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/La_Pantera_Rosa_logo.png" ageRating="ATP" group-title="05 Infantil",La Pantera Rosa
+#EXTINF:-1 tvg-id="" tvg-name="La Pantera Rosa" tvg-logo="https://lascebrassalen.com/wp-content/uploads/elementor/thumbs/La-pantera-rosa-The-Pink-Panther-r3ac7vrhh8zdcte2cu8ptkv31gklgqc004jykfymxu.jpg" ageRating="ATP" group-title="05 Infantil",La Pantera Rosa
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="5ddd7cb2cbb9010009b4fe32" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" ageRating="ATP" group-title="05 Infantil",Nick Jr. Club
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
@@ -336,7 +336,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 https://cdn.40mediagroup.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blender" tvg-logo="https://video.blender.org/lazy-static/avatars/fae48696-478e-4c46-b720-9f3a1919eed0.png" ageRating="+7" group-title="06 Animación",Blender
 https://ireplay.tv/test/hd_blender.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://static.wikia.nocookie.net/simpsons/images/9/9b/SimpsonNeox1.jpg/revision/latest/scale-to-width-down/180?cb=20131210211540" ageRating="+7" group-title="06 Animación",Los Simpsons
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://www.formulatv.com/images/series/posters/000/33/dest_3.webp" ageRating="+7" group-title="06 Animación",Los Simpsons
 http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Animación",Neo Go Go Play Mix
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
@@ -368,8 +368,6 @@ https://lbgo.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist
 https://lbgo.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Animación",TALTALTV HD
 https://lbgo.bozztv.com/giatv/giatv-TALTALTVHD/TALTALTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" ageRating="+7" group-title="06 Animación",TALTALTV ANIME (City Pop) HD
-https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/35jpRw1G/Logo-Iunior-TV.png" ageRating="+7" group-title="06 Animación",Iunior TV HD
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" ageRating="+7" group-title="06 Animación",Loading HD [Brasil]
@@ -995,6 +993,8 @@ https://www.youtube.com/watch?v=JbFRzyqW22g
 https://www.youtube.com/watch?v=kAUVOHB3XYM
 #EXTINF:-1 tvg-id="StingrayClassica" tvg-name="Stingray Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stingray_Classica_Logo_10.2019.svg/3840px-Stingray_Classica_Logo_10.2019.svg.png" group-title="11 Música" ageRating="+7",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="11 Música" ageRating="+7",TALTALTV ANIME (City Pop) HD
+https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 # FIN MÚSICA
 
 # Deportes
@@ -1055,11 +1055,11 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="165" tvg-name="Caso Cerrado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest?cb=20200816205635&path-prefix=es" ageRating="+13" group-title="13 Lifestyle",Caso Cerrado
 https://www.youtube.com/watch?v=CG7UYN5OrQA
-#EXTINF:-1 tvg-id="CarasTV.ar" tvg-logo="https://caras.perfil.com/seccion/caras-tv" ageRating="+13" group-title="13 Lifestyle", CARAS TV
+#EXTINF:-1 tvg-id="CarasTV.ar" tvg-logo="https://images.produ.com/wp-content/uploads/2024/03/01152040/bigwp-CarasTV.jpg" ageRating="+13" group-title="13 Lifestyle", CARAS TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chacra TV" tvg-logo="https://i.ibb.co/R0h2k8S/Logo-Chacra-TV.png" ageRating="+13" group-title="13 Lifestyle",Chacra TV
+#EXTINF:-1 tvg-id="" tvg-name="Chacra TV" tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" ageRating="+13" group-title="13 Lifestyle",Chacra TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/chunklist_w2025152899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="https://i.ibb.co/LW0r5gJ/Logo-Hola-TV.png" ageRating="+13" group-title="13 Lifestyle",Hola TV
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/holatvtw.jpg" ageRating="+13" group-title="13 Lifestyle",Hola TV
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MiamiTV Fashion" tvg-logo="https://i.ibb.co/3mS0J6P/Logo-MiamiTV-Fashion.png" ageRating="+13" group-title="13 Lifestyle",MiamiTV Fashion
 https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
