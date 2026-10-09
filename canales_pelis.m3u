@@ -156,6 +156,8 @@ https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8?PlaylistM3UCL
 https://panctv.ddns.net/hls/ar/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" ageRating="+13" group-title="02 Interior" tvg-logo="https://cdn.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias [Santa Cruz]
 https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ABTVBariloche" tvg-name="ABTV Bariloche" tvg-logo="https://abtvbariloche.com.ar/wp-content/uploads/2024/11/Play-768x760.png" ageRating="+13" group-title="02 Interior",ABTV Bariloche
+https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 # FIN INTERIOR
 
 #Stream
@@ -172,13 +174,13 @@ https://www.twitch.tv/urbanaplayfm
 # Internacional
 #EXTINF:-1 tvg-id="" tvg-name="MAKINA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" ageRating="+13" group-title="04 Internacional",MAKINA TV
 https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
-#EXTINF:-1 tvg-id="CARACOL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Caracol_2000.png/revision/latest/scale-to-width-down/150?cb=20240305203519&path-prefix=es" ageRating="+13" group-title="04 Internacional",CARACOL [Colombia]
+#EXTINF:-1 tvg-id="CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png" ageRating="+13" group-title="04 Internacional",CARACOL [Colombia]
 https://www.youtube.com/watch?v=XE-HAP0KALo
-#EXTINF:-1 tvg-id="teleSUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/150?cb=20220719221045" ageRating="+13" group-title="04 Internacional",teleSUR  [Venezuela]
+#EXTINF:-1 tvg-id="teleSUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Telesur2014-2.png" ageRating="+13" group-title="04 Internacional",teleSUR  [Venezuela]
 https://www.youtube.com/watch?v=GKp8PFf6m4o
 #EXTINF:-1 tvg-id="N+ Univision" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Nmas_Univision.png" ageRating="+13" group-title="04 Internacional",N+ Univision [Latinoamerica]
 https://www.youtube.com/watch?v=V4C7VNfRATA
-#EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://www.rtve.es/css/rtveweb/img/logos/rtve.png" ageRating="+13" group-title="04 Internacional",RTVE Noticias [España]
+#EXTINF:-1 tvg-id="RTVE Noticias" tvg-logo="https://images.seeklogo.com/logo-png/12/2/rtve-logo-png_seeklogo-120557.png" ageRating="+13" group-title="04 Internacional",RTVE Noticias [España]
 https://www.youtube.com/watch?v=b4tE5aKhtlg
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/France24.png" ageRating="+13" group-title="04 Internacional",FRANCE 24 [Francia]
 https://www.youtube.com/watch?v=zTv0hCakAhg
@@ -194,17 +196,17 @@ https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-491
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/9qOOQy1cVCs84SE18ivIWpL8Mqc.png" ageRating="+13" group-title="04 Internacional",Distrito TV
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RT_Espa%C3%B1ol_2010.png/revision/latest/scale-to-width-down/119?cb=20191103091047" ageRating="+13" group-title="04 Internacional",RT en Español
+#EXTINF:-1 tvg-id="" tvg-name="RT en Español" tvg-logo="https://www.logotypes101.com/logos/682/2E09BEFCC149A40A3A474FBA738D8ACC/rt_news_channel_logo.png" ageRating="+13" group-title="04 Internacional",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 channel-id="ES2300004XW-es" tvg-id="ES2300004XW" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300004XW_20251118T015346SQUARE.png" ageRating="+13" group-title="04 Internacional",Al Jazeera
-https://jmp2.uk/stvp-ES2300004XW
+https://www.youtube.com/watch?v=gCNeDWCI0vo
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://i.imgur.com/j2O4ndp.png" ageRating="+13" group-title="04 Internacional",Telemundo
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" ageRating="+13" group-title="04 Internacional",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/NoticiasRCN2023.png" ageRating="+13" group-title="04 Internacional",RCN Noticias
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67e6979de1de65be88aeb39f/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F
-#EXTINF:-1 tvg-id="" tvg-name="La Popular TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandera_de_Chile.svg/200px-Bandera_de_Chile.svg.png" ageRating="+13" group-title="04 Internacional",La Popular TV Chile
+https://www.youtube.com/watch?v=nRIev0kbGQ4
+#EXTINF:-1 tvg-id="" tvg-name="La Popular TV Chile" tvg-logo="https://www.archytele.com/assets/logos/cl/la-popular-tv.webp" ageRating="+13" group-title="04 Internacional",La Popular TV Chile
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Meganoticias" tvg-name="Meganoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png" group-title="04 Internacional" ageRating="+13", Meganoticias [Chile]
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
@@ -212,7 +214,7 @@ https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="" tvg-name="CTV Honduras" tvg-logo="https://images.seeklogo.com/logo-png/33/1/canal-11-honduras-logo-png_seeklogo-332813.png" ageRating="+13" group-title="04 Internacional",CTV [Honduras]
 https://viewhn.com/ctvinternacional/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNNinternational-logo.png" ageRating="+13" group-title="04 Internacional",CNN International
+#EXTINF:-1 tvg-id="" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Cnn_Internacional_Logo.png" ageRating="+13" group-title="04 Internacional",CNN International
 http://45.134.141.161:2200/ARG/CNN_International/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVN (R.D.)" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" ageRating="+13" group-title="04 Internacional",TVN [R.Dominicana]
 https://5790d294af2dc.streamlock.net/tvn/tvn/chunklist_w974989499.m3u8
@@ -309,15 +311,13 @@ https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
 https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
 #EXTINF:-1 channel-id="69fca9f9b9c0f0d444f631ca" tvg-id="69fca9f9b9c0f0d444f631ca" tvg-name="Mr. Bean Animated" tvg-logo="https://images.pluto.tv/channels/69fca9f9b9c0f0d444f631ca/colorLogoPNG.png" ageRating="ATP" group-title="05 Infantil",Mr. Bean Animated
 https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/disney_junior.png" ageRating="ATP" group-title="05 Infantil",Disney Junior
-http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/28/2/nick-jr-logo-png_seeklogo-289344.png" ageRating="ATP" group-title="05 Infantil",Nick Jr.
 http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://img.favpng.com/23/9/6/el-chavo-del-ocho-logo-sitcom-television-show-comedy-png-favpng-0YNLgrnBWxhT9rHkbakqV7STg.jpg" ageRating="ATP" group-title="05 Infantil", El Chavo del 8
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/09/27/21/20/0231188.jpg" ageRating="ATP" group-title="05 Infantil", El Chavo del 8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" ageRating="ATP" group-title="05 Infantil",Teletubbies
 https://jmp2.uk/stvp-ES1600007AI
-#EXTINF:-1 tvg-id="beyblade-es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Grev.jpg/revision/latest/scale-to-width-down/250?cb=20220418143724&path-prefix=es" ageRating="ATP" group-title="05 Infantil",Beyblade
+#EXTINF:-1 tvg-id="beyblade-es" tvg-logo="https://beyblade-kingdom.com/cdn/shop/files/bey_kimgdom_rogo.png?v=1776223052&width=200" ageRating="ATP" group-title="05 Infantil",Beyblade
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8?ads_amagi_channel_id=953&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=action%2Canimation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=beyblade-es_es&ads_rtv_content_id=6421&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=1e3788d4-0d29-412c-966b-02c6e6815b03&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-id="MashaElOso" tvg-name="Masha y el Oso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Masha_y_el_oso_Logo_2023.png" ageRating="ATP" group-title="05 Infantil",Masha y el Oso
 https://www.youtube.com/channel/UCuSo4gcgxJRf4Bzu43wwVyg/live
