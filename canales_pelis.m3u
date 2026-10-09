@@ -169,6 +169,8 @@ https://www.twitch.tv/olgaenvivo
 https://www.twitch.tv/vorterixok
 #EXTINF:-1 tvg-id="UrbanaPlay" tvg-name="Urbana Play" tvg-logo="https://urbanaplayfm.com/wp-content/uploads/2023/09/logo-web-blanco.png" ageRating="+13" group-title="03 Stream",Urbana Play
 https://www.twitch.tv/urbanaplayfm
+#EXTINF:-1 tvg-id="CarajoStream.ar" tvg-name="Carajo" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-carajo.webp" group-title="03 Stream" ageRating="+13",Carajo
+https://www.youtube.com/@CarajoStream
 # FIN STREAM
 
 # Internacional
@@ -713,6 +715,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePremium" tvg-name="CINE PREMIUM" tvg-logo="https://pelisjuanita.com/tv/logos/cine-premium.png" group-title="07 Cine" ageRating="+16",CINE PREMIUM
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BayresTV.ar@SD" tvg-name="Bayres TV" tvg-logo="https://www.teleonline.tv/wp-content/uploads/2024/06/bayrestv-800x450.jpg" group-title="07 Cine" ageRating="+16",Bayres TV
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 # FIN Cine
 
 
@@ -1042,7 +1046,7 @@ https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV" ageRating="ATP" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="12 Deportes",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalShowsport.ar" tvg-name="Canal Showsport" tvg-logo="https://cdn.brandfetch.io/canalshowsport.com.ar/w/400/h/400/theme/dark/icon.png" ageRating="ATP" group-title="12 Deportes",Canal Showsport
+#EXTINF:-1 tvg-id="CanalShowsport.ar" tvg-name="Canal Showsport" tvg-logo="https://www.5900.tv/storage/thumbnails/qreRy4s0dQUQbHlqJpz5AHHClfe5kSBOftiXLKlT.jpg" ageRating="ATP" group-title="12 Deportes",Canal Showsport
 https://www.twitch.tv/canalshowsport
 #EXTINF:-1 tvg-id="NASCAR" tvg-name="Nascar" tvg-logo="https://i.ibb.co/200mKsrT/image.png" group-title="12 Deportes" ageRating="ATP",Nascar
 https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8
