@@ -179,8 +179,16 @@ https://www.youtube.com/@NeuraMedia
 https://www.youtube.com/@Bondi_liveok
 #EXTINF:-1 tvg-id="lacasa" tvg-name="La Casa" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-casa.jpg" group-title="03 Stream" ageRating="+13",La Casa
 https://www.youtube.com/@somoslacasa
-#EXTINF:-1 tvg-id="lacasa" tvg-name="Carnaval" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/563f2bde-bc16-4f13-88ad-b52aac4e986f-1781531746862.jpg" group-title="03 Stream" ageRating="+13",Carnaval
+#EXTINF:-1 tvg-id="Carnaval" tvg-name="Carnaval" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/563f2bde-bc16-4f13-88ad-b52aac4e986f-1781531746862.jpg" group-title="03 Stream" ageRating="+13",Carnaval
 https://www.youtube.com/@CarnavalStream
+#EXTINF:-1 tvg-id="telefe" tvg-name="Telefe stream" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/df32854b-a434-40e4-9942-cbe901dc6066-1779145560964.png" group-title="03 Stream" ageRating="+13",Telefe
+https://www.youtube.com/@Telefe
+#EXTINF:-1 tvg-id="telefe" tvg-name="telefe" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/72ee6c63-0a31-4c80-a528-55c6fe507933-1791470163919.png" group-title="03 Stream" ageRating="+13",LOVE
+https://www.youtube.com/@lovest_ok
+#EXTINF:-1 tvg-id="azz" tvg-name="azz" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/04c729ff-32d3-46d4-854a-c4080ef90556-1777391574123.jpg" group-title="03 Stream" ageRating="+13",AZZ
+https://www.youtube.com/@somosazz
+#EXTINF:-1 tvg-id="Picadotv" tvg-name="picadotv" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-picadotv.jpeg" group-title="03 Stream" ageRating="+13",Picado TV
+https://www.youtube.com/@picadotvok
 # FIN STREAM
 
 # Internacional
@@ -329,7 +337,7 @@ http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" ageRating="ATP" group-title="05 Infantil",Teletubbies
 https://jmp2.uk/stvp-ES1600007AI
-#EXTINF:-1 tvg-id="beyblade-es" tvg-logo="https://beyblade-kingdom.com/cdn/shop/files/bey_kimgdom_rogo.png?v=1776223052&width=200" ageRating="ATP" group-title="05 Infantil",Beyblade
+#EXTINF:-1 tvg-id="beyblade-es" tvg-logo="https://beyblade.com/assets/images/company-logo-6.webp" ageRating="ATP" group-title="05 Infantil",Beyblade
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8?ads_amagi_channel_id=953&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=action%2Canimation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=beyblade-es_es&ads_rtv_content_id=6421&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=1e3788d4-0d29-412c-966b-02c6e6815b03&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-id="MashaElOso" tvg-name="Masha y el Oso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Masha_y_el_oso_Logo_2023.png" ageRating="ATP" group-title="05 Infantil",Masha y el Oso
 https://www.youtube.com/channel/UCuSo4gcgxJRf4Bzu43wwVyg/live
