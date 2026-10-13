@@ -667,8 +667,6 @@ https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
 https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
 #EXTINF:-1 channel-id="66b3af1c3a4ad200081c7d03" tvg-id="66b3af1c3a4ad200081c7d03" tvg-name="Z Nation" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png" ageRating="+16" group-title="07 Cine",Z Nation
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
-#EXTINF:-1 channel-id="678029c654f43dad4b5c1ec0" tvg-id="678029c654f43dad4b5c1ec0" tvg-name="Bromas Gags - Just for Laughs" tvg-logo="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png" ageRating="+16" group-title="07 Cine",Bromas Gags - Just for Laughs
-https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Walking_Dead_logo.png" ageRating="+16" group-title="07 Cine",The Walking Dead en Español
 https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 #EXTINF:-1 channel-id="67e5941f0812459cb682d9c6" tvg-id="67e5941f0812459cb682d9c6" tvg-name="Relic Hunter" tvg-logo="https://images.pluto.tv/channels/67e5941f0812459cb682d9c6/colorLogoPNG.png" ageRating="+16" group-title="07 Cine",Relic Hunter
@@ -879,6 +877,8 @@ http://45.134.141.161:2200/ARG/Discovery_Channel_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2020/DiscoveryHHLogo.jpg" ageRating="+16" group-title="10 Documentales",Discovery Home & Health HD
 http://45.134.141.161:2200/ARG/Discovery_Home_Health_HD/index.m3u8
+#EXTINF:-1 channel-id="678029c654f43dad4b5c1ec0" tvg-id="678029c654f43dad4b5c1ec0" tvg-name="Bromas Gags - Just for Laughs" tvg-logo="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png" ageRating="+16" group-title="10 Documentales",Bromas Gags - Just for Laughs
+https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
 # FIN Documentales
 
 #Música
