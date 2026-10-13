@@ -169,8 +169,18 @@ https://www.twitch.tv/olgaenvivo
 https://www.twitch.tv/vorterixok
 #EXTINF:-1 tvg-id="UrbanaPlay" tvg-name="Urbana Play" tvg-logo="https://urbanaplayfm.com/wp-content/uploads/2023/09/logo-web-blanco.png" ageRating="+13" group-title="03 Stream",Urbana Play
 https://www.twitch.tv/urbanaplayfm
-#EXTINF:-1 tvg-id="CarajoStream.ar" tvg-name="Carajo" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-carajo.webp" group-title="03 Stream" ageRating="+13",Carajo
+#EXTINF:-1 tvg-id="Gelatina" tvg-name="Gelatina" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-gelatina.png" group-title="03 Stream" ageRating="+13",Gelatina
 https://www.youtube.com/@SomosGelatina
+#EXTINF:-1 tvg-id="Carajo" tvg-name="Carajo" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-carajo.webp" group-title="03 Stream" ageRating="+13",Carajo
+https://www.youtube.com/@CarajoStream
+#EXTINF:-1 tvg-id="Neura" tvg-name="Neura" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-neura.jpg" group-title="03 Stream" ageRating="+13",Neura
+https://www.youtube.com/@NeuraMedia
+#EXTINF:-1 tvg-id="bondi" tvg-name="Bondi" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-bondi.jpg" group-title="03 Stream" ageRating="+13",Bondi
+https://www.youtube.com/@Bondi_liveok
+#EXTINF:-1 tvg-id="lacasa" tvg-name="La Casa" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-casa.jpg" group-title="03 Stream" ageRating="+13",La Casa
+https://www.youtube.com/@somoslacasa
+#EXTINF:-1 tvg-id="lacasa" tvg-name="Carnaval" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/563f2bde-bc16-4f13-88ad-b52aac4e986f-1781531746862.jpg" group-title="03 Stream" ageRating="+13",Carnaval
+https://www.youtube.com/@CarnavalStream
 # FIN STREAM
 
 # Internacional
