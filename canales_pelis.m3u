@@ -189,6 +189,8 @@ https://www.youtube.com/@lovest_ok
 https://www.youtube.com/@somosazz
 #EXTINF:-1 tvg-id="Picadotv" tvg-name="picadotv" tvg-logo="https://dwtkmfahaokhtpuafhsc.supabase.co/storage/v1/object/public/channel-logos/logo-picadotv.jpeg" group-title="03 Stream" ageRating="+13",Picado TV
 https://www.youtube.com/@picadotvok
+#EXTINF:-1 tvg-id="AHORA PLAY" tvg-name="AHORA PLAY" tvg-logo="https://i0.wp.com/ahoraplay.ar/wp-content/uploads/2025/04/logo-ahoraplay-x2.png" group-title="03 Stream" ageRating="+13",AHORA PLAY
+https://www.youtube.com/@Ahora_Play
 # FIN STREAM
 
 # Internacional
@@ -881,6 +883,8 @@ http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Discovery_Home_Health_HD/index.m3u8
 #EXTINF:-1 channel-id="678029c654f43dad4b5c1ec0" tvg-id="678029c654f43dad4b5c1ec0" tvg-name="Bromas Gags - Just for Laughs" tvg-logo="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png" ageRating="+16" group-title="10 Documentales",Bromas Gags - Just for Laughs
 https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
+#EXTINF:-1 channel-id="Schmidt" tvg-id="Schmidt" tvg-name="Bromas Schmidt" tvg-logo="https://cdn.theorg.com/eb688a1a-5502-4c69-a80d-5a57b27146c1_thumb.jpg" ageRating="+16" group-title="10 Documentales",Schmidt Ocean Institute
+https://www.youtube.com/@SchmidtOcean
 # FIN Documentales
 
 #Música
