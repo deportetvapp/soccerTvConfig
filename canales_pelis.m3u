@@ -687,7 +687,7 @@ https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvivu.com/logos/mega-cine-tv-160.webp" ageRating="+16" group-title="07 Cine",Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/MyTime_Cine_Espa%C3%B1a_logo.png" ageRating="+16" group-title="07 Cine",MyTime Cine España
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" ageRating="+16" group-title="07 Cine",MyTime Cine España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Rakuten_TV_logo.png" ageRating="+16" group-title="07 Cine",Rakuten Acción
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
@@ -1180,6 +1180,11 @@ http://45.134.141.161:2200/ARG/E_Entertainment/index.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelxpSpain" tvg-name="Travelxp" ageRating="+13" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png" group-title="13 Lifestyle",Travelxp
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="123GO" tvg-name="123GO" ageRating="+13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/123_GO_LIVE.jpg/revision/latest/scale-to-width-down/150?cb=20210225092237" group-title="13 Lifestyle",123 GO!
+https://amg02051-soulpublishing-amg02051c18-xiaomi-international-372.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-xiaomiinternational/playlist.m3u8
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="5minutos" tvg-name="5minutos" ageRating="+13" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2022/03/5_minute_crafts_logo_freelogovectors.net_-400x400.png" group-title="13 Lifestyle",Ideas En 5 Minutos 
+https://amg02051-soulpublishing-amg02051c3-xiaomi-international-370.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-xiaomiinternational/playlist.m3u8
 # FIN Lifestyle
 
 # Religioso
