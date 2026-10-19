@@ -248,6 +248,8 @@ https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/chunklist_w160178
 https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/chunks.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV" tvg-name="PARAGUAY TV" tvg-logo="https://bestleague.world/img/pytv.png" group-title="04 Internacional" ageRating="+13", TV [Paraguay]
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa" tvg-name="Ecuavisa" tvg-logo="https://images.seeklogo.com/logo-png/21/2/ecuavisa-logo-png_seeklogo-219436.png" group-title="04 Internacional" ageRating="+13", Ecuavisa [Ecuador]
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8?ndvc=1&dpssid=r1us1647100769a4832fd7c83c6036b2159c185a1208df&sid=ba5t1l1xb23694813376ad697d342cbd
 # FIN Internacional
 
 # Infantil
