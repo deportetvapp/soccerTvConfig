@@ -597,11 +597,11 @@ https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 https://jmp2.uk/stvp-ES2600013H4
 #EXTINF:-1 tvg-id="" tvg-name="Planeta de Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Planeta_de_Cine_logo.png" ageRating="+16" group-title="07 Cine",Planeta de Cine
 https://jmp2.uk/stvp-ES2800001G7
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Comedia" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sony_one.png" ageRating="+16" group-title="07 Cine",Sony One Hits Comedia
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Comedia" tvg-logo="https://sonyone.com.ar/~sonyonecom/images/ba2bfa7dca8c0aa4adfea64b405d7a687db20c31.png" ageRating="+16" group-title="07 Cine",Sony One Hits Comedia
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Exitos" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sony_one.png" ageRating="+16" group-title="07 Cine",Sony One Exitos
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Exitos" tvg-logo="https://sonyone.com.ar/~sonyonecom/images/ba2bfa7dca8c0aa4adfea64b405d7a687db20c31.png" ageRating="+16" group-title="07 Cine",Sony One Exitos
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Accion" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sony_one.png" ageRating="+16" group-title="07 Cine",Sony One Hits Accion
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Accion" tvg-logo="https://sonyone.com.ar/~sonyonecom/images/ba2bfa7dca8c0aa4adfea64b405d7a687db20c31.png" ageRating="+16" group-title="07 Cine",Sony One Hits Accion
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Universal_Channel_logo.png" ageRating="+16" group-title="07 Cine",Universal
 http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
@@ -914,8 +914,16 @@ https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-logo="https://i.imgur.com/B7ILXMc.png" ageRating="+7" group-title="11 Música",NEW K-POP
 https://jmp2.uk/stvp-DE3900002R1
-#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/DANCE_TRIPPIN.png/revision/latest/scale-to-width-down/185?cb=20191025115710" ageRating="+7" group-title="11 Música",DanceTV House Floor
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://assets.teleon.tv/50/dance-tv-ee.png" ageRating="+7" group-title="11 Música",DanceTV House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://assets.teleon.tv/50/dance-tv-ee.png" ageRating="+7" group-title="11 Música",DanceTV Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://assets.teleon.tv/50/dance-tv-ee.png" ageRating="+7" group-title="11 Música",DanceTV Melodic Tech
+https://mbit1.worldcast.tv:9443/dancetelevisionnine/stream_0.m3u8
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://assets.teleon.tv/50/dance-tv-ee.png" ageRating="+7" group-title="11 Música",DanceTV Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/stream_1.m3u8
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://assets.teleon.tv/50/dance-tv-ee.png" ageRating="+7" group-title="11 Música",DanceTV Algorhythm
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/stream_1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro TV" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/retro_music.png" ageRating="+7" group-title="11 Música",Retro TV
 http://181.209.91.106:2222/Live/2747d400c336a4f75779b7ff29c02074/retro_540.m3u8
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
@@ -1021,6 +1029,9 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://woxtv.net/wp-content/uploads/2026/06/cropped-wox-3d-logo-cabecera-112x48.png" group-title="11 Música" ageRating="+7",Wox TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-logo="https://shanson.tv/favicon.ico" ageRating="+12" group-title="12 Música",Shanson TV [Rusia]
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+
 # FIN MÚSICA
 
 # Deportes
