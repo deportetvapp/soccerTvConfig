@@ -941,8 +941,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/playlist/rakutenAA-lightning-now70s-rakuten/playlist.m3u8
 #EXTINF:-1 channel-id="ES2500001F9-es" tvg-id="ES2500001F9" tvg-chno="4742" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png" ageRating="+7" group-title="11 Música",Cool Summer Channel
 https://jmp2.uk/stvp-ES2500001F9
-#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MTV_Classic_2014.svg/revision/latest/scale-to-width-down/200?cb=20191212174827" ageRating="+7" group-title="11 Música",MTV Classic
-http://206.212.244.63/117/index.m3u8
 #EXTINF:-1 channel-id="5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-name="Conciertos por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" ageRating="+7" group-title="11 Música",Conciertos por Stingray
 https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
 #EXTINF:-1 channel-id="5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" ageRating="+7" group-title="11 Música",Karaoke por Stingray
@@ -991,7 +989,7 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mediachoice.eu/uploads/7/7/2/9/77296599/articleimg01_orig.png" ageRating="+7" group-title="11 Música",XITE Rock y Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Nuclear_Blast_Records_logo_alt.png" ageRating="+7" group-title="11 Música",Metal 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Metal 24/7" tvg-logo="https://www.nuclearblast.com/cdn/shop/files/NB-Logo-Skull_lightsteel_300x.jpg" ageRating="+7" group-title="11 Música",Nuclear Blast [Metal]
 https://www.youtube.com/watch?v=3LWMFjRZQ6k
 #EXTINF:-1 tvg-id="" tvg-name="Synthwave Music" tvg-logo="https://i1.sndcdn.com/avatars-000294954504-wc1ryz-t200x200.jpg" ageRating="+7" group-title="11 Música",Synthwave Music
 https://www.youtube.com/watch?v=GcgXLSFKJNQ
@@ -1031,9 +1029,8 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://woxtv.net/wp-content/uploads/2026/06/cropped-wox-3d-logo-cabecera-112x48.png" group-title="11 Música" ageRating="+7",Wox TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-logo="https://shanson.tv/favicon.ico" ageRating="+12" group-title="12 Música",Shanson TV [Rusia]
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-logo="https://shanson.tv/favicon.ico" ageRating="+12" group-title="11 Música",Shanson TV [Rusia]
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
-
 # FIN MÚSICA
 
 # Deportes
