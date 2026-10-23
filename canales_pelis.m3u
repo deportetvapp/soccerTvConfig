@@ -349,6 +349,9 @@ https://www.youtube.com/channel/UCuSo4gcgxJRf4Bzu43wwVyg/live
 https://www.youtube.com/watch?v=jSjke_MB0G4
 #EXTINF:-1 tvg-id="PlimPlim" tvg-name="Plim Plim" tvg-logo="https://plimplim.tv/assets/images/logo.png" ageRating="ATP" group-title="05 Infantil",Plim Plim
 https://www.youtube.com/watch?v=iA-G81-JXYI
+#EXTINF:-1 tvg-id="dreiko" tvg-name="dreiko" tvg-logo="https://assets.teleon.tv/180_webp/dreiko-tv-cr.webp" ageRating="ATP" group-title="05 Infantil",Dreiko
+https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
+
 # FIN Infantil
 
 # Animación
@@ -1019,7 +1022,7 @@ https://www.youtube.com/watch?v=NGsjwNsXE0w
 https://www.youtube.com/watch?v=p6rZI6JFTHQ
 #EXTINF:-1 tvg-id="" tvg-name="Movie Music" tvg-logo="https://cdn-01.watch4.com/01/1762781812_stingray-movie-music_white_logo.png" ageRating="+7" group-title="11 Música",Movie Music 
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oasis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Oasis_-_1993p4.png/revision/latest/scale-to-width-down/200?cb=20250227081844" ageRating="+7" group-title="11 Música",Oasis
+#EXTINF:-1 tvg-id="" tvg-name="Oasis" tvg-logo="https://cdn.prod.website-files.com/61e1db1c178256e11be974b0/6892731cf8d55d76580f8393_5TrTsrNQ4eL6Fisn5-Gsbb9D9dv3WRnBnNJ_custom_logo-p-500.webp" ageRating="+7" group-title="11 Música",Oasis
 https://www.youtube.com/watch?v=JbFRzyqW22g
 #EXTINF:-1 tvg-id="" tvg-name="Workout Music" tvg-logo="https://cdn.fitimg.in/studios/studio1753850663-qd8t5te6hsiiflmt5zf5.jpg" ageRating="+7" group-title="11 Música",Workout Music
 https://www.youtube.com/watch?v=kAUVOHB3XYM
