@@ -735,6 +735,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" ageRating="+16" group-title="07 Cine",Xtrema Acción
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Popcorn Central TV" tvg-logo="https://popcorncentraltv.com/wp-content/themes/freetvapp/img/logo.png" ageRating="+16" group-title="07 Cine",Popcorn Central TV
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_1080.m3u8
 # FIN Cine
 
 
