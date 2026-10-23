@@ -503,8 +503,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_las_comedy_bg.jpg",ageRating="+16" group-title="07 Cine", Run Time Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" ageRating="+16" group-title="07 Cine" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png"  ageRating="+16" group-title="07 Cine",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJ620t8/logo-Telecl-sica.jpg" ageRating="+16" group-title="07 Cine",Teleclasica
@@ -513,10 +511,10 @@ https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vX9JVmf/Logo-TV-Retro-Palmares.png" ageRating="+16" group-title="07 Cine",TV Retro Palmares (Opcion 2)
 https://lbgo.bozztv.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Retro_Music_Television_2013.svg/revision/latest/scale-to-width-down/250?cb=20210627161000" ageRating="+16" group-title="07 Cine",Retro TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.teleon.tv/180/retro-tv-online-cr.png" ageRating="+16" group-title="07 Cine",Retro TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/retrotvcr2025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4n7qBPF9/Logo-Retrox-TV.png" ageRating="+16" group-title="07 Cine",Retrox TV HD
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8?lb_backend_hint=6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svt8brLk/Latino-Classic-TV.png" ageRating="+16" group-title="07 Cine",Latino Classic TV HD
 https://streams2.sofast.tv/ptnr-whaletv/title-LATINO-CLASSIC-CHANNEL-SPA_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5e69093d-f79b-4c2f-a291-b052cd4b2885/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png" ageRating="+16" group-title="07 Cine",TVS Retro HD
@@ -587,8 +585,6 @@ https://jmp2.uk/plu-619b9f16b8fee4000832d447.m3u8
 https://jmp2.uk/plu-6682bd9b8768aa0008f25be5.m3u8
 #EXTINF:-1 channel-id="5f1acba0d1f6340007db8843" tvg-id="5f1acba0d1f6340007db8843" tvg-chno="122" tvg-name="Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" ageRating="+16" group-title="07 Cine",Los nuevos detectives
 https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mega Cine TV HD" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/mega_cine_tv.png" ageRating="+16" group-title="07 Cine",Mega Cine TV HD
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Universal_Channel_logo.png" ageRating="+16" group-title="07 Cine",Universal TV HD
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aurora Media Films" tvg-logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png" ageRating="+16" group-title="07 Cine",Aurora Media Films
@@ -689,27 +685,18 @@ https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvivu.com/logos/mega-cine-tv-160.webp" ageRating="+16" group-title="07 Cine",Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvivu.com/logos/mega-cine-tv-160.webp" ageRating="+16" group-title="07 Cine",Mega Cine TV
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" ageRating="+16" group-title="07 Cine",MyTime Cine España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png" ageRating="+16" group-title="07 Cine",Rakuten Acción
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png" ageRating="+16" group-title="07 Cine",Rakuten Familia
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dWNxCqp.png" ageRating="+16" group-title="07 Cine",Rakuten Drama
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://store-assets.teespring.com/storefronts/grjngo/assets/logo.jpeg" ageRating="+16" group-title="07 Cine",Grjngo Cine del Oeste
 https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png" ageRating="+16" group-title="07 Cine",Rakuten Romance
 https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" ageRating="+16" group-title="07 Cine",Rakuten Suspenso
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/53/1/the-x-files-logo-png_seeklogo-535986.png" ageRating="+16" group-title="07 Cine",The X-Files
@@ -746,6 +733,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar@SD" tvg-name="Bayres TV" tvg-logo="https://www.teleonline.tv/wp-content/uploads/2024/06/bayrestv-800x450.jpg" group-title="07 Cine" ageRating="+16",Bayres TV
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" ageRating="+16" group-title="07 Cine",Xtrema Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 # FIN Cine
 
 
@@ -913,12 +902,10 @@ https://www.youtube.com/watch?v=1fz60gNnSdU
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=84c2dc3d2721606ee81c5209bac94797
 #EXTINF:-1 tvg-id="" tvg-name="ChamameTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3302-294x165-FFFFFF.jpg" ageRating="+7" group-title="11 Música",ChamameTV
 https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cumbia Mix" tvg-logo="https://i.ibb.co/4n7qBPF9/Logo-Cumbia-Mix.png" ageRating="+7" group-title="11 Música",Cumbia Mix
+#EXTINF:-1 tvg-id="" tvg-name="Cumbia Mix" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/d0686fd57_Logo-TV-C-3.png" ageRating="+7" group-title="11 Música",Cumbia Mix
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Música Top" tvg-logo="https://www.totalmedios.com/img/noticias/2023/07/64af41c402216.jpg" ageRating="+7" group-title="11 Música",Música Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" ageRating="+7" group-title="11 Música"  tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ? | CL
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?hls
 #EXTINF:-1 tvg-id="1719" tvg-name="Retroclub"ageRating="+7" group-title="11 Música" tvg-logo="https://cdn.m3u.cl/logo/1719_Retroclub.png", Retroclub | AR
 https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?hls
 #EXTINF:-1 tvg-id="Now80s.uk@Poland" tvg-logo="https://i.imgur.com/YyPnMeB.png" ageRating="+7" group-title="11 Música",NOW 80s
@@ -1032,6 +1019,8 @@ https://www.youtube.com/watch?v=kAUVOHB3XYM
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="11 Música" ageRating="+7",TALTALTV ANIME (City Pop) HD
 https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://woxtv.net/wp-content/uploads/2026/06/cropped-wox-3d-logo-cabecera-112x48.png" group-title="11 Música" ageRating="+7",Wox TV
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 # FIN MÚSICA
 
 # Deportes
