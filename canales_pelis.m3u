@@ -1088,6 +1088,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://jmp2.uk/stvp-ESBD2900001P9
 #EXTINF:-1 channel-id="ES3400002PY-es" tvg-id="ES3400002PY" tvg-chno="4671" tvg-name="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png" group-title="12 Deportes" ageRating="ATP",Surf Channel
 https://jmp2.uk/stvp-ES3400002PY
+#EXTINF:-1 channel-id="ES4300004JP-es" tvg-id="ES4300004JP" tvg-chno="4611" tvg-name="Rugby Challenge" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300004JP_20260120T031337SQUARE.png" group-title="12 Deportes" ageRating="ATP",,Rugby Challenge
+https://jmp2.uk/stvp-ES4300004JP
 # FIN Deportes
 
 # Lifestyle
