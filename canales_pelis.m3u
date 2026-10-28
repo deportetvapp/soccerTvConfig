@@ -333,8 +333,6 @@ https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
 https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
 #EXTINF:-1 channel-id="69fca9f9b9c0f0d444f631ca" tvg-id="69fca9f9b9c0f0d444f631ca" tvg-name="Mr. Bean Animated" tvg-logo="https://images.pluto.tv/channels/69fca9f9b9c0f0d444f631ca/colorLogoPNG.png" ageRating="ATP" group-title="05 Infantil",Mr. Bean Animated
 https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/28/2/nick-jr-logo-png_seeklogo-289344.png" ageRating="ATP" group-title="05 Infantil",Nick Jr.
-http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/09/27/21/20/0231188.jpg" ageRating="ATP" group-title="05 Infantil", El Chavo del 8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" ageRating="ATP" group-title="05 Infantil",Teletubbies
@@ -349,7 +347,8 @@ https://www.youtube.com/watch?v=jSjke_MB0G4
 https://www.youtube.com/watch?v=iA-G81-JXYI
 #EXTINF:-1 tvg-id="dreiko" tvg-name="dreiko" tvg-logo="https://assets.teleon.tv/180_webp/dreiko-tv-cr.webp" ageRating="ATP" group-title="05 Infantil",Dreiko
 https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 channel-id="ESBC4700001GR-es" tvg-id="ESBC4700001GR" tvg-chno="4779" tvg-name="duckTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png" group-title="05 Infantil", duckTV
+https://jmp2.uk/stvp-ESBC4700001GR
 # FIN Infantil
 
 # Animación
@@ -441,7 +440,7 @@ https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 #EXTINF:-1 channel-id="5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Tokusato
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
-#EXTINF:-1 channel-id="609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Comedy Central South Park
+#EXTINF:-1 channel-id="609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",South Park Comedy Central
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 #EXTINF:-1 channel-id="626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" ageRating="+7" group-title="06 Animación",Death Note
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
@@ -469,6 +468,10 @@ https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
 https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/sailor_moon.png" ageRating="+7" group-title="06 Animación",Sailor Moon [Ingles]
 https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
+#EXTINF:-1 channel-id="ES300029LP-es" tvg-id="ES300029LP" tvg-chno="4190" tvg-name="Anime Visión" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" ageRating="+7" group-title="06 Animación",Anime Visión
+https://jmp2.uk/stvp-ES300029LP
+#EXTINF:-1 channel-id="ES3000288I-es" tvg-id="ES3000288I" tvg-chno="4191" tvg-name="Anime Visión Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" ageRating="+7" group-title="06 Animación",Anime Visión Classics
+https://jmp2.uk/stvp-ES3000288I
 # FIN Animación
 
 
@@ -738,6 +741,8 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Popcorn Central TV" tvg-logo="https://popcorncentraltv.com/wp-content/themes/freetvapp/img/logo.png" ageRating="+16" group-title="07 Cine",Popcorn Central TV
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_1080.m3u8
+#EXTINF:-1 channel-id="ESBC1700004PX-es" tvg-id="ESBC1700004PX" tvg-chno="4868" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png" ageRating="+16" group-title="07 Cine",Trailers
+https://jmp2.uk/stvp-ESBC1700004PX
 # FIN Cine
 
 
@@ -782,6 +787,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 https://amg00735-amg00735c15-rakuten-es-8598.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-rakutenes/playlist.m3u8?ads_amagi_channel_id=1051&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=romance%2Csoap-opera&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_channel_name=wedotv-amor_es&ads_rtv_content_id=7049&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=8adc4087-1c6b-4cfa-9c85-b219168d9451&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 channel-id="casados" tvg-id="" tvg-name="casados" tvg-logo="https://television.com.ar/wp-content/uploads/2024/04/Casados-con-hijos.png"  ageRating="+13" group-title="09 Novelas",Casados con Hijos
 https://www.youtube.com/@CasadosConHijosArg
+#EXTINF:-1 channel-id="ES3600001Y7-es" tvg-id="ES3600001Y7" tvg-chno="4267" tvg-name="Rebelde" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260622T063730SQUARE.png" group-title="09 Novelas", Rebelde
+https://jmp2.uk/stvp-ES3600001Y7
 # FIN Novelas
 
 
@@ -874,7 +881,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel_id=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=crime&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=16&ads_rtv_channel_name=crimenes-reales_es&ads_rtv_content_id=6735&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3dfdde39-8e38-472b-9a76-90beb86b0edb&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-id="crimenes-reales" tvg-logo="https://cdn-01.watch4.com/01/1742400187_time2rlx_white_logo.png" ageRating="+16" group-title="10 Documentales",Time2Rlx
 https://amg00735-amg00735c51-wedotv-eu-7283.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvtime2rlx-wedotveu/cb7d3e167b716f8792ca3f6cd9f944a9d10e6589013ad6316fac5e9574974b5381bba096e748ef685abd40a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05846c66cbfb10248854c14b1d30090cb19b887ca5898519273a4179ac3f08e820dd0819963b456b33258157a78cc8534c2cc59b48cc96b3fcd707e1e44108cce92ee5e0395534c4efdc0dead698d67a4fb2d957427a85ad70093358e64be1fe9e241adf7c0b521542ba8b62f0b55a8f1b49ae86f7cf271fea6e6c965329af919222ca309df263b2ae29ea175d59961fcde2295a4561339cd9437f3f7d494eab4825e8a17c0ad80f0d6d5c5027e60a76fe0f34cc92ed876bcc71d202e352ecfa974b4485dc3521822b58f4bc01b5b98d68e91d60d3ab000513aba34b15f74577fe8ef08c80c59e3acab2f0d5dd4189db126148d47eeb12ff4e8faf7013ebbcace4cfe20cda00fdcf911964c354b07a0c8e13e2f4350dff46f013c788c10aa838aa940000ee8f8daed807d0c4768471c5cd0a2d07995d894725d0e97076f205500079a01e16cdd2b4014619c4d84e25a22c54e0a05d28a13111a609fc3b4c1a0d3c94fba3693ecf52b20365c2cec6656683e9de6c309bd0b4a787b4f89403110ea49091498e0a38fae8960ca9373b978334411a2de230158023d3370d8fa0ef051ed9411bce1ba7fc4fd821f40c571e3361990d4d37bebafe6e34a1c9bbe58096df4827491934c0db6649eee4c89932ffeec5875dd5aaf932fad05e1/134/1920x1080_6046040/index.m3u8
-
 #EXTINF:-1 channel-id="678029c654f43dad4b5c1ec0" tvg-id="678029c654f43dad4b5c1ec0" tvg-name="Bromas Gags - Just for Laughs" tvg-logo="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png" ageRating="+16" group-title="10 Documentales",Bromas Gags - Just for Laughs
 https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
 #EXTINF:-1 channel-id="Schmidt" tvg-id="Schmidt" tvg-name="Bromas Schmidt" tvg-logo="https://cdn.theorg.com/eb688a1a-5502-4c69-a80d-5a57b27146c1_thumb.jpg" ageRating="+16" group-title="10 Documentales",Schmidt Ocean Institute
@@ -890,7 +896,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://www.youtube.com/watch?v=5D2zfHjZYqA
 #EXTINF:-1 tvg-id="" tvg-name="Quiero" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s1600/q.png" ageRating="+7" group-title="11 Música",Quiero
 https://www.youtube.com/watch?v=vGNglKWqwcQ
-#EXTINF:-1 tvg-id="" tvg-name="Metallica TV" tvg-logo="https://i.ytimg.com/vi/1fz60gNnSdU/maxresdefault.jpg" ageRating="+7" group-title="11 Música",Metallica TV
+#EXTINF:-1 tvg-id="" tvg-name="Metallica TV" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/Logo-Metallica-500x313.png" ageRating="+7" group-title="11 Música",Metallica TV
 https://www.youtube.com/watch?v=1fz60gNnSdU
 #EXTINF:-1 tvg-id="" tvg-name="Tierra Mía" tvg-logo="https://www.5900.tv/storage/thumbnails/RJqZv1cxmng1hrA9lfPhSlnXKTMTZ40TdQmBdW64.jpg" ageRating="+7" group-title="11 Música",Tierra Mía
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=84c2dc3d2721606ee81c5209bac94797
@@ -1023,6 +1029,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-logo="https://shanson.tv/favicon.ico" ageRating="+12" group-title="11 Música",Shanson TV [Rusia]
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+#EXTINF:-1 channel-id="ESBD2300004Y7-es" tvg-id="ESBD2300004Y7" tvg-chno="4740" tvg-name="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="11 Música",Sol Música
+https://jmp2.uk/stvp-ESBD2300004Y7
 # FIN MÚSICA
 
 # Deportes
@@ -1054,7 +1062,7 @@ https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-e
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/FIGHTBOX.png" ageRating="ATP" group-title="12 Deportes",FightBox
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
-#EXTINF:-1 tvg-id="FightTV" tvg-name="Fight TV" tvg-logo="" ageRating="ATP" group-title="12 Deportes",Fight TV
+#EXTINF:-1 tvg-id="FightTV" tvg-name="Fight TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300086YL_20260623T014859SQUARE.png" ageRating="ATP" group-title="12 Deportes",Fight TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/e1d4b21b-4136-48f5-9fc1-86a6a8b13d58/fill/none/top/none/80/334/187/webp/image?brand=dazn" ageRating="ATP" group-title="12 Deportes",Inter TV
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
@@ -1076,6 +1084,10 @@ https://www.twitch.tv/canalshowsport
 https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://www.5900.tv/storage/thumbnails/tSYbSav5SwjUys1bApHhKP58pCm11bqlrJDyS0Ak.jpg" group-title="12 Deportes" ageRating="ATP",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 channel-id="ESBD2900001P9-es" tvg-id="ESBD2900001P9" tvg-chno="4673" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png" group-title="12 Deportes" ageRating="ATP",World Poker Tour
+https://jmp2.uk/stvp-ESBD2900001P9
+#EXTINF:-1 channel-id="ES3400002PY-es" tvg-id="ES3400002PY" tvg-chno="4671" tvg-name="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png" group-title="12 Deportes" ageRating="ATP",Surf Channel
+https://jmp2.uk/stvp-ES3400002PY
 # FIN Deportes
 
 # Lifestyle
@@ -1185,6 +1197,8 @@ https://amg02051-soulpublishing-amg02051c18-xiaomi-international-372.playouts.no
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="5minutos" tvg-name="5minutos" ageRating="+13" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2022/03/5_minute_crafts_logo_freelogovectors.net_-400x400.png" group-title="13 Lifestyle",Ideas En 5 Minutos 
 https://amg02051-soulpublishing-amg02051c3-xiaomi-international-370.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 channel-id="ESAJ4500023Y5-es" tvg-id="ESAJ4500023Y5" tvg-chno="4162" tvg-name="People Are Awesome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20241022T050750SQUARE.png" group-title="13 Lifestyle", People Are Awesome
+https://jmp2.uk/stvp-ESAJ4500023Y5
 # FIN Lifestyle
 
 # Religioso
@@ -1214,7 +1228,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio La Red" tvg-logo="https://images.seeklogo.com/logo-png/26/1/radio-la-red-logo-png_seeklogo-269187.png" ageRating="+7" group-title="15 Radio",Radio La Red
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="Radio Mitre" tvg-logo="https://images.seeklogo.com/logo-png/9/1/mitre-radio-logo-png_seeklogo-93520.png" ageRating="+7" group-title="15 Radio",Radio Mitre
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mitre" tvg-logo="https://images.seeklogo.com/logo-png/9/1/mitre-radio-logo-png_seeklogo-93520.png" ageRating="+7" group-title="15Radio",Radio Mitre
 https://radio.eduneu.eu:8040/radio.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Radio Rivadavia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Radio_Rivadavia_1998.png/revision/latest/scale-to-width-down/78?cb=20200926142740&path-prefix=es" ageRating="+7" group-title="15 Radio",Radio Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
