@@ -360,8 +360,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208729/playlist.m3u8
 https://cdn.40mediagroup.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blender" tvg-logo="https://video.blender.org/lazy-static/avatars/fae48696-478e-4c46-b720-9f3a1919eed0.png" ageRating="+7" group-title="06 Animación",Blender
 https://ireplay.tv/test/hd_blender.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://www.formulatv.com/images/series/posters/000/33/dest_3.webp" ageRating="+7" group-title="06 Animación",Los Simpsons
-https://www.twitch.tv/zuakyo_odeia59
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" ageRating="+7" group-title="06 Animación",Neo Go Go Play Mix
 https://183.giatvcdn.com/giatv/giatv-neogogoplaymix/neogogoplaymix/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Energeek Retro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWtzMZ5iGFJ06CDVzUhV74cfa1vkJQJU8lovqVjrPrznNvXZfiq6K1fRfv4kRii9JiiOoEg5XGQqykV2JfPf1kgRkzvxpwCmsv1dLgOLhGC4nsoY5hESV4D5TCiFQUvaSRkDyD-BbO95wIGA8xoXOfgSyxqlXfkthocbthe4CFQ6dJxTOORy9H_6FjBLo/s1600/energeekrlg.png" ageRating="+7" group-title="06 Animación", Energeek Retro
@@ -462,6 +460,8 @@ https://stream.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/totorohd/chunks.m3u8
 #EXTINF:-1 tvg-id="AnimeXTV" tvg-name="Anime XTV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrJ7F3_R_52vRnB6kgltnjWLeueqEDV5AVbQ9Y9E-EfD7soCzMPrcAsyTnbfWXEI_GH0i-F6GGik7fWLv-Jk0RBE3XAtDM4QOLf8oY209RbIkfTmsan2-Vn5h-SdCWIgpsIQSLyJv_tGm96SiBr3pGdYcf4GM0o0RCsCxHp65UY3CHJBufvZFdUPaMvGM/s1600/anxtvlivelg.png" ageRating="+7" group-title="06 Animación",Anime XTV HD
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhX3Z5Sy1DiOhdEAhegIVQbtN-ozHz20qTqjzmlbVKjmo4W_zVZr7XWeWPfN1bbtqRRYmdpj1ZJ_K-0tMOPDSqAoaODc9akEcxKkrkj04c0C-6Gx-4ypP76bc32DhNvXgtFx1uFoOybd46juIAonisaq0DtvH0Z6CkwoeT6i4lGfMb8ZKIlHdsWdt_yOM/s1600/simpslg.png" ageRating="+7" group-title="06 Animación",Los Simpsons
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8
 # FIN Animación
 
 
