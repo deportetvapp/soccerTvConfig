@@ -351,6 +351,8 @@ https://jmp2.uk/stvp-ESBC4700001GR
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/ToonCast_logo.png", ageRating="ATP" group-title="05 Infantil",Tooncast
 http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAW Patrol" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" ageRating="ATP" group-title="05 Infantil",PAW Patrol
+https://jmp2.uk/plu-6495c6ad115d060008bf6b52.m3u8
 # FIN Infantil
 
 # Animación
@@ -701,6 +703,12 @@ https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_1080.m3u8
 https://jmp2.uk/stvp-ESBC1700004PX
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" ageRating="+16" group-title="07 Cine",Rakuten TV Comedy Movies
 https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/6aa7f3a7af45eb18db141eee/colorLogoPNG.png" ageRating="+16" group-title="07 Cine",Medium
+https://jmp2.uk/plu-6aa7f3a7af45eb18db141eee.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG.png" ageRating="ATP" group-title="07 Cine",Cine Navidad
+https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Series de Aventura y Fantasía" tvg-logo="https://images.pluto.tv/channels/65662c1357fe4a00086b3eb1/colorLogoPNG.png" ageRating="+13" group-title="07 Cine",Series de Aventura y Fantasía
+https://jmp2.uk/plu-65662c1357fe4a00086b3eb1.m3u8
 # FIN Cine
 
 
@@ -747,6 +755,8 @@ https://amg00735-amg00735c15-rakuten-es-8598.playouts.now.amagi.tv/playlist/amg0
 https://www.youtube.com/@CasadosConHijosArg
 #EXTINF:-1 channel-id="ES3600001Y7-es" tvg-id="ES3600001Y7" tvg-chno="4267" tvg-name="Rebelde" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260622T063730SQUARE.png" ageRating="+13" group-title="09 Novelas", Rebelde
 https://jmp2.uk/stvp-ES3600001Y7
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera" tvg-logo="https://images.pluto.tv/channels/6aa960fa5532ad57085cf7e4/colorLogoPNG.png" ageRating="+13" group-title="09 Novelas",La Niñera
+https://jmp2.uk/plu-6aa960fa5532ad57085cf7e4.m3u8
 # FIN Novelas
 
 
