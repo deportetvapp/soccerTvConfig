@@ -1,1 +1,17 @@
--
+[
+  {
+    "Id": "sintel-prueba",
+    "Titulo": "Sintel",
+    "Descripcion": "Corto animado de Blender Foundation: una joven viaja por un mundo de dragones buscando a su amigo.",
+    "Categoria": "Animación",
+    "Anio": 2010,
+    "DuracionMinutos": 1,
+    "Tipo": "Pelicula",
+    "Poster": "https://media.w3.org/2010/05/sintel/poster.png",
+    "Backdrop": "https://media.w3.org/2010/05/sintel/poster.png",
+    "StreamUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+    "Destacado": true,
+    "Orden": 1,
+    "Temporadas": []
+  }
+]
