@@ -13,5 +13,50 @@
     "Destacado": true,
     "Orden": 1,
     "Temporadas": []
+  },
+  {
+    "Id": "bunny-prueba",
+    "Titulo": "Big Buck Bunny",
+    "Descripcion": "Un conejo gigante se enfrenta a tres roedores bromistas. Corto animado de código abierto de Blender Foundation.",
+    "Categoria": "Animación",
+    "Anio": 2008,
+    "DuracionMinutos": 1,
+    "Tipo": "Pelicula",
+    "Poster": "https://media.w3.org/2010/05/bunny/poster.png",
+    "Backdrop": "https://media.w3.org/2010/05/bunny/poster.png",
+    "StreamUrl": "https://media.w3.org/2010/05/bunny/trailer.mp4",
+    "Destacado": true,
+    "Orden": 2,
+    "Temporadas": []
+  },
+  {
+    "Id": "flower-prueba",
+    "Titulo": "Flower",
+    "Descripcion": "Video de prueba CC0 del proyecto MDN: una flor moviéndose con el viento.",
+    "Categoria": "Naturaleza",
+    "Anio": 2020,
+    "DuracionMinutos": 1,
+    "Tipo": "Pelicula",
+    "Poster": "https://media.w3.org/2010/05/video/poster.png",
+    "Backdrop": "https://media.w3.org/2010/05/video/poster.png",
+    "StreamUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "Destacado": false,
+    "Orden": 3,
+    "Temporadas": []
+  },
+  {
+    "Id": "jellyfish-prueba",
+    "Titulo": "Jellyfish",
+    "Descripcion": "Clip en alta definición de medusas en movimiento, para probar la grilla en pantallas grandes.",
+    "Categoria": "Naturaleza",
+    "Anio": 2018,
+    "DuracionMinutos": 1,
+    "Tipo": "Pelicula",
+    "Poster": "https://media.w3.org/2010/05/video/poster.png",
+    "Backdrop": "https://media.w3.org/2010/05/video/poster.png",
+    "StreamUrl": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/720/Jellyfish_720_10s_1MB.mp4",
+    "Destacado": false,
+    "Orden": 4,
+    "Temporadas": []
   }
 ]
