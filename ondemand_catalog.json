@@ -58,5 +58,35 @@
     "Destacado": false,
     "Orden": 4,
     "Temporadas": []
+  }, 
+  {
+    "Id": "dos-punos-contra-rio",
+    "Titulo": "Dos Puños Contra Río",
+    "Descripcion": "Dos hermanos brasileños millonarios contratan a dos dobles idénticos para sustituirlos ante una peligrosa amenaza. Comedia protagonizada por Bud Spencer y Terence Hill.",
+    "Categoria": "Comedia",
+    "Anio": 1984,
+    "DuracionMinutos": 99,
+    "Tipo": "Pelicula",
+    "Poster": "https://i.ytimg.com/vi/RKOxbf03sgE/hqdefault.jpg",
+    "Backdrop": "https://i.ytimg.com/vi/RKOxbf03sgE/maxresdefault.jpg",
+    "StreamUrl": "https://www.youtube.com/watch?v=RKOxbf03sgE",
+    "Destacado": false,
+    "Orden": 3,
+    "Temporadas": []
+  },
+  {
+    "Id": "la-contrafigura",
+    "Titulo": "La Contrafigura",
+    "Descripcion": "Un arquitecto dominado por los celos queda atrapado en una trama de relaciones clandestinas, engaños y asesinatos durante unas vacaciones en África.",
+    "Categoria": "Thriller",
+    "Anio": 1971,
+    "DuracionMinutos": 94,
+    "Tipo": "Pelicula",
+    "Poster": "https://i.ytimg.com/vi/JouJBvZVFDA/hqdefault.jpg",
+    "Backdrop": "https://i.ytimg.com/vi/JouJBvZVFDA/maxresdefault.jpg",
+    "StreamUrl": "https://www.youtube.com/watch?v=JouJBvZVFDA",
+    "Destacado": false,
+    "Orden": 4,
+    "Temporadas": []
   }
 ]
