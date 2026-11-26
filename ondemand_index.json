@@ -1,0 +1,29 @@
+{
+  "Version": 1,
+  "Total": 299,
+  "Categorias": ["Acción", "Drama"],
+  "Paginas": [
+    {
+      "Url": "https://deportetvapp.github.io/soccerTvConfig/ondemand_catalog.json",
+      "Cantidad": 150
+    },
+    {
+      "Url": "https://deportetvapp.github.io/soccerTvConfig/ondemand_catalog_p2.json",
+      "Cantidad": 149
+    }
+  ],
+  "IdPagina": {
+    "zona-de-choque": 0,
+    "otro-id": 1
+  },
+  "Busqueda": [
+    {
+      "Id": "zona-de-choque",
+      "Titulo": "Zona de choque",
+      "Categoria": "Acción",
+      "Tipo": "Pelicula",
+      "Anio": 2021,
+      "Capitulos": []
+    }
+  ]
+}

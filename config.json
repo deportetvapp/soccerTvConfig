@@ -4,6 +4,7 @@
   "m3uUrl": "https://raw.githubusercontent.com/deportetvapp/soccerTvConfig/main/canales_pelis.m3u",
   "premiumCategories": ["Cine"] ,
   "catalogoOnDemandUrl": "https://deportetvapp.github.io/soccerTvConfig/ondemand_catalog.json",
+  "catalogoOnDemandIndiceUrl": "https://deportetvapp.github.io/soccerTvConfig/ondemand_index.json",
   "logoHtml": "<span>BEBORRO TV</span>",
 "podcastShows": [
   {"nombre":"El Bazar de los Tormentos","feedUrl":"https://www.ivoox.com/podcast-bazar-de-los-tormentos_fg_f11695343_filtro_1.xml","categoria":"Terror","maxEpisodios":4},
