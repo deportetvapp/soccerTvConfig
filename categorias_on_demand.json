@@ -1,0 +1,16 @@
+{
+  "categoriasValidas": [
+    "Acción",
+    "Drama",
+    "Thriller",
+    "Terror",
+    "Ciencia ficción",
+    "Crimen",
+    "Aventura",
+    "Comedia",
+    "Bélico",
+    "Suspenso",
+    "Anime"
+  ],
+  "valorSinClasificar": "Sin clasificar"
+}
