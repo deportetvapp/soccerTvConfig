@@ -10,7 +10,10 @@
     "Comedia",
     "Bélico",
     "Suspenso",
-    "Anime"
+    "Anime",
+    "Infantil",
+    "Western",
+    "Clasicos"
   ],
   "valorSinClasificar": "Sin clasificar"
 }
