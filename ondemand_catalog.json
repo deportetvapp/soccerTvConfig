@@ -23596,5 +23596,108 @@
         "Temporadas":  [
 
                        ]
+    },
+    {
+        "Id":  "taken-abducidos",
+        "Titulo":  "TAKEN: Abducidos",
+        "Descripcion":  "Serie de ciencia ficción. Temporada 1 con 10 capítulos.",
+        "Categoria":  "Ciencia ficción",
+        "rated":  "+12",
+        "Anio":  null,
+        "DuracionMinutos":  0,
+        "Tipo":  "Serie",
+        "Poster":  "https://i.ytimg.com/vi/GzPP1rBHSj4/hqdefault.jpg",
+        "Backdrop":  "https://i.ytimg.com/vi/GzPP1rBHSj4/hqdefault.jpg",
+        "StreamUrl":  "",
+        "Destacado":  false,
+        "Orden":  1312,
+        "Temporadas":  [
+                           {
+                               "Numero":  1,
+                               "Titulo":  "Temporada 1",
+                               "Capitulos":  [
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e1",
+                                                     "Numero":  1,
+                                                     "Titulo":  "Más allá del cielo",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=GzPP1rBHSj4"
+                                                 },
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e2",
+                                                     "Numero":  2,
+                                                     "Titulo":  "Jacob y Jesse",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=5In_Dhg37c0"
+                                                 },
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e3",
+                                                     "Numero":  3,
+                                                     "Titulo":  "Grandes esperanzas",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=u2an2ImdLgg"
+                                                 },
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e4",
+                                                     "Numero":  4,
+                                                     "Titulo":  "Pruebas Ácidas",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=au3Wj5fVZ-I"
+                                                 },
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e5",
+                                                     "Numero":  5,
+                                                     "Titulo":  "Mantenimiento",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=wMDfqqs4nbk"
+                                                 },
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e6",
+                                                     "Numero":  6,
+                                                     "Titulo":  "Charlie y Lisa",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=HxNCfTbR0Sk"
+                                                 },
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e7",
+                                                     "Numero":  7,
+                                                     "Titulo":  "Ecuación de Dios",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=BfFklED4cZ4"
+                                                 },
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e8",
+                                                     "Numero":  8,
+                                                     "Titulo":  "Caída Parabólica",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=xf-gKciAfNg"
+                                                 },
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e9",
+                                                     "Numero":  9,
+                                                     "Titulo":  "John",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=ulJmUOIXgBc"
+                                                 },
+                                                 {
+                                                     "Id":  "taken-abducidos-t1e10",
+                                                     "Numero":  10,
+                                                     "Titulo":  "FINAL",
+                                                     "Descripcion":  "",
+                                                     "DuracionMinutos":  0,
+                                                     "StreamUrl":  "https://www.youtube.com/watch?v=p1kZTn61rZo"
+                                                 }
+                                             ]
+                           }
+                       ]
     }
 ]
